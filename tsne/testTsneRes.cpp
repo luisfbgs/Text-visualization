@@ -48,8 +48,8 @@ void solve(vector<string> &text, vector<vector<double>> tVec, vector<int> ids, b
 			printf("%d %s\n", i, text[dists[i].second].c_str());
 		}
 		printf("\n");
-		printf("New positions of full vectors 20 closest\n");
 		if(showpos){
+			printf("New positions of full vectors 20 closest\n");
 			for(int i = 1; i < n; i++){
 				if(pos[{idx, dists[i].second}] < 20){
 					printf("OldPos %d NewPos %d\n", pos[{idx, dists[i].second}], i);
