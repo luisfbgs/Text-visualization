@@ -2,6 +2,16 @@
 
 using namespace std;
 
+map<pair<int, int>, int> pos;
+
+double norm(vector<double> v){
+	double ret = 0;
+	for(double x : v){
+		ret += x * x;
+	}
+	return sqrt(ret);
+}
+
 double cdist(vector<double> a, vector<double> b){
 	double dot = 0, magA = 0, magB = 0;
 	for(int i = 0; i < (int)a.size(); i++){
@@ -12,25 +22,58 @@ double cdist(vector<double> a, vector<double> b){
 	return dot / sqrt(magA) / sqrt(magB);
 }
 
-void solve(vector<string> &text, vector<vector<double>> tVec, vector<int> ids){
+double edist(vector<double> a, vector<double> b){
+	double dist = 0;
+	for(int i = 0; i < (int)a.size(); i++){
+		dist += (a[i] - b[i]) * (a[i] - b[i]);
+	}
+	return -dist;
+}
+
+void solve(vector<string> &text, vector<vector<double>> tVec, vector<int> ids, bool showpos = false){
 	int n = tVec.size();
 	for(int idx : ids){
 		cerr << idx << endl;
 		vector<pair<double, int>> dists;
 		for(int i = 0; i < n; i++){
-			dists.push_back({cdist(tVec[idx], tVec[i]), i});
+			dists.push_back({edist(tVec[idx], tVec[i]), i});
 		}
 		sort(dists.rbegin(), dists.rend());
 		printf("Compared text %d : %s\n", idx, text[idx].c_str());
-		printf("Closest 10 --------------------------\n");
-		for(int i = 0; i < 10; i++){
-			printf("%lf %s\n", dists[i].first, text[dists[i].second].c_str());
+		printf("Closest 20 --------------------------\n");
+		for(int i = 1; i <= 20; i++){
+			if(showpos){
+				printf("OldPos %d | ", pos[{idx, dists[i].second}]);
+			}
+			printf("%d %s\n", i, text[dists[i].second].c_str());
 		}
 		printf("\n");
+		printf("New positions of full vectors 20 closest\n");
+		if(showpos){
+			for(int i = 1; i < n; i++){
+				if(pos[{idx, dists[i].second}] < 20){
+					printf("OldPos %d NewPos %d\n", pos[{idx, dists[i].second}], i);
+				}
+			}
+		}
+		for(int i = 0; i < n; i++){
+			pos[{idx, dists[i].second}] = i;
+		}
+		if(showpos){
+			printf("\n");
+		}
 	}
 }
 
-// Function that runs the Barnes-Hut implementation of t-SNE
+void normalize(vector<vector<double>> &vecs){
+	for(auto &v : vecs){
+		double vnorm = norm(v);
+		for(auto &x : v){
+			x /= vnorm;
+		}
+	}
+}
+
 int main() {
 	FILE *fl;
 	fl = fopen("result.dat", "rb");
@@ -62,6 +105,7 @@ int main() {
 			fread(&tVec2d[i][j], sizeof(double), 1, fl);
 		}
 	}
+	normalize(tVec);
 	fclose(fl);
 	cerr << "FIM" << endl;
 	vector<int> ids;
@@ -73,6 +117,6 @@ int main() {
 	solve(text, tVec, ids);
 	printf("2D vectors\n");
 	printf("------------------\n\n");
-	solve(text, tVec2d, ids);
+	solve(text, tVec2d, ids, true);
 	return 0;
 }

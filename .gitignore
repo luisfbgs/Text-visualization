@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# BHTSNE
+tsne/bhtsne/*
+*.dat
