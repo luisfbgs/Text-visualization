@@ -1,5 +1,6 @@
 Partial results bhtsne
 Perplexity: 30 Theta: 0.2 Iterations: 4000 300D to 2D
+Score 254.71845533
 
 Full vectors
 ------------------
@@ -1346,4 +1347,3 @@ OldPos 14 NewPos 13830
 OldPos 3 NewPos 16856
 OldPos 10 NewPos 21521
 OldPos 5 NewPos 26627
-

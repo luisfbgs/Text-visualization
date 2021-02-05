@@ -74,9 +74,37 @@ void normalize(vector<vector<double>> &vecs){
 	}
 }
 
+double evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
+	double ans = 0;
+	int n = (int)Hvecs.size();
+	vector<int> pos(n);
+	for(int i = 0; i < n; i++){
+		cerr << i << endl;
+		vector<pair<double, int>> dists;
+		for(int j = 0; j < n; j++){
+			dists.push_back({edist(Hvecs[i], Hvecs[j]), j});
+		}
+		sort(dists.rbegin(), dists.rend());
+		for(int j = 0; j < n; j++){
+			pos[dists[j].second] = j;
+		}
+
+		dists.clear();
+		for(int j = 0; j < n; j++){
+			dists.push_back({edist(Lvecs[i], Lvecs[j]), j});
+		}
+		sort(dists.rbegin(), dists.rend());
+		assert(dists[0].second == i);
+		for(int j = 1; j < 20; j++){
+			ans += log2(abs(j - pos[dists[i].second])+1);
+		}
+	}
+	return ans / n;
+}
+
 int main() {
 	FILE *fl;
-	fl = fopen("result.dat", "rb");
+	fl = fopen("resultNormT02P20.dat", "rb");
 	int n, d;
 	fread(&n, sizeof(int), 1, fl); // n ~ #vectors
 	fread(&d, sizeof(int), 1, fl); // d ~ #dimensions
@@ -112,6 +140,7 @@ int main() {
 	for(int i = 0; i < 20; i++){
 		ids.push_back(rand()%n);
 	}
+	printf("Score %.15lf\n\n", evaluate(tVec, tVec2d));
 	printf("Full vectors\n");
 	printf("------------------\n\n");
 	solve(text, tVec, ids);
