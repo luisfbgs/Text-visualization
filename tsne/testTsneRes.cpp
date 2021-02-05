@@ -95,47 +95,42 @@ double evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
 		}
 		sort(dists.rbegin(), dists.rend());
 		assert(dists[0].second == i);
-		for(int j = 1; j < 20; j++){
+		for(int j = 1; j <= 20; j++){
 			ans += log2(abs(j - pos[dists[i].second])+1);
 		}
 	}
-	return ans / n;
+	return ans / n / 20;
 }
 
-int main() {
-	FILE *fl;
-	fl = fopen("resultNormT02P20.dat", "rb");
+int main(int argc, char *argv[ ]) {
+	FILE *lowD, *highD;
+	lowD = fopen(argv[1], "rb");
+	highD = fopen(argv[2], "r");
 	int n, d;
-	fread(&n, sizeof(int), 1, fl); // n ~ #vectors
-	fread(&d, sizeof(int), 1, fl); // d ~ #dimensions
+	fread(&n, sizeof(int), 1, lowD); // n ~ #vectors
+	fread(&d, sizeof(int), 1, lowD); // d ~ #dimensions
 	cerr << n << " " << d << endl;
 	char s[100005];
 	vector<string> text;
 	vector<vector<double>> tVec2d, tVec;
-	while(scanf("%[^\n]", s) != EOF && tVec.size() < n){
-		getchar();
+	while(fscanf(highD, " %[^\n]", s) != EOF && tVec.size() < n){
 		text.push_back(s);
 		tVec.push_back(vector<double>(300));
 		tVec2d.push_back(vector<double>(2));
 		for(int j = 0; j < 300; j++){
 			double x;
-			scanf("%lf", &x);
+			fscanf(highD, "%lf", &x);
 			tVec.back()[j] = x;
 		}
-		scanf("%[^\n]", s);
-		getchar();
 		if(tVec.size() % 1000 == 0){
 			cerr << tVec.size() << endl;
 		}
 	}
 	for(int i = 0; i < n; i++){
-		for(int j = 0; j < d; j++){
-			fread(&tVec2d[i][j], sizeof(double), 1, fl);
-		}
+		fread(&tVec2d[i][0], sizeof(double), d, lowD);
 	}
 	normalize(tVec);
-	fclose(fl);
-	cerr << "FIM" << endl;
+	fclose(lowD);
 	vector<int> ids;
 	for(int i = 0; i < 20; i++){
 		ids.push_back(rand()%n);

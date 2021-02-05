@@ -19,44 +19,42 @@ void normalize(vector<vector<double>> &vecs){
 	}
 }
 
-int main(){
-	FILE *fl;
-	fl = fopen("data.dat", "wb");
+int main(int argc, char *argv[]){
+	FILE *lowD, *highD;
+	lowD = fopen(argv[1], "wb");
+	highD = fopen(argv[2], "r");
 	char s[100005];
 	vector<vector<double>> tVec;
-	while(scanf("%[^\n]", s) != EOF && tVec.size() < 3e4){
-		getchar();
+	while(fscanf(highD, " %[^\n]", s) != EOF && tVec.size() < 3e4){
 		tVec.push_back(vector<double>(300));
 		for(int j = 0; j < 300; j++){
 			double x;
-			scanf("%lf", &x);
+			fscanf(highD, "%lf", &x);
 			tVec.back()[j] = x;
 		}
-		scanf("%[^\n]", s);
-		getchar();
 		if(tVec.size() % 1000 == 0){
 			cerr << tVec.size() << endl;
 		}
 	}
 	normalize(tVec);
 	int aux = tVec.size();
-	fwrite(&aux, sizeof(int), 1, fl); // N ~ #vectors
+	fwrite(&aux, sizeof(int), 1, lowD); // N ~ #vectors
 	aux = 300;
-	fwrite(&aux, sizeof(int), 1, fl); // D ~ #dimensions 
+	fwrite(&aux, sizeof(int), 1, lowD); // D ~ #dimensions 
 	double daux = .5;
-	fwrite(&daux, sizeof(double), 1, fl); // theta
+	fwrite(&daux, sizeof(double), 1, lowD); // theta
 	daux = 30;
-	fwrite(&daux, sizeof(double), 1, fl); // perplexity
+	fwrite(&daux, sizeof(double), 1, lowD); // perplexity
 	aux = 2;
-	fwrite(&aux, sizeof(int), 1, fl); // no_dims
+	fwrite(&aux, sizeof(int), 1, lowD); // no_dims
 	aux = 2000;
-	fwrite(&aux, sizeof(int), 1, fl); // max_iter
+	fwrite(&aux, sizeof(int), 1, lowD); // max_iter
 	// NxD matrix
 	for(auto x : tVec){
 		for(auto y : x){
-			fwrite(&y, sizeof(double), 1, fl);
+			fwrite(&y, sizeof(double), 1, lowD);
 		}
 	}
-	fclose(fl);
+	fclose(lowD);
 	return 0;
 }
