@@ -78,23 +78,20 @@ double evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
 	double ans = 0;
 	int n = (int)Hvecs.size();
 	vector<int> pos(n);
+	vector<pair<double, int>> dists(n);
 	for(int i = 0; i < n; i++){
-		cerr << i << endl;
-		vector<pair<double, int>> dists;
 		for(int j = 0; j < n; j++){
-			dists.push_back({edist(Hvecs[i], Hvecs[j]), j});
+			dists[j] = {edist(Hvecs[i], Hvecs[j]), j};
 		}
 		sort(dists.rbegin(), dists.rend());
 		for(int j = 0; j < n; j++){
 			pos[dists[j].second] = j;
 		}
 
-		dists.clear();
 		for(int j = 0; j < n; j++){
-			dists.push_back({edist(Lvecs[i], Lvecs[j]), j});
+			dists[j] = {edist(Lvecs[i], Lvecs[j]), j};
 		}
 		sort(dists.rbegin(), dists.rend());
-		assert(dists[0].second == i);
 		for(int j = 1; j <= 20; j++){
 			ans += log2(abs(j - pos[dists[i].second])+1);
 		}
@@ -102,7 +99,7 @@ double evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
 	return ans / n / 20;
 }
 
-int main(int argc, char *argv[ ]) {
+int main(int argc, char *argv[]) {
 	FILE *lowD, *highD;
 	lowD = fopen(argv[1], "rb");
 	highD = fopen(argv[2], "r");
