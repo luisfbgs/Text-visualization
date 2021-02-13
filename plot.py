@@ -2,6 +2,7 @@ import sys
 import struct
 from scipy import spatial
 import matplotlib.pyplot as plt
+import matplotlib as mpl
 import numpy as np
 import random
 
@@ -31,9 +32,12 @@ with open(sys.argv[2]) as file:
 		hdata[i] = list(map(np.float64, file.readline().split()))
 
 
-pos = np.zeros(n)
-for i in range(10):
-	idx = random.randrange(n)
+pos = np.zeros(n, dtype=int)
+v = [28911, 17433, 6623, 12561, 2188, 18979, 28025, 24626, 19355, 26429, 10540, 463, 8864, 18813, 24266, 5434, 20839, 23186, 6501, 2299]
+colors = []
+for i in range(30000):
+	colors.append(rgb_heatmap(0, 30000, i));
+for idx in v:
 	dists = []
 	for i in range(n):
 		dists.append((spatial.distance.cosine(hdata[idx], hdata[i]), i))
@@ -53,7 +57,11 @@ for i in range(10):
 	for i in ids:
 		x.append(ldata[i][0])
 		y.append(ldata[i][1])
-		c.append(rgb_heatmap(0, 30000, pos[i]))
+		c.append(colors[pos[i]])
 	plt.scatter(x[1:], y[1:], c=c[1:])
+	cmap = mpl.colors.ListedColormap(colors)
+	norm = mpl.colors.Normalize(vmin=0, vmax=30000)
+	plt.colorbar(mpl.cm.ScalarMappable(norm=norm, cmap=cmap))
 	plt.plot(x[0], y[0], 's', c=[0, 0, 0])
-	plt.show()
+	plt.savefig(str(idx) + '.png')
+	plt.clf()
