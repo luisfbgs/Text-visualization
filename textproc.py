@@ -49,7 +49,7 @@ df['text2'] = df['text2'].apply(removeQuot)
 df['text2'] = df['text2'].apply(lambda s : s.strip('][').split(', '))
 tagged_data = [TaggedDocument(words=_d, tags=[str(i)]) for i, _d in enumerate(df['text2'])]
 cores = multiprocessing.cpu_count()
-model_dbow = Doc2Vec(vector_size=300, dm=1, min_count=2, epochs=300, window=2)
+model_dbow = Doc2Vec(vector_size=300, dm=0, min_count=2, epochs=300, window=2)
 model_dbow.build_vocab(tagged_data)
 model_dbow.train(tagged_data, total_examples=model_dbow.corpus_count, epochs=model_dbow.epochs)
 #fname = 'my_doc2vecBw_model120it'

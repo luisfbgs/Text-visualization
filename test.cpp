@@ -45,6 +45,7 @@ void solve(vector<string> &text, vector<vector<double>> tVec, vector<int> ids, b
 			if(showpos){
 				printf("OldPos %d | ", pos[{idx, dists[i].second}]);
 			}
+			cerr << "i " << i << " d "<< dists[i].second << endl;
 			printf("%d %s\n", i, text[dists[i].second].c_str());
 		}
 		printf("\n");
@@ -75,7 +76,7 @@ void normalize(vector<vector<double>> &vecs){
 }
 
 double evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
-	double ans = 0;
+	long long ans = 0;
 	int n = (int)Hvecs.size();
 	vector<int> pos(n);
 	vector<pair<double, int>> dists(n);
@@ -93,28 +94,35 @@ double evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
 		}
 		sort(dists.rbegin(), dists.rend());
 		for(int j = 1; j <= 20; j++){
-			ans += log2(abs(j - pos[dists[i].second])+1);
+			ans += abs(j - pos[dists[i].second]);
 		}
 	}
-	return ans / n / 20;
+	return ans / 20.0 / n;
 }
 
 int main(int argc, char *argv[]) {
-	FILE *lowD, *highD;
+	FILE *lowD, *highD, *highDText;
 	lowD = fopen(argv[1], "rb");
-	highD = fopen(argv[2], "r");
+	highD = fopen(argv[2], "rb");
+	highDText = fopen(argv[3], "r");
 	int n, d;
 	fread(&n, sizeof(int), 1, lowD); // n ~ #vectors
 	fread(&d, sizeof(int), 1, lowD); // d ~ #dimensions
+	
+	int nh, dh;
+	fread(&nh, sizeof(int), 1, highD); // n ~ #vectors
+	fread(&dh, sizeof(int), 1, highD); // d ~ #dimensions
 	cerr << n << " " << d << endl;
+	cerr << nh << " " << dh << endl;
+	
 	char s[100005];
 	vector<string> text;
-	vector<vector<double>> tVec2d, tVec;
-	while(fscanf(highD, " %[^\n]", s) != EOF && tVec.size() < n){
+	vector<vector<double>> tVecld, tVec;
+	while(fscanf(highDText, " %[^\n]", s) != EOF && tVec.size() < n){
 		text.push_back(s);
-		tVec.push_back(vector<double>(300));
-		tVec2d.push_back(vector<double>(2));
-		for(int j = 0; j < 300; j++){
+		tVec.push_back(vector<double>(dh));
+		tVecld.push_back(vector<double>(d));
+		for(int j = 0; j < dh; j++){
 			double x;
 			fscanf(highD, "%lf", &x);
 			tVec.back()[j] = x;
@@ -124,20 +132,22 @@ int main(int argc, char *argv[]) {
 		}
 	}
 	for(int i = 0; i < n; i++){
-		fread(&tVec2d[i][0], sizeof(double), d, lowD);
+		fread(&tVecld[i][0], sizeof(double), d, lowD);
 	}
 	normalize(tVec);
 	fclose(lowD);
-	vector<int> ids;
-	for(int i = 0; i < 20; i++){
+	fclose(highD);
+	vector<int> ids = {5933, 7743, 16262, 1529, 29700, 5508, 29752, 17256, 7256, 8119, 9711, 8351, 12843, 8705, 24108, 26393, 18330, 27366, 22169, 27932};
+/*	for(int i = 0; i < 20; i++){
 		ids.push_back(rand()%n);
 	}
-	printf("Score %.15lf\n\n", evaluate(tVec, tVec2d));
+	*/
+	printf("Score %.15lf\n\n", evaluate(tVec, tVecld));
 	printf("Full vectors\n");
 	printf("------------------\n\n");
 	solve(text, tVec, ids);
 	printf("2D vectors\n");
 	printf("------------------\n\n");
-	solve(text, tVec2d, ids, true);
+	solve(text, tVecld, ids, true);
 	return 0;
 }

@@ -18,25 +18,29 @@ def rgb_heatmap(minimum, maximum, value):
     return r, g, b
 
 with open(sys.argv[1], 'rb') as file:
-	n = int.from_bytes(file.read(4), byteorder='little', signed=True)
-	d = int.from_bytes(file.read(4), byteorder='little', signed=True)
+	n = struct.unpack('<i', file.read(4))[0]
+	d = struct.unpack('<i', file.read(4))[0]
 	ldata = np.zeros((n, d), dtype=np.float64)
 	for i in range(n):
 		for j in range(d):
 			ldata[i][j] = struct.unpack('d', file.read(8))[0]
 
-hdata = np.zeros((n, 300), dtype=np.float64)
-with open(sys.argv[2]) as file:
+with open(sys.argv[2], 'rb') as file:
+	nh = struct.unpack('<i', file.read(4))[0]
+	dh = struct.unpack('<i', file.read(4))[0]
+	hdata = np.zeros((n, dh), dtype=np.float64)
 	for i in range(n):
-		file.readline()
-		hdata[i] = list(map(np.float64, file.readline().split()))
+		for j in range(dh):
+			hdata[i][j] = struct.unpack('d', file.read(8))[0]
 
 
 pos = np.zeros(n, dtype=int)
 v = [28911, 17433, 6623, 12561, 2188, 18979, 28025, 24626, 19355, 26429, 10540, 463, 8864, 18813, 24266, 5434, 20839, 23186, 6501, 2299]
 colors = []
-for i in range(30000):
-	colors.append(rgb_heatmap(0, 30000, i));
+for i in range(n):
+	colors.append(rgb_heatmap(0, n, i));
+cmap = mpl.colors.ListedColormap(colors)
+norm = mpl.colors.Normalize(vmin=0, vmax=n)
 for idx in v:
 	dists = []
 	for i in range(n):
@@ -59,9 +63,7 @@ for idx in v:
 		y.append(ldata[i][1])
 		c.append(colors[pos[i]])
 	plt.scatter(x[1:], y[1:], c=c[1:])
-	cmap = mpl.colors.ListedColormap(colors)
-	norm = mpl.colors.Normalize(vmin=0, vmax=30000)
 	plt.colorbar(mpl.cm.ScalarMappable(norm=norm, cmap=cmap))
 	plt.plot(x[0], y[0], 's', c=[0, 0, 0])
-	plt.savefig(str(idx) + '.png')
+	plt.savefig(sys.argv[3] + '/' + str(idx) + '.png')
 	plt.clf()
