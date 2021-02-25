@@ -75,10 +75,12 @@ void normalize(vector<vector<double>> &vecs){
 	}
 }
 
-double evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
-	long long ans = 0;
+void evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
+	const int szs = 10, step = 5;
+	double sum[szs * step+1];
+	double np[szs * step+1];
 	int n = (int)Hvecs.size();
-	vector<int> pos(n);
+	vector<int> pos(n), rpos(n);
 	vector<pair<double, int>> dists(n);
 	for(int i = 0; i < n; i++){
 		for(int j = 0; j < n; j++){
@@ -87,17 +89,33 @@ double evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
 		sort(dists.rbegin(), dists.rend());
 		for(int j = 0; j < n; j++){
 			pos[dists[j].second] = j;
+			rpos[j] = dists[j].second;
 		}
 
 		for(int j = 0; j < n; j++){
 			dists[j] = {edist(Lvecs[i], Lvecs[j]), j};
 		}
 		sort(dists.rbegin(), dists.rend());
-		for(int j = 1; j <= 20; j++){
-			ans += abs(j - pos[dists[i].second]);
+		long long atsum = 0;
+		set<int> idxs;
+		for(int j = 1; j <= step * szs; j++){
+			atsum += abs(j - pos[dists[j].second]);
+			idxs.insert(dists[j].second);
+			idxs.insert(rpos[j]);
+			if(!(j%step)){
+				sum[j] += 1. * atsum / j;
+				np[j] += (2. * j -  idxs.size()) / j;
+			}
 		}
 	}
-	return ans / 20.0 / n;
+	printf("K - Mean K closest position differences\n");
+	for(int i = 1; i <= szs; i++){
+		printf("%d - %lf\n", i*step, sum[i*step] / n);
+	}
+	printf("K - Neighborhood preservation\n");
+	for(int i = 1; i <= szs; i++){
+		printf("%d - %lf\n", i*step, np[i*step] / n);
+	}
 }
 
 int main(int argc, char *argv[]) {
@@ -108,11 +126,11 @@ int main(int argc, char *argv[]) {
 	int n, d;
 	fread(&n, sizeof(int), 1, lowD); // n ~ #vectors
 	fread(&d, sizeof(int), 1, lowD); // d ~ #dimensions
+	cerr << n << " " << d << endl;
 	
 	int nh, dh;
 	fread(&nh, sizeof(int), 1, highD); // n ~ #vectors
 	fread(&dh, sizeof(int), 1, highD); // d ~ #dimensions
-	cerr << n << " " << d << endl;
 	cerr << nh << " " << dh << endl;
 	
 	char s[100005];
@@ -124,7 +142,7 @@ int main(int argc, char *argv[]) {
 		tVecld.push_back(vector<double>(d));
 		for(int j = 0; j < dh; j++){
 			double x;
-			fscanf(highD, "%lf", &x);
+			fread(&x, sizeof(double), 1, highD);
 			tVec.back()[j] = x;
 		}
 		if(tVec.size() % 1000 == 0){
@@ -142,7 +160,7 @@ int main(int argc, char *argv[]) {
 		ids.push_back(rand()%n);
 	}
 	*/
-	printf("Score %.15lf\n\n", evaluate(tVec, tVecld));
+	evaluate(tVec, tVecld);
 	printf("Full vectors\n");
 	printf("------------------\n\n");
 	solve(text, tVec, ids);

@@ -53,7 +53,7 @@ for idx in v:
 		dists.append((np.linalg.norm(ldata[idx]-ldata[i]), i))
 	dists.sort()
 	ids = []
-	for i in range(200):
+	for i in range(1000):
 		ids.append(dists[i][1])
 	x = []
 	y = []
@@ -62,7 +62,7 @@ for idx in v:
 		x.append(ldata[i][0])
 		y.append(ldata[i][1])
 		c.append(colors[pos[i]])
-	plt.scatter(x[1:], y[1:], c=c[1:])
+	plt.scatter(x[1:], y[1:], marker='x', c=c[1:])
 	plt.colorbar(mpl.cm.ScalarMappable(norm=norm, cmap=cmap))
 	plt.plot(x[0], y[0], 's', c=[0, 0, 0])
 	plt.savefig(sys.argv[3] + '/' + str(idx) + '.png')
