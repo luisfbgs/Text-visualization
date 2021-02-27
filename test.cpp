@@ -156,10 +156,8 @@ int main(int argc, char *argv[]) {
 	fclose(lowD);
 	fclose(highD);
 	vector<int> ids = {5933, 7743, 16262, 1529, 29700, 5508, 29752, 17256, 7256, 8119, 9711, 8351, 12843, 8705, 24108, 26393, 18330, 27366, 22169, 27932};
-/*	for(int i = 0; i < 20; i++){
-		ids.push_back(rand()%n);
-	}
-	*/
+	for(int &i : ids)
+		i = i%n;
 	evaluate(tVec, tVecld);
 	printf("Full vectors\n");
 	printf("------------------\n\n");
