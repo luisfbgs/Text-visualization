@@ -2,6 +2,8 @@
 
 using namespace std;
 
+FILE *colors, *colors2;
+bool labeled;
 map<pair<int, int>, int> pos;
 
 double norm(vector<double> v){
@@ -106,11 +108,15 @@ void evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
 				sum[j] += 1. * atsum / j;
 				np[j] += (2. * j -  idxs.size()) / j;
 			}
+			if(j == 20){
+				double aux = atsum / n / 20.;
+				fwrite(&aux, sizeof(double), 1, colors);
+			}
 		}
 	}
 	printf("K - Mean K closest position differences\n");
 	for(int i = 1; i <= szs; i++){
-		printf("%d - %lf\n", i*step, sum[i*step] / n);
+		printf("%d - %lf - %lf\n", i*step, sum[i*step] / n, 1 - sum[i*step] / n / n);
 	}
 	printf("K - Neighborhood preservation\n");
 	for(int i = 1; i <= szs; i++){
@@ -123,6 +129,10 @@ int main(int argc, char *argv[]) {
 	lowD = fopen(argv[1], "rb");
 	highD = fopen(argv[2], "rb");
 	highDText = fopen(argv[3], "r");
+	labeled = stoi(argv[4]);
+	colors = fopen(argv[5], "wb");
+	if(labeled)
+		colors2 = fopen(argv[6], "wb");
 	int n, d;
 	fread(&n, sizeof(int), 1, lowD); // n ~ #vectors
 	fread(&d, sizeof(int), 1, lowD); // d ~ #dimensions
@@ -151,6 +161,18 @@ int main(int argc, char *argv[]) {
 	}
 	for(int i = 0; i < n; i++){
 		fread(&tVecld[i][0], sizeof(double), d, lowD);
+	}
+	if(labeled){
+		vector<int> c(n);
+		fread(&c[0], sizeof(int), n, highD);
+		int maxi = -1e9;
+		for(int i : c){
+			maxi = max(maxi, i);
+		}
+		for(int i : c){
+			double aux = 1. * i / maxi;
+			fwrite(&aux, sizeof(double), 1, colors2);
+		}
 	}
 	normalize(tVec);
 	fclose(lowD);

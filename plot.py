@@ -35,35 +35,24 @@ with open(sys.argv[2], 'rb') as file:
 
 
 pos = np.zeros(n, dtype=int)
-v = [28911, 17433, 6623, 12561, 2188, 18979, 28025, 24626, 19355, 26429, 10540, 463, 8864, 18813, 24266, 5434, 20839, 23186, 6501, 2299]
 colors = []
 for i in range(n):
 	colors.append(rgb_heatmap(0, n, i));
 cmap = mpl.colors.ListedColormap(colors)
 norm = mpl.colors.Normalize(vmin=0, vmax=n)
-for idx in v:
-	dists = []
+
+colors = []
+with open(sys.argv[4], 'rb') as file:
 	for i in range(n):
-		dists.append((spatial.distance.cosine(hdata[idx], hdata[i]), i))
-	dists.sort()
-	for i in range(n):
-		pos[dists[i][1]] = i
-	dists = []
-	for i in range(n):
-		dists.append((np.linalg.norm(ldata[idx]-ldata[i]), i))
-	dists.sort()
-	ids = []
-	for i in range(1000):
-		ids.append(dists[i][1])
-	x = []
-	y = []
-	c = []
-	for i in ids:
-		x.append(ldata[i][0])
-		y.append(ldata[i][1])
-		c.append(colors[pos[i]])
-	plt.scatter(x[1:], y[1:], marker='x', c=c[1:])
-	plt.colorbar(mpl.cm.ScalarMappable(norm=norm, cmap=cmap))
-	plt.plot(x[0], y[0], 's', c=[0, 0, 0])
-	plt.savefig(sys.argv[3] + '/' + str(idx) + '.png')
-	plt.clf()
+		aux = struct.unpack('<d', file.read(8))[0]
+		colors.append(rgb_heatmap(0, 1, aux))
+x = []
+y = []
+for i in range(n):
+	x.append(ldata[i][0])
+	y.append(ldata[i][1])
+plt.figure(figsize=(18.0, 15.0))
+plt.scatter(x, y, c=colors, s=10, alpha=0.7)
+plt.colorbar(mpl.cm.ScalarMappable(norm=norm, cmap=cmap))
+plt.savefig(sys.argv[3], dpi=200)
+plt.clf()
