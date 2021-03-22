@@ -1,0 +1,6 @@
+Name
+Mrpd-5 Mrpd-10 Mrpd-15 Mrpd-20 Mrpd-25 Mrpd-30 Mrpd-35 Mrpd-40 Mrpd-45 Mrpd-50 
+NbPres-5 NbPres-10 NbPres-15 NbPres-20 NbPres-25 NbPres-30 NbPres-35 NbPres-40 NbPres-45 NbPres-50 
+
+*NbPres = neighborhood preservation
+*Mrpd = mean relative position difference
