@@ -59,11 +59,12 @@ for num in nums:
     #fname = 'my_doc2vecBw_model120it'
     #model_dbow = Doc2Vec.save(fname)
     vecs = vec_text(model_dbow, tagged_data, df['text'])
-    fout = open('labeled_doc2vec_' + str(num) + 'BwVecs.bin', 'wb')
+    fout = open('20newsgroups_doc2vec_' + str(num) + 'BwVecs.bin', 'wb')
     fout.write(struct.pack('<i', len(vecs)))
     fout.write(struct.pack('<i', num))
     for i in range(len(vecs)):
-        print('df['text'][i].encode(sys.stdout.encoding', errors='replace')
+        if num == 300:
+            print(df['text'][i].encode(sys.stdout.encoding, errors='replace'))
         for j in vecs[i][0]:
             fout.write(struct.pack('<d', j))
     for i in range(len(vecs)):
