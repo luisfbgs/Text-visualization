@@ -2,7 +2,7 @@
 
 using namespace std;
 
-FILE *colors, *colors2;
+FILE *colors, *colors2, *out;
 bool labeled;
 map<pair<int, int>, int> pos;
 
@@ -41,21 +41,21 @@ void solve(vector<string> &text, vector<vector<double>> tVec, vector<int> ids, b
 			dists.push_back({edist(tVec[idx], tVec[i]), i});
 		}
 		sort(dists.rbegin(), dists.rend());
-		printf("Compared text %d : %s\n", idx, text[idx].c_str());
-		printf("Closest 20 --------------------------\n");
+		fprintf(out, "Compared text %d : %s\n", idx, text[idx].c_str());
+		fprintf(out, "Closest 20 --------------------------\n");
 		for(int i = 1; i <= 20; i++){
 			if(showpos){
-				printf("OldPos %d | ", pos[{idx, dists[i].second}]);
+				fprintf(out, "OldPos %d | ", pos[{idx, dists[i].second}]);
 			}
 			cerr << "i " << i << " d "<< dists[i].second << endl;
-			printf("%d %s\n", i, text[dists[i].second].c_str());
+			fprintf(out, "%d %s\n", i, text[dists[i].second].c_str());
 		}
-		printf("\n");
+		fprintf(out, "\n");
 		if(showpos){
-			printf("New positions of full vectors 20 closest\n");
+			fprintf(out, "New positions of full vectors 20 closest\n");
 			for(int i = 1; i < n; i++){
 				if(pos[{idx, dists[i].second}] < 20){
-					printf("OldPos %d NewPos %d\n", pos[{idx, dists[i].second}], i);
+					fprintf(out, "OldPos %d NewPos %d\n", pos[{idx, dists[i].second}], i);
 				}
 			}
 		}
@@ -63,7 +63,7 @@ void solve(vector<string> &text, vector<vector<double>> tVec, vector<int> ids, b
 			pos[{idx, dists[i].second}] = i;
 		}
 		if(showpos){
-			printf("\n");
+			fprintf(out, "\n");
 		}
 	}
 }
@@ -114,25 +114,27 @@ void evaluate(vector<vector<double>> &Hvecs, vector<vector<double>> &Lvecs){
 			}
 		}
 	}
-	printf("K - Mean K closest position differences\n");
+	fprintf(out, "K - Mean K closest position differences\n");
 	for(int i = 1; i <= szs; i++){
-		printf("%d - %lf - %lf\n", i*step, sum[i*step] / n, 1 - sum[i*step] / n / n);
+		fprintf(out, "%d - %lf - %lf\n", i*step, sum[i*step] / n, 1 - sum[i*step] / n / n);
 	}
-	printf("K - Neighborhood preservation\n");
+	fprintf(out, "K - Neighborhood preservation\n");
 	for(int i = 1; i <= szs; i++){
-		printf("%d - %lf\n", i*step, np[i*step] / n);
+		fprintf(out, "%d - %lf\n", i*step, np[i*step] / n);
 	}
 }
 
 int main(int argc, char *argv[]) {
 	FILE *lowD, *highD, *highDText;
-	lowD = fopen(argv[1], "rb");
+	lowD = fopen((string(argv[1]) + "results.dat").c_str(), "rb");
 	highD = fopen(argv[2], "rb");
 	highDText = fopen(argv[3], "r");
 	labeled = stoi(argv[4]);
-	colors = fopen(argv[5], "wb");
+	colors = fopen((string(argv[1]) + "labels.bin").c_str(), "wb");
+	lowD = fopen((string(argv[1]) + "results.dat").c_str(), "rb");
+	out = fopen((string(argv[1]) + "presults.txt").c_str(), "w");
 	if(labeled)
-		colors2 = fopen(argv[6], "wb");
+		colors2 = fopen((string(argv[1]) + "olabes.bin").c_str(), "wb");
 	int n, d;
 	fread(&n, sizeof(int), 1, lowD); // n ~ #vectors
 	fread(&d, sizeof(int), 1, lowD); // d ~ #dimensions
@@ -181,11 +183,11 @@ int main(int argc, char *argv[]) {
 	for(int &i : ids)
 		i = i%n;
 	evaluate(tVec, tVecld);
-	printf("Full vectors\n");
-	printf("------------------\n\n");
+	fprintf(out, "Full vectors\n");
+	fprintf(out, "------------------\n\n");
 	solve(text, tVec, ids);
-	printf("2D vectors\n");
-	printf("------------------\n\n");
+	fprintf(out, "2D vectors\n");
+	fprintf(out, "------------------\n\n");
 	solve(text, tVecld, ids, true);
 	return 0;
 }
