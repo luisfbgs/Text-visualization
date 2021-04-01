@@ -1,0 +1,1368 @@
+K - Mean K closest position differences
+5 - 4533.919160 - 0.848869
+10 - 4631.285467 - 0.845624
+15 - 4687.269984 - 0.843758
+20 - 4722.986058 - 0.842567
+25 - 4750.516880 - 0.841649
+30 - 4768.645331 - 0.841045
+35 - 4784.057870 - 0.840531
+40 - 4793.166096 - 0.840228
+45 - 4804.552691 - 0.839848
+50 - 4811.466133 - 0.839618
+K - Neighborhood preservation
+5 - 0.050433
+10 - 0.050800
+15 - 0.052664
+20 - 0.055080
+25 - 0.057636
+30 - 0.060016
+35 - 0.062563
+40 - 0.065148
+45 - 0.067754
+50 - 0.070387
+Full vectors
+------------------
+
+Compared text 5933 : b"off to  slow start, somewhat planned... the boo had us up much of the night cuz she couldn't breathe - cold+TX allergies "
+Closest 20 --------------------------
+1 b'is sat at her parents house nursing her kidneys ouch!!Had a lovely wknd with Oliver tho apart from the slight illness '
+2 b'again with the fucked sleep... ive decided to go do homework instead '
+3 b'is at the easter show...feeling nauseous '
+4 b'has a nosebleed at 3am   so annoying wide awake now!'
+5 b'seems to be coming down with a cold, which might help to explain the poor sleep '
+6 b'has a sore throat and feels horrible...way to start off exam week '
+7 b'lets try this update again...thanks o reliable blackberry *not*   ive got a terrible headache '
+8 b'in zombie mode today, kids are ill and kept me up till 2.30am . Up for work at 6am '
+9 b"@kyelani I'm trying to find info on Eye infections in dogs..Izzie woke up with one nasty eye on her, the poor thing "
+10 b'is awake but still tired '
+11 b'had a good night but feels quite grim today '
+12 b"wishes P-Kid wasn't so sick and in hospital tonight "
+13 b'nervous all the time '
+14 b"our littlest hen is looking a bit miserable, hope it's not the return of being egg-bound "
+15 b'is trying to stay awake after being up all night feeling ill '
+16 b'is having dns issues again '
+17 b'being bored, recovering from being ill '
+18 b'is thinking about taking her tongue stud out.. because it hurts + ulcers '
+19 b"is feeling like she shouldn't up right now, so tired "
+20 b'has no snuffly nose but a doubly sore throat today '
+
+Compared text 7743 : b'i am sorry to hear about your grandma   anything i can do for you?'
+Closest 20 --------------------------
+1 b"you're so far away now.. how can i reach you? "
+2 b'@joeypage I wish I was still in Florida so I could go to your show  are you going on tour this summer ?'
+3 b'i got a really bad earache  anyone have any cures :?'
+4 b'@nancypr19- how was your birthday? presents? my cell is shut off so cannot call or send text '
+5 b"i'm so sad  why he broke my heart? "
+6 b'does it sound wrong if i say i miss her already? cuz i do.. '
+7 b'i want her back.. '
+8 b'@christymychem yeah i don t know what to do   hey do u have email ?'
+9 b'@KaneBeatz i know dude im sorry  do u mind?'
+10 b'i thought you would support me on this '
+11 b'@draganababy i sympathize with you, i have work tomorrow '
+12 b"i'm surprised.. "
+13 b"@megzseattle I'm sorry Megan  Is there anything I can do to help?"
+14 b'@therealdemi i miss you! it is really cold here  call me'
+15 b'I really need some advice, can anyone help? '
+16 b"@amazingphoebe i love you  maybe it's a good thing if i don't care as much. and tell me, please, how many chances have you already had?"
+17 b"@epochblue if you get a chance and aren't too tired, gimme a call when you get back home! sorry i missed you last week "
+18 b'When will i finally get over this cold? '
+19 b"@kasey79 what the hell am i missing here?  i'm sad"
+20 b"@xokimox13 sorry sorry i slept in  i'll come tomorrow are you and everybody going to be there?"
+
+Compared text 16262 : b'Needs a New Job  I hate stupid tim hortans!'
+Closest 20 --------------------------
+1 b'Is back at the cabbins  Ew!'
+2 b'Needs a job! '
+3 b'damn that sucks! '
+4 b'Is very sad right now  i hate life!'
+5 b'is feeling hot  hate the weather!'
+6 b'Needs the motivation to get dressed and go to work I hate training '
+7 b'@Brandonbates  I hate when that happens!'
+8 b'Gave up after two... im bored! '
+9 b'I hate coursework  The Tempest..shut up!!'
+10 b'In work  sooo bored !'
+11 b'@mangosmoothie I need MORE songs on my itunes! '
+12 b'@thewesleychan Major hardcore studying for finals next week  Did u go shopping? I know they got a good outlet in Portland that has Puma!'
+13 b'@Gripping agreed! love the sound, but hates how everyone knows them '
+14 b"@hilandveil no workie for me yet  it's trying though!"
+15 b'@marsherlin exactly!!!  sg sucks!'
+16 b'wants to go Shopping! '
+17 b'Lol I am unfortunately! '
+18 b'Is super, super disappointed! '
+19 b'so bored! '
+20 b'I wanna go home! '
+
+Compared text 1529 : b"Can't sleep. It's 2:05am--Ugh!!! I'm not even sleepy "
+Closest 20 --------------------------
+1 b"7am and I still can't sleep. "
+2 b"I can't sleep. There's a fight outside. How inconsiderate. I wanna go SLEEP! "
+3 b"Getting ready for school, can't seem to focus my eyes yet...not a good sleep. "
+4 b"Ugh, I can't sleep because I'm not feeling so great.  "
+5 b"3 in the morning and I can't sleep. "
+6 b"Ok so I tried to lay down. But I'm wide awake. This sucks ass "
+7 b"2 in the AM, I'm wide awake and have to be up in 3 1/2 hours. "
+8 b"Gonna try to fall asleep again. Can't imagine not sleeping tonight. "
+9 b"@trustnolie worst part is that I couldn't even go back to sleep. I ended up just watching TV, but I'm still very tired "
+10 b"Everyone's at my house. I want to sleep "
+11 b"Sigh, I went to bed early last night, and I'm STILL tired. "
+12 b"It's 8:30AM Sunday and I'm awake. I had a terrible night. "
+13 b"@MariahCarey I'm up 2. Just got off work at 3:20. And now I'm home laying in bed and can't sleep. "
+14 b"Argh! I was suuuper sleepy an hour ago, now I'm wide awake.  Hope I don't stay up all night. :-/"
+15 b"It's 1 am. I keep wanting this more and more. I really need to go to sleep, I'm getting to caught up "
+16 b"I couldn't fall asleep last night. Now I'm gonna be up all day "
+17 b"I'm gonna get up late tomorrow and it's 132am here. I gonna get tipsy by my lonesome. That's...that's just sad "
+18 b"Driving back to La Quinta tomorrow... I should sleep, but I'm oddly wired. "
+19 b"Randomingly woke up at 4 and now I can't go back to sleep. "
+20 b'Yikes. I fell asleep just after midnight and woke up this morning at 10. Waaaay too much sleep, so I now have a monster headache. Ouchie '
+
+Compared text 29700 : b'Good morning all, another weekend in the bag. High for me, got a new TV, low for me ....still not finished unpacking '
+Closest 20 --------------------------
+1 b'has to go food shopping today. How boring, then back tro work tomorrow '
+2 b'another weekend gone. Time to get back to reality '
+3 b'Ah, a good week off, our recycle bin is overflowing with empty alcohol containers, back to work and the gym this week '
+4 b'Watching fist of Zen! Had the laziest day, done nothing but watch movies and eat BK. Back to Uni tomoro '
+5 b'Mmmm, just had some fresh cream victoria sponge. Looooovely..But now I feel a bit sick '
+6 b'had a good day... gonna be doing work tomorrow '
+7 b"Morning All, I'm back from my little break from the computer. back to work again today "
+8 b'im up. Last day, sad sad  Goin for a breakfast now!'
+9 b'Retired to bed now, bit of gta ds before sleeping. Hip still poorly '
+10 b'Friday night sucked... I lost a dog and a laptop. RIP to them both '
+11 b"Shit, didn't blog on Friday. Being ill sucks "
+12 b'finally back, going straid to bed... Wish you could go with me '
+13 b'went to the dentist, had a driving lesson and should now start packing for tomorrow. got to be up for 5 apparently '
+14 b'Good trip to shops, new Mac mag to read with cuppa. Almost lashed out on new lense for camera - decided it was too many hundreds '
+15 b'giving up on work for this evening. urrrghh.. only a month till exams '
+16 b'What a great day\xef\xbf\xbd And I have to write my last report for uni. No inspiration so far '
+17 b'Up early. On the road now...8 hour drive '
+18 b'waiting for work to end, and wanting to go see my wife. been working 6 days now '
+19 b'Home now and miserable. New York was amazing! Back to work tomorrow '
+20 b'Hehehe. I am gonna enjoy my last hour up! And then sleep for tomorrow '
+
+Compared text 5508 : b"Eight hours. 1500 words. Lucy happily reparked. Brain composed largely of mush. Beginning to freak out about Thursday while it's Tuesday. "
+Closest 20 --------------------------
+1 b"Working. Wondering why I'm feeling completely drained today. "
+2 b'Working on a reading response due tomorrow at noon when all I really want to do is hang out with my friends. Again. '
+3 b'No motivation to do housework. Not sure whether to force myself to or not. Probably should do it. Feel like crying either way. '
+4 b'Just woke up from a nice nap. Unfortunately, my stomach hurts, as usual. '
+5 b"It's been a long day, now I'm sleeping alone. "
+6 b"It's been a long day, now I'm sleeping alone. "
+7 b"I wish I was better at writing. It's taking me so long to write this paper. "
+8 b"Shouldn't still be awake. Feeling horrible. Not good. "
+9 b"Omfg, days like these kill my soul. And it's not even lunchtime yet. "
+10 b"I have a headache. I think I've already lost readers. "
+11 b"It's entirely too early to be at work on sunday. "
+12 b'I want to stay in bed all day. '
+13 b"I'm wondering why I always have to stay in on the days when it's unbelievably sunny. "
+14 b'Realized this morning that I forgot to meet up with a friend last night due to pure exhaustion. Feel bad. '
+15 b"@missmembz I've done nothing  it's going to be a loooong night. For some reason my brain doesn't think work is a priority."
+16 b"I'm ready for the weekend already. It's only Monday. "
+17 b'Laying out by the pool, still procrastinating on my project. Really not in the mood, but I never am. '
+18 b'Late to work and still feeling like poo. '
+19 b"Motivated to sleep, but I'm feeling quite icky. "
+20 b"Waking up. Oversleeping because I don't wanna deal with today. Just really bummed out. This rollercoaster life catches up to me at times. "
+
+Compared text 29752 : b"Morning All, I'm up too early for my liking. It would be 12, now it's 6-7. "
+Closest 20 --------------------------
+1 b"So much for being up at 7. Looks like I'm missing the ride out. "
+2 b"I sure do hate being up this early. Didn't get any sleep. "
+3 b"It's 8:30AM Sunday and I'm awake. I had a terrible night. "
+4 b"I'm still up and its almost 3am. I have to wake up at 7am. "
+5 b"Heh.. actually.. Getting pretty sleepeh, so I'm off to bed. Weekend's half over. "
+6 b'okay. Goodnight Twitterverse. I have to get up early tomorrow for work. '
+7 b'Well bed time now. 1 am. *sighs* Back to 6 am mornings for a week on Wednesday. '
+8 b'Happy that I stay in last night. Sad that I miss Ally game this morning. '
+9 b"Alarm clock woke me up on Sunday. I don't work on Sunday. I got up for nothing. "
+10 b"Waking up. Oversleeping because I don't wanna deal with today. Just really bummed out. This rollercoaster life catches up to me at times. "
+11 b'Awake. Nice and early on a Sunday morning. Thanks to my child who wants to be an alarm clock when she grows up. Keep up the good work. '
+12 b'Up early and off to work till 6:30pm. '
+13 b"My radio doesn't want to work this morning. It's too quiet without it. "
+14 b"I'm off too bed. I gotta wake up hella early tomorrow morning. "
+15 b"I got enough sleep but still tired. Don't want to work today. "
+16 b'yay! 2am and not a bit tired. '
+17 b"@MariahCarey I'm up 2. Just got off work at 3:20. And now I'm home laying in bed and can't sleep. "
+18 b"Just woken up. It's lame that we have school tomorrow.  Ahh well..."
+19 b"Gee, 4 1/2 hours of sleep is definitely not enough. It's going to be another tough day. "
+20 b'A groggy head this morning, hope it goes soon. '
+
+Compared text 17256 : b'Updated my twitter background and picture. Updating myspace next. Too bad Facebook does not let you customize and express your creativity '
+Closest 20 --------------------------
+1 b"@kerchoonz  I like your new background. I'm trying to put a kerchoonz background on my twitter, but, it's not working for me "
+2 b"when you read my updates, blogspot, bulletin on myspace, etc. You could just figure it out on your own. I don't care "
+3 b'Oh BTW, in case you were wondering, I did my profile picture on coraline.com. I like buttons now. Pity I have to wait for the movie '
+4 b'tweetdeck seems to have died on me  Need to find a reliable twitter platform. Any ideas?'
+5 b"@zacharylang Also, for some reason when Digg short URLs are posted in Twitter I can't click on them. Have to copy/paste from tweetdeck "
+6 b'Twitter is evil. It has made me forget about Facebook and keeping in touch with good friends. Feel bad '
+7 b'sucks that I had to change the settings for comments on my blog.  damn spammers.  '
+8 b'This feels like talking to myself. I need more followers. '
+9 b'Doing my best to figure out how to Tweet.  Trying to upload my photo. '
+10 b"Not happy with twitter. I can't see the public tweets anymore.  "
+11 b"I guess I'll give this twitter thing a shot, though someone took my alias. "
+12 b'@inside_out I do have TweetDeck, but it seems to crash my computer every time I use it. '
+13 b'This whole tweeting under my real name thing is sorta scary. So much need for self-censorship '
+14 b"@puppetvision Thanks, but not using WP. Also don't want to waste money I invested in CC. "
+15 b"I just made a banner for my Twitter, you can see it on several different websites.  I'm sad that I have to go back to school on Tuesday. "
+16 b"Pity I'll have to remove it because it's irrelevant. "
+17 b"@RoyalBlueStuey Haha wow. Sounds interesting. My company actually has myspace blocked so I can't see your link. "
+18 b"@craftjuice thank you. Since I can only use the url once, I won't be able to add individual items  "
+19 b"I'm a little sad that all my spam friends have been deleted. "
+20 b"Ok, I literally can't keep my eyes open any longer. I'll fix my layout tomorrow after work.  Night. &lt;3"
+
+Compared text 7256 : b"it's snowing  i'm off too school now.I start my intensive gym class today, so i'm at school until 9!"
+Closest 20 --------------------------
+1 b'in super taco. I have to walk to school.  and im testing today! DX'
+2 b"2 sick- couldn't sleep so no class today.  i actually enjoy school so i'm really bummed."
+3 b"i really can't study right now. I NEED MOTIVATION! cause it's tmrw "
+4 b"The spring is now finished and i'm going back to school tommorow. "
+5 b'argh first day of school,this sucks 4 more years til i can move out. counting down the days already LOL jokes. gah i miss my daddy '
+6 b'awake way too early. i literally feel nauseous  i hate this science class'
+7 b"@mannyenc i missed my first class too. well... i'm going to. LOL i have too much stuff to do.  i'm really scard about my grades for this"
+8 b'Ugh. I have to wait a whole day to see my baby.  and i work 5 to close today. Come visit me'
+9 b"i really don't want to go back to school tommorow. "
+10 b"ok... maybe i'll sleep for an hour or two. Then I MUST rise to work on my thesis "
+11 b"still really sick. probably going to the hospital today  i'm scared."
+12 b"Urgh it's too early but i have so much hw to do.  First things first: off to church."
+13 b"i'm about to sleep. got a full day tomorrow. dang it's hot up in my room. "
+14 b'battery is dying  ...more shopping tomorrow though,, then home. dreading school on monday.'
+15 b"@gnimsh i'm sorry. just think you won't have any school work in 3 wks!  it's such a gloomy day in chicago.   won't be sunny/warm till wed"
+16 b"sooo dreading going back to reality.  i've enjoyed my time off.  i wonder how many e-mails i have upon my return to work.. "
+17 b'gym. grocery shopping. study. school tomorrow  ugh.'
+18 b'omg, havent twittered all day. i feel so empty inside.  goodnight. promise to twitter tomorrow during school'
+19 b'NOOOO only today and tomorrow left to schools back in. i think imma cry.  i absolutely hate school with a passion'
+20 b"i'm up, so much paperwork to do today. `n i'm kinda getting sick  not fun"
+
+Compared text 8119 : b"@shamzleroc ooooh!  I wanna come. I was BUSSIN they asses the other day, so I'm probably banned. She tried to call me a &quot;button basher&quot;!"
+Closest 20 --------------------------
+1 b"@gjoosten I know! Freaked me out though. Her feet were dirty, that's what tipped me off. Now she's crying to go out "
+2 b"@swedeepea thx friend. I wasn't going to play butler to her anyway. She's had another rough teenage nite  These girls r complety twisted!!"
+3 b"@AlaijhaPffaf I knowww! I'm gonna watch it online. I miss Ben Mac. "
+4 b'@Kyabean Facebook is so mean.  It kept giving me sister fits when she tried to sign up. Hm, maybe I can DM you the URL?'
+5 b"@biiscuiitz Oh NOW you want to speak.  Hmph! Yess. I'm done puts me in my place. I'm actually listening to that now. Get out of my iTUNES!"
+6 b"@Mandy_Howerton aw that's no good. Dallas is a thumbsup though. I used to live in Austin. I miss it so badly. "
+7 b"@SandyMcIlree aren't u famous? Everyone knows JB and Sandy in Austin. Guess I need to unfollow. "
+8 b"@AdrianaMarshall I missed u today! Now I'm sad b/c I didn't get to see my Adriana.  well just more reason to get 2gether sooner next time."
+9 b"@laura_thompson no, cause I hate beer. I love Framboise, though! I'm apparently an alcohol snob. "
+10 b"@Roselyn ugh I'm sorry chica. I feel like no one understands when I have issues like that w/makeup.  at least Monday is over.."
+11 b"@XtineSamonte Get'em girrrl. Sorry I can't make it. "
+12 b'@superdaveyboy  Wish I could do something to help. Sorry you got the overnight shift. Yuck. (If you get bored, &quot;dc&quot; can play Go Fish! lol)'
+13 b"@SimoneKali Get me an autograph and shout out! You have to record it though. My computer is dead so I can't listen. "
+14 b"@kr_sten Ooo I'd kill. Although, i didn't get tickets  and I tried ALL morning! But might have luck with girl from work. Crosses fingers."
+15 b'@melissagreene No Tejas show for you??  That makes me sad.  Watched you on 700 Club just now. Gorgeous girl! LOVE your voice. Miss ya!'
+16 b'@RayneyDais she says hi, and she says I need to get off of here now lol. '
+17 b"@stutterdude I never even noticed the ABBA shirt. I'm a lousy fan. "
+18 b'@Dalefluffy totally would, but zach already got mad at me today cause i got the group called out.  it would be funny though'
+19 b'@roaritsallie yup... kill me. My life is no longer fair in anyway. '
+20 b'@mrpeaseblossom report me away! getting kicked out of school sounds like a pretty attractive option right now. seriously. '
+
+Compared text 9711 : b'to press enter. i think i messed up something underneath '
+Closest 20 --------------------------
+1 b"i forgot my phone in my car but i'm too scared to go outside and get it. "
+2 b'i wish i could ask for that face photo back. i miss looking at it '
+3 b"it's almost time for bed. i wish i could have gotten more work done "
+4 b'ouch. i have the biggest headache ever. '
+5 b'my cat is pregnant, again. i wish i could keep pets '
+6 b'my msn hates my guts. i wanted to go out tonight '
+7 b'wishing i had a follower. '
+8 b'i am going to attempt to get to sleep. i dont see it happening '
+9 b'i feel like i need a hug. '
+10 b"cant believe i'm sick again. "
+11 b'cant sleep once again. i need to cuddle '
+12 b'dudde, i hope im not comning down with something. '
+13 b'soo much work to do. but all i want to do is sleep. '
+14 b"my boyfriend left without setting up my wii, i'm too lazy to do it myself. "
+15 b"Just woke up and i can't go back to sleep. "
+16 b'is finally home again. what a fantastic week. i wanna do it again '
+17 b'i hate when i have to get up early. '
+18 b'Totally sucks that i have to go back to work so early tomorrow. '
+19 b'@kayheartsdew i had so much stuff in my hands when i came inside. '
+20 b'i wish i was a bit thicker. i cant fit into any of these nice shirts '
+
+Compared text 8351 : b"@stellarkaitlin i actually dont know  i'll call around and let you know in a sec."
+Closest 20 --------------------------
+1 b"@olivenright hi. i miss you. i haven't seen you all weekend  k im going to shleep now."
+2 b"@stokez aww i'm sorry u have to go thru that.  i wish i was there."
+3 b'@xxbiancaa oh whats happened?  message me on myspace. i need to tell you something. x'
+4 b'@Elias5996 yeah i think i will have to do that as well  i am working at K-Mart tonight.'
+5 b'@MistressDragon some one who was a freind till last week. wont tell me what i did. i know i can be weird  it hurts.'
+6 b'@justjennyxo i know i keep loosing followers lol.  i feel so uninteresting.'
+7 b"@masterballerina haha but then u'd have 2 go to cambeltown.  omg i can't even draw well in inkart."
+8 b'@anna0116   yeah i do.'
+9 b'@katiecrush no im not. i have no way of getting there lol. Are you going? and im sorry you got burnt  i can imagine how much it must hurt'
+10 b'@jc_323 i know  but i refuse to give up hope.'
+11 b'@Nessiebear i really wanna see it! but no one would go with me  lmfao.'
+12 b'@karenbme can  i come too? I am sad. '
+13 b'@salancaster  hope your ok.'
+14 b'@binkish haha i already did  im such a bad student.'
+15 b"@Jonas_Dreamgirl yeah  maybe i'm just going crazy haha."
+16 b"@kristinabitch I can't believe shes going to be gone in less than 24 hours. I'm going to miss her so much. "
+17 b'@brittanydailey  hope u feel better in tha morning.'
+18 b'@ladyg007 its n0t in your area  lol.'
+19 b'@Magnetoboldtoo ahhh ok. i knew abt the girl, but not abt the purple.  feeling for @mamasphor.'
+20 b"@Celticgirl1913 i'm sorry.  hopefully it will get better."
+
+Compared text 12843 : b"Just checked, pretty sure it's a repeat "
+Closest 20 --------------------------
+1 b"I think my puppy's sick "
+2 b'I think its dead '
+3 b'I got shot '
+4 b'I think I broke my finger '
+5 b'a bird pooped on me today '
+6 b'I just hurt my toe '
+7 b'My computer is broken '
+8 b'I think I lost all my pics off my phone '
+9 b'Just realized I left my wallet in Llano '
+10 b'My dog is sick '
+11 b'My iPhone is broken '
+12 b"Exam is coming, I'm scared "
+13 b'A bee just chased me '
+14 b'My cat has a fat lip '
+15 b'Just puked '
+16 b'I forgot my phone at home '
+17 b"Oh dear. I think they're gonna kill Dot Cotton "
+18 b'Failed that test '
+19 b'Returned from Portugal. Had so much fun! Too bad I got a flu '
+20 b'I feel bad for doing it '
+
+Compared text 8705 : b'@Lorenzohenrie Im having chinese take-out. Probably not as good as italian. '
+Closest 20 --------------------------
+1 b"@erincosborne Yeah, I've heard that method is the most effective. The Indian food I had last night sure didn't do the trick. "
+2 b'@charlietm I know right. I dunno what is going on with twitter. '
+3 b'@dumbwhore Yeah, I was just trying to be cute. I failed. '
+4 b"@bhenry5 That's kinda sad. "
+5 b"@afrotastic well now I'm jealous. I want an orgasmic breakfast. "
+6 b'@dittebb pulled a muscle in the shoulder. I sure hope it gets better soon. '
+7 b"@stutterdude I never even noticed the ABBA shirt. I'm a lousy fan. "
+8 b'Is keen for a big fat greasy double or possibly triple cheeseburger. Hmmmmm. Yum. Already had dinner. Maybe another nite. '
+9 b'@selenagomez I havent even seen it once yet. '
+10 b"@RobKaas you're making me hungry. :/ i have nothing good to snack on, either. "
+11 b'@joshuahaines I second that. '
+12 b'Gonna get my encased meat on @hotdougs this morning. Looks like no foi gras, though. '
+13 b'@lindachong yikes! not really sure. '
+14 b'@pob34 very hungry lol. '
+15 b"Ahh. I accidentally bought spicy chicken. Not a good idea when that's **all** your eating. "
+16 b'@zecool yeah, and he was working out west. '
+17 b'@angel0712 And thanks for eating that bagel for me, because I never made it to Panera today. '
+18 b"@graknil lol. Well. Glad you're almost done. I never get called. "
+19 b'@SEAF2009 I am strongly considering improvising. I missed last year I was so sick. '
+20 b'@KarimJebari thanks for concern. No physical harm. I was just about to enjoy some malatang when I found my wallet forever gone. '
+
+Compared text 24108 : b"I'm starving and I've got nothing in the kitchen "
+Closest 20 --------------------------
+1 b"I'm hungry and I don't know what to eat "
+2 b"I don't know what to make for dinner tonight "
+3 b'I need food '
+4 b"I'm working and I'm mad about it "
+5 b"I'm so tired "
+6 b'My nose is bleeding '
+7 b'My dog is sick '
+8 b'I hate cooking dinner '
+9 b"Don't know what to do for my lunch "
+10 b'My stomach is killing me '
+11 b'I have a headache '
+12 b"I don't wanna work for 13 hours tonight "
+13 b'My computer is broken '
+14 b'I have a terrible headache '
+15 b'My stomach hurts '
+16 b"I'm in pain "
+17 b"I'm lonely "
+18 b'My tummy hurts '
+19 b'I forgot my phone at home '
+20 b'my dinner sucks '
+
+Compared text 26393 : b'Hooray for Toro Rosso!  Sucks for David Coulthard   He deserves better'
+Closest 20 --------------------------
+1 b'Lost our first baseball game today.  Not so happy '
+2 b'What a beautiful day!  Too bad I have to spend all day cleaning my house '
+3 b'Sick  Good thing its the weekend '
+4 b'doing science homework!  YAY '
+5 b'Time to go to work  Must stop knitting '
+6 b'Everyone is gone home - What a fun day!  Too quiet here now '
+7 b'Spiritualized  too sad too beautiful '
+8 b'wants his hat back '
+9 b'I just dropped off Joaquin at the train station   I hate him working weekends'
+10 b'Jays home opener was amazing!  No streakers though '
+11 b'@jessid33 I hope things start looking up soon  Coffee always helps me! '
+12 b"Can't stop crying.  Man....  7pounds is no joke "
+13 b'@chriswhill sweet!  Josh is at work though '
+14 b'Damn it feels empty now....  but I am so happy that you guys are around!   @mroda'
+15 b'My brain hurts.  Talking about digitisation is very complicated '
+16 b'I am going to be 30 in a month...  Ugh '
+17 b'home.   my tummy hurts '
+18 b'Ugh another day at work '
+19 b'No tattoo today    Gotta wait till next time the guy is here!'
+20 b'so tired '
+
+Compared text 18330 : b'Home. Feeling good. Resisted another tattoo. Too lazy to wash off the eye makeup...... Oh well  Wearing last nights liner for tomorrow.'
+Closest 20 --------------------------
+1 b"Not feeling good this morning.  and no I'm not hungover, LOL. It takes more than two glasses of wine for that."
+2 b"Ok, I literally can't keep my eyes open any longer. I'll fix my layout tomorrow after work.  Night. &lt;3"
+3 b"Well, marin's room didn't come out quite like I expected. It looks like one ugly Easter egg. Starting over tomorrow. "
+4 b'Cannot believe she is awake at 6AM on a tuesday. *yawn* And I had a bad dream. Bummer '
+5 b"Gonna try to fall asleep again. Can't imagine not sleeping tonight. "
+6 b"@acepero79 I am nice and burned after tanning because I hadn't gone for so long   Lol. Oh well."
+7 b'No motivation to do housework. Not sure whether to force myself to or not. Probably should do it. Feel like crying either way. '
+8 b"It's possible I'll have a haircut tonight... We'll see. Not feeling awesome. "
+9 b"Went to bed at 10pm last night, haven't done that for years. I feel no more rested than usual "
+10 b"Pity I'll have to remove it because it's irrelevant. "
+11 b'Yikes. I fell asleep just after midnight and woke up this morning at 10. Waaaay too much sleep, so I now have a monster headache. Ouchie '
+12 b'Never taking prescribed pain meds again. Still sick to my stomach, but no where near as bad as last night. '
+13 b"I'm thinking about making an appearance at the pool after my iPod charges. Massive amounts of benadryl will be required. Allergies suck. "
+14 b"There was a party I was supposed to go to this afternoon. I wish I wouldn't have ruined my day by not sleeping last night. "
+15 b'A groggy head this morning, hope it goes soon. '
+16 b"@JustElle I just went to my friend's gallery opening with @christinegonce. Back home now to be up at 5 am. "
+17 b"Just finished making brownies. I'm so hungry, must stay away from the chocolate. Very bad... "
+18 b'BLEGH... Back to work tomorrow morning..  What a wasted weekend.'
+19 b'Up since 3:00. Going to be a looooong day. '
+20 b'Time to get off the computer and go to bed and read my book. Had a headache all weekend  Work tomorrow. Fortunately I like my job.'
+
+Compared text 27366 : b'Just landed now to school '
+Closest 20 --------------------------
+1 b'going back to school tomorrow '
+2 b'going back to school tomorrow '
+3 b'getting ready to go back to school for the week '
+4 b'doing nothing now '
+5 b'Heading back to school later today '
+6 b'Finally home from work '
+7 b'Going to my class '
+8 b'is off to work '
+9 b'so not looking forward to school tomorrow '
+10 b'is back to school tomorrow '
+11 b'going to work now '
+12 b'about to set off for school '
+13 b'Back to college tomorrow '
+14 b'Back to college tomorrow '
+15 b'Back to college tomorrow '
+16 b'going to work '
+17 b'going to work '
+18 b'going to work '
+19 b'Back to school tomorrow '
+20 b'tomorrow back to school '
+
+Compared text 22169 : b"i can't go to sleep "
+Closest 20 --------------------------
+1 b'i cant sleep '
+2 b"I can't fall asleep "
+3 b'I cant sleep '
+4 b'i just want to sleep '
+5 b'i forgot how to sleep '
+6 b"i can't concentrate "
+7 b"i don't want to get out of bed "
+8 b'on second thought, i cannot sleep '
+9 b'wish i could sleep '
+10 b'I wanna go back to sleep '
+11 b'I wanna go back to sleep '
+12 b"i didn't have enough sleep "
+13 b"I'm so exhausted but i can't sleep "
+14 b'i hate sleeping alone '
+15 b"Can't fall asleep "
+16 b"really irritated that i can't sleep longer "
+17 b'i want to go home '
+18 b'Cant go back to sleep '
+19 b'i am so sleepy '
+20 b'I am really tired but cant go to sleep '
+
+Compared text 27932 : b'aw, i meant to put some ramen and stuff in the package but i forgot '
+Closest 20 --------------------------
+1 b'though i forgot my celery '
+2 b'just realized i forgot my lunch at home '
+3 b'i think i put too much mousse in my hair '
+4 b'i wish i was going to give it a name '
+5 b'i really want a kitty, probably not gonna happen though '
+6 b'i feel i need a hug '
+7 b'i wanna watch the laker game but i cant '
+8 b'i dont like it when i spell words wrong '
+9 b'i almost thought i was gonna get to come home early but of course i dont have that kind of luck '
+10 b'wish i had some viet pork chop sandwiches instead of the dried chicken one '
+11 b'my laptop has a virus i think '
+12 b'i wish i wore different pants '
+13 b'well not really, but i did feel kinda sick '
+14 b'ew i just ate a piece of liver which i thought was normal meat '
+15 b'Bummed out my phone stopped working... battery is dead and i forgot to charge it '
+16 b'i want Sykes back, really bad '
+17 b'i burnt my tongue on miso soup today '
+18 b'so wish i could go to ravens training camp this year '
+19 b'i really want a puppy '
+20 b'unfortunately i have to do some work now '
+
+2D vectors
+------------------
+
+Compared text 5933 : b"off to  slow start, somewhat planned... the boo had us up much of the night cuz she couldn't breathe - cold+TX allergies "
+Closest 20 --------------------------
+OldPos 1 | 1 b'is sat at her parents house nursing her kidneys ouch!!Had a lovely wknd with Oliver tho apart from the slight illness '
+OldPos 5219 | 2 b'YAY hannah montanas on disney channel fun ......NOT '
+OldPos 19729 | 3 b'i just finished sharis birthday present !! since today morning i have headache  i think i should drink more......'
+OldPos 10474 | 4 b"wee drunk night with my ladies .......so don't wont claire to go to oz "
+OldPos 1285 | 5 b'me too tom .. i love it...lol sorry that clare saw no chicks '
+OldPos 3462 | 6 b'yey! have finished coursework... thank god for that.. took me 3 hours '
+OldPos 5083 | 7 b'not having a car sucks.. what a bad week to get my car taken away '
+OldPos 19912 | 8 b'Goodmorning got a busy day going to NY with my brother can not wait but i am sad i am leaving my mom and dad '
+OldPos 8568 | 9 b'marc cherry made a big mistake killing off edie on desperate housewives...nicolette sheridan...u will be missed '
+OldPos 6127 | 10 b"Good morning twits &lt;3 such a beautiful day...too bad I'm sick "
+OldPos 10620 | 11 b'job searching.....FYI: Yahoo HOT JOBS suck! .. im never going to find a job '
+OldPos 5902 | 12 b'green tea with lemon..YUMMMM!!! Wish I had peach detox tea '
+OldPos 404 | 13 b'missing someone so bad..so sad today '
+OldPos 15620 | 14 b'Mannn I wish I was in LA right now so I could go to jack in the box n get me a strawberry mango smoothie.. '
+OldPos 5402 | 15 b"so forever the sickest kids was at the glendale mall today.too bad i didn't go "
+OldPos 10166 | 16 b'miserable...atleast my tempwent from 101.3 to 99.9....so much for enjoying the weekend!  '
+OldPos 522 | 17 b'Blah....sick with the flu '
+OldPos 14066 | 18 b'packing is always so stressfull  i hate this part of moving'
+OldPos 15445 | 19 b"tomorrow school again  ... i can'T wait so see you all ;)... today doing something for school.. oh i hate it.."
+OldPos 4388 | 20 b'i hate stressin out my mama...she sound sick too.. '
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 1
+OldPos 2 NewPos 69
+OldPos 6 NewPos 3123
+OldPos 3 NewPos 3248
+OldPos 4 NewPos 6411
+OldPos 14 NewPos 7253
+OldPos 11 NewPos 7963
+OldPos 17 NewPos 8406
+OldPos 12 NewPos 8417
+OldPos 8 NewPos 8559
+OldPos 13 NewPos 8866
+OldPos 18 NewPos 10749
+OldPos 19 NewPos 11374
+OldPos 16 NewPos 11402
+OldPos 10 NewPos 11404
+OldPos 15 NewPos 11789
+OldPos 5 NewPos 12462
+OldPos 7 NewPos 16247
+OldPos 9 NewPos 18781
+
+Compared text 7743 : b'i am sorry to hear about your grandma   anything i can do for you?'
+Closest 20 --------------------------
+OldPos 5 | 1 b"i'm so sad  why he broke my heart? "
+OldPos 1 | 2 b"you're so far away now.. how can i reach you? "
+OldPos 3357 | 3 b'still in office  What has become of me?'
+OldPos 2909 | 4 b"I've been without a reliable internet connection for over a week now... what do I have to do to get some real service? "
+OldPos 83 | 5 b'why is it when i want to buy things i have no money? '
+OldPos 1411 | 6 b"I'm feeling invisible right now.. Is it time to give up and just go home? "
+OldPos 234 | 7 b'Anyone wanna do this homework for me? '
+OldPos 551 | 8 b"want a puppy? does anyone know anyone who would like to adopt a trained lab? bff is moving and can't find a place that allows 2 dogs "
+OldPos 221 | 9 b'my ipod touch is screwed up? '
+OldPos 4504 | 10 b'I miss Erica and the way we used to hang out  Why do sad realizations come at night?'
+OldPos 139 | 11 b'it appears i have been away from the fountain pen network too long... do they delete inactive accts? '
+OldPos 3219 | 12 b'Getting ready to drive an hour to get my iPhone replaced again  Praying this one is better then the last 2?'
+OldPos 13647 | 13 b'Off to Lynn soon to get my Prom ring!! Yay! But then i have a drama rehearsal! '
+OldPos 1865 | 14 b'my phenom ii 940be wont run with 4Ghz why? '
+OldPos 247 | 15 b'how do i put the pdf thingy on twitwall?  anyone? '
+OldPos 18 | 16 b'When will i finally get over this cold? '
+OldPos 8310 | 17 b"cnt believe i've gt college tomorrow!!  =/"
+OldPos 15 | 18 b'I really need some advice, can anyone help? '
+OldPos 2061 | 19 b'Why are my fiber one bars in my trunk? '
+OldPos 7225 | 20 b'I want to go out  Why must history be so, wordy?'
+
+New positions of full vectors 20 closest
+OldPos 5 NewPos 1
+OldPos 1 NewPos 2
+OldPos 18 NewPos 16
+OldPos 15 NewPos 18
+OldPos 3 NewPos 22
+OldPos 6 NewPos 97
+OldPos 12 NewPos 735
+OldPos 7 NewPos 811
+OldPos 10 NewPos 5413
+OldPos 17 NewPos 7527
+OldPos 16 NewPos 9573
+OldPos 14 NewPos 13231
+OldPos 4 NewPos 13620
+OldPos 19 NewPos 14817
+OldPos 9 NewPos 14892
+OldPos 2 NewPos 15083
+OldPos 11 NewPos 15636
+OldPos 8 NewPos 15965
+OldPos 13 NewPos 19351
+
+Compared text 16262 : b'Needs a New Job  I hate stupid tim hortans!'
+Closest 20 --------------------------
+OldPos 4 | 1 b'Is very sad right now  i hate life!'
+OldPos 408 | 2 b"now i'm sick! "
+OldPos 18129 | 3 b'someone stole my iphone lastnight!  im devastated  i cant beleive people are like that man! seriously!'
+OldPos 19181 | 4 b'i need my phone i hope security finds it!   '
+OldPos 18433 | 5 b'getting up finally i hope i have something in the kitchen to eat i know i have no eggs =no pancakes! '
+OldPos 17823 | 6 b'It says service engine soon! That cant be good!  oh dear'
+OldPos 4068 | 7 b"An opportunity has been given... all i can do i wait and see what happens! But from past experiences it's not looking good! "
+OldPos 5886 | 8 b'Ugh im so tired dont feel like goin to scool! '
+OldPos 9362 | 9 b"i can't breatheee... i hate being sick! "
+OldPos 5729 | 10 b'Pooooo!! Do i have to go to work today!! '
+OldPos 9385 | 11 b"@isaaclim because I damn lazy to keep dying colour already! hehe and it's damaging. thinning my hair like crazy!!! "
+OldPos 16195 | 12 b'my poor roomate is sick  and my boobs are leaking gross!!!!'
+OldPos 1917 | 13 b'without text messages  thats the most awful thing in my life right now!'
+OldPos 6610 | 14 b"Is so annoyed!!! just saw who won the F1 and i haven't watched it yet!! "
+OldPos 7055 | 15 b'is up and has hayfever!!!! '
+OldPos 103 | 16 b'am really tired of doing stuff by myself! '
+OldPos 1312 | 17 b'Hope i did okay! '
+OldPos 2077 | 18 b'my vacation eating habits are comming back!  NOOO!'
+OldPos 1906 | 19 b"i'm the dumbest person alive! "
+OldPos 6524 | 20 b' Roobbb!! Please come home!! '
+
+New positions of full vectors 20 closest
+OldPos 4 NewPos 1
+OldPos 8 NewPos 227
+OldPos 16 NewPos 940
+OldPos 2 NewPos 961
+OldPos 18 NewPos 1038
+OldPos 19 NewPos 1322
+OldPos 3 NewPos 1366
+OldPos 17 NewPos 1425
+OldPos 5 NewPos 1443
+OldPos 1 NewPos 2391
+OldPos 9 NewPos 3546
+OldPos 10 NewPos 6000
+OldPos 12 NewPos 10703
+OldPos 6 NewPos 11201
+OldPos 14 NewPos 15431
+OldPos 15 NewPos 17030
+OldPos 13 NewPos 17939
+OldPos 11 NewPos 18105
+OldPos 7 NewPos 18580
+
+Compared text 1529 : b"Can't sleep. It's 2:05am--Ugh!!! I'm not even sleepy "
+Closest 20 --------------------------
+OldPos 690 | 1 b'MY conjunctivitis has not gone away, and my freaking faw line is swollen. '
+OldPos 6858 | 2 b"Is being forced to apply the Spanish she's been learning in school. No me gusta!  No comprendo espanol cuando yo escucho espanol."
+OldPos 1875 | 3 b"Good Morning! Its a beautiful day, too bad I'm gonna be spending the majority of it studying for an exam. "
+OldPos 63 | 4 b'Just got home, off to bed -- have to be back at 8am. I hate cl-openings '
+OldPos 18492 | 5 b'Off this match Spurs 1-0 Newcastle  - means four points off the rel. zone. Hard work to do yet for AS.'
+OldPos 729 | 6 b"Why did I go to bed so late last night?! Uuughhhh.... F my life. I'm off to work "
+OldPos 2059 | 7 b'T_T hungry. but too lazy to get up. '
+OldPos 6225 | 8 b'Looks like we are back to wintery weather in NY tomorrow. Temperatures drop and rain for our last two days in NY. '
+OldPos 1138 | 9 b"Saturday! I could have gone to my friends 29th b-day party, but instead I have to work. This sucks.The time I get off it'll be over "
+OldPos 979 | 10 b"I've done something to hurt my finger, and the pain woke me up.  "
+OldPos 7273 | 11 b'A lot of death. Mrs. B, two residents last week, two today. For the first time in 12 years actually there when it happened to Mrs. G. '
+OldPos 1132 | 12 b'The slush is still coming down... I am not looking forward to shoveling it.  '
+OldPos 84 | 13 b"I absolutely do not want to wake up. Too bad that we can't always get what we want "
+OldPos 187 | 14 b'My throat hurts. I think I have a cold '
+OldPos 3647 | 15 b'Pulled out the couch, did not get near enough pizza, and Dad has the thermostat in the mid-eighties, with no sign of turning it down. '
+OldPos 4823 | 16 b'Woke up late today  by about an hour lol. But I am at school now ready to do some portfolio.'
+OldPos 1920 | 17 b"Now I'm lonely!  Hmm... Maybe I could wash my ass and watch a movie."
+OldPos 7013 | 18 b'Rode so much today, I got blisters on my palms.  Need better gloves.'
+OldPos 7554 | 19 b'Work again... I need to get a life  Epic fail.'
+OldPos 5891 | 20 b'Home from school, doing nothing. But a lot of homework to do  Who wants to help me?'
+
+New positions of full vectors 20 closest
+OldPos 10 NewPos 62
+OldPos 18 NewPos 71
+OldPos 6 NewPos 73
+OldPos 1 NewPos 90
+OldPos 5 NewPos 91
+OldPos 16 NewPos 108
+OldPos 7 NewPos 138
+OldPos 19 NewPos 145
+OldPos 3 NewPos 250
+OldPos 4 NewPos 463
+OldPos 8 NewPos 813
+OldPos 11 NewPos 868
+OldPos 12 NewPos 945
+OldPos 14 NewPos 954
+OldPos 15 NewPos 1035
+OldPos 2 NewPos 1446
+OldPos 17 NewPos 1521
+OldPos 13 NewPos 3347
+OldPos 9 NewPos 4037
+
+Compared text 29700 : b'Good morning all, another weekend in the bag. High for me, got a new TV, low for me ....still not finished unpacking '
+Closest 20 --------------------------
+OldPos 21119 | 1 b"If VCU Brandcenter doesn't let me know of their decision by next week, I'd have to let them go!  Really like the school though!"
+OldPos 368 | 2 b'x_tara me tooo!! holidaysss are the best. so not looking forward to school '
+OldPos 14417 | 3 b'On my way to skool late as hell nd I dnt feel gud '
+OldPos 854 | 4 b'my god. Might have bitten off a bit more than I can chew with the mootools intellisense - taking agesssss and its so nice outside '
+OldPos 4457 | 5 b'schools back tomorrow..  watching rove.. night  xoxo'
+OldPos 904 | 6 b'Wondering why the NBA is NOT playing in my favor today..BOTH of my teams lost today.   ohsa wellsa...on to the game tonight @ 8!!'
+OldPos 11221 | 7 b"Grrr.. my ipods acting weird too! Jai ho and thinking of you aren't playing the full songs.. ughh. "
+OldPos 169 | 8 b'@stealthsbodygrd Sunday today blaahhh .. work tomoro so quiet night '
+OldPos 4596 | 9 b'just woken up, finally got to sleep last night, alone, on the couch  watching one tree hill eating cheese and crackers!'
+OldPos 5711 | 10 b'on the coach  gonna be fun!'
+OldPos 8569 | 11 b'body clock still up the chuffer..note never ever stay up late again -also afro is back '
+OldPos 938 | 12 b'hoomee.. beuatiful day dont wanna go to work '
+OldPos 3676 | 13 b'gaah have to work early tomorrow. grrr couldve spent the day fullfilling my hearts desire by shopping! think of the moneeyy hinnaa '
+OldPos 14719 | 14 b'nuttin really jus doing some textiles cw '
+OldPos 16453 | 15 b"Can't wait to see x .. ? Hannah Montana The Movie ? .. x   in Theatres  mujst wait to long  1.July  x("
+OldPos 21937 | 16 b"I'm so heart borken!  I found two amazing shirts but can only buy one! Shopping is a dangerous obsession!"
+OldPos 17892 | 17 b'homeee . great I have play practice every day thiss weeek '
+OldPos 3552 | 18 b'So... Tired... God I hate the new job, and only two days in '
+OldPos 3275 | 19 b'i neeeeeed to start doin some workkkk '
+OldPos 19018 | 20 b"I need to stop all of this social networking and get focused on getting my clothes organized, but it's a losing battle! "
+
+New positions of full vectors 20 closest
+OldPos 17 NewPos 182
+OldPos 1 NewPos 282
+OldPos 2 NewPos 361
+OldPos 19 NewPos 363
+OldPos 14 NewPos 375
+OldPos 16 NewPos 393
+OldPos 13 NewPos 414
+OldPos 15 NewPos 442
+OldPos 18 NewPos 461
+OldPos 9 NewPos 472
+OldPos 11 NewPos 480
+OldPos 5 NewPos 527
+OldPos 8 NewPos 708
+OldPos 7 NewPos 893
+OldPos 4 NewPos 979
+OldPos 3 NewPos 2635
+OldPos 10 NewPos 8870
+OldPos 6 NewPos 12746
+OldPos 12 NewPos 12783
+
+Compared text 5508 : b"Eight hours. 1500 words. Lucy happily reparked. Brain composed largely of mush. Beginning to freak out about Thursday while it's Tuesday. "
+Closest 20 --------------------------
+OldPos 2938 | 1 b"Jet Blue was nice; it wasn't their fault there was massive turbulence and a screaming, kicking toddler sitting next to me. "
+OldPos 4145 | 2 b"Today, I was putting on jeans and noting how they're my very favorite jeans and I love them so much. I proceeded to rip them. FML "
+OldPos 1832 | 3 b'The morning sun is beautiful... But it is fucking freezing! I need the beach so terribly bad. '
+OldPos 505 | 4 b'Was intending to finish editing my 536-page novel manuscript tonight, but that will probably not happen. And only 12 pages are left '
+OldPos 2080 | 5 b'Wow, the month &quot;May&quot; completely slipped my mind. My vacation just got pushed back 31 days '
+OldPos 580 | 6 b"Need to spend the rest of the day finishing my Media Studies coursework. It's so difficult!! "
+OldPos 523 | 7 b'I was on a cottage with friends in the mountains. Now I feel a bit dizzy '
+OldPos 4471 | 8 b"I smell dinner... But I can't have any  I haven't eaten since Sat afternoon."
+OldPos 1841 | 9 b'I am not digging the taste of water right now at all. '
+OldPos 6073 | 10 b'at SFO waiting on my 1st flight. I am...sad,bummed,lonely...trying to think of all the good gooddd times!!! smiles not tears  missin JRS.'
+OldPos 4317 | 11 b'Awake, kinda... Still laying in bed. Last day of the weekend  summer is coming, soooo excited! Love is the movement, believe.'
+OldPos 1074 | 12 b"Still have the effing pink eye, and I actually think it's WORSE today. Math class at 11, but skipping my observation.  This makes me sad."
+OldPos 3813 | 13 b"woke up to find this cold/flu/illness-type thing isn't going without a fight and, apparently, beats you up in your sleep. Sorry, keynote "
+OldPos 3730 | 14 b"The change in weather is affecting Connor too, he's snuffly today, poor thing. "
+OldPos 3669 | 15 b'Another sunny day it seems! Off to work a little later. Will miss the first half of the FA Cup semi '
+OldPos 2531 | 16 b'For some reason, I have a strong urge to draw illustrations for novel covers. '
+OldPos 3121 | 17 b'The worst part about laundry is: the longer that you wait to do it, the more unpleasant it becomes. '
+OldPos 4640 | 18 b'My parents got upgraded to a penthouse at their Vegas hotel. How come I never get any free hotel upgrades at check-in? '
+OldPos 2266 | 19 b'Perfectly ripe and fresh banana goes in the bag.. Arrive at office, it looks like it has been hit by a freight train. Poor banana '
+OldPos 6673 | 20 b'Tomorrow: 9am class, 11am dentist app (root canal! arrgh), 5pm meeting. Between 11am-5pm? In pain, perhaps '
+
+New positions of full vectors 20 closest
+OldPos 13 NewPos 91
+OldPos 7 NewPos 165
+OldPos 19 NewPos 233
+OldPos 5 NewPos 245
+OldPos 6 NewPos 249
+OldPos 2 NewPos 271
+OldPos 3 NewPos 355
+OldPos 1 NewPos 403
+OldPos 12 NewPos 541
+OldPos 14 NewPos 645
+OldPos 8 NewPos 654
+OldPos 18 NewPos 762
+OldPos 11 NewPos 925
+OldPos 9 NewPos 954
+OldPos 17 NewPos 959
+OldPos 4 NewPos 964
+OldPos 16 NewPos 1033
+OldPos 10 NewPos 1711
+OldPos 15 NewPos 3337
+
+Compared text 29752 : b"Morning All, I'm up too early for my liking. It would be 12, now it's 6-7. "
+Closest 20 --------------------------
+OldPos 354 | 1 b"Sometimes I just don't get it. I wish I got it. "
+OldPos 5131 | 2 b"Just saw my old house for the first time in a long time. It's so beautiful they've done a ton to it... I miss it "
+OldPos 4920 | 3 b"I think the WiFi on my iPhone is broken. It will &quot;connect&quot;, but when I actually have to use it that's another story... "
+OldPos 478 | 4 b"One day back in the office and I feel a cold coming on. Or it was my raw vegan indiscretion. Either way, I don't feel so good. "
+OldPos 296 | 5 b"Realized at 10:30 that I haven't done any washing yet, will have to stay up and do it now or no clothes for work tomorrow. "
+OldPos 2769 | 6 b"My brother doesn't understand the beauty of headbanging. So sad "
+OldPos 1022 | 7 b'Here we go again. Same old same old. '
+OldPos 1562 | 8 b'Art is kicking my ass this weekend. Epic fail. '
+OldPos 2070 | 9 b"I didn't like the ending. I saw it coming, but kept hoping it would take a turn. Not so. "
+OldPos 447 | 10 b"It's gonna be a long agonizing Tuesday. "
+OldPos 114 | 11 b"Woke up this morning to the sun shining through the curtains and blinding me. Kinda nice actually. Still can't get to SH from work. "
+OldPos 304 | 12 b'So I need to finish a book in 12 hours. '
+OldPos 2734 | 13 b"I still can't find my keys. "
+OldPos 5094 | 14 b'Laying in bed and contemplating the meaning of life with a half empty glass that is leaking on the bottom. '
+OldPos 1253 | 15 b'Has way too much to do over the next month. '
+OldPos 6 | 16 b'okay. Goodnight Twitterverse. I have to get up early tomorrow for work. '
+OldPos 3521 | 17 b'Aaaaaaaaand here we are again, with mind-numbing inevitability. '
+OldPos 3982 | 18 b"Off to the fair to ride the tilt-o-whirl. Too bad Santana doesn't play there anymore "
+OldPos 2872 | 19 b'I had fun at shangri- la last night. Too bad Kolby has to go back to FL today '
+OldPos 4544 | 20 b'Had a call fm 000-000-0000.       Did not answer. Who could it be? Going outside now to wrap my house in aluminum foil--shiny side out!'
+
+New positions of full vectors 20 closest
+OldPos 6 NewPos 16
+OldPos 9 NewPos 44
+OldPos 2 NewPos 73
+OldPos 3 NewPos 74
+OldPos 14 NewPos 76
+OldPos 5 NewPos 90
+OldPos 13 NewPos 117
+OldPos 16 NewPos 147
+OldPos 19 NewPos 165
+OldPos 15 NewPos 278
+OldPos 10 NewPos 335
+OldPos 7 NewPos 567
+OldPos 18 NewPos 691
+OldPos 8 NewPos 764
+OldPos 1 NewPos 954
+OldPos 12 NewPos 1296
+OldPos 11 NewPos 1845
+OldPos 17 NewPos 2623
+OldPos 4 NewPos 3069
+
+Compared text 17256 : b'Updated my twitter background and picture. Updating myspace next. Too bad Facebook does not let you customize and express your creativity '
+Closest 20 --------------------------
+OldPos 1303 | 1 b"I miss you twitter. My phone broke, now I'm using a stupid Nokia phone. Ughhh, I miss my advance phone. "
+OldPos 2483 | 2 b'@IvyEnvy the cubs are rated 8th in MLB, 4th in NL. '
+OldPos 6020 | 3 b"Ooops. Just ate a panini from W-mart cold that says it needed to be thoroughly cooked. It didn't taste raw. I die nao from f. poisoning? "
+OldPos 5133 | 4 b'I remember &quot;2 Guys a Girl and a Pizza Place.&quot;  That was a hilarious show.  Where the hell are the dvds? '
+OldPos 6838 | 5 b"is still in pain with infected wisdom tooth socket  lovely impromptu night with friends last night. Ivan's nose squeaks"
+OldPos 6508 | 6 b"At Thunder! But they are telling people to take their tents down.  Well we aren't until all the other hundreds of people do! So there."
+OldPos 4936 | 7 b"animal kingdom and the studios today... Without Sam. She's on her way home. "
+OldPos 3035 | 8 b"Darn! Forgot that tonight's shoot was postponed. Will be at a loose end now!&quot;  "
+OldPos 238 | 9 b"Google, I love you, but I am having the utmost difficulties sorting out my accounts. I'm sure it's my fault, but just letting you know... "
+OldPos 2128 | 10 b'Made the poor puppy throw up. Two earplugs and string are not good for puppies, though. Had to be done '
+OldPos 675 | 11 b'Editing my video interview. Any ideas on how I can reduce background noise? Had crappy mike connected for first half hour by mistake '
+OldPos 3462 | 12 b"I wish my cake pans/decorating stuff was in, I would've made a bunny cake. I guess it's on back-order - was supposed to be in yesterday. "
+OldPos 4815 | 13 b'Salmon is only good in nigiri sushi. What a disgusting way to find out. '
+OldPos 5811 | 14 b"Allergies kicked in already. Runny. Nose and itchy eyes  can't wait for a few weeks of this."
+OldPos 6270 | 15 b"Sorting out high schools for 11yo. Nerve wracking stuff. Don't want to get it wrong "
+OldPos 1775 | 16 b'The Kasabian single that is played on the Sony Bravia Zoetrope ad is not available until June. Probably not the best way to sell music. '
+OldPos 7179 | 17 b"Still watchin the Cards, ain't  looking good. "
+OldPos 2256 | 18 b"@ApplaudtheActor Oh no, definitely not a stranger to House. Just haven't watched last night's episode yet. Not looking forward to it now. "
+OldPos 964 | 19 b"Next US airings: Mon. Apr. 13 asdfasdfasdf. I don't wanna wait that long. "
+OldPos 209 | 20 b"So I've apparently lost my Flash Drive, which I really need. Any suggestions on where to look? "
+
+New positions of full vectors 20 closest
+OldPos 9 NewPos 67
+OldPos 3 NewPos 84
+OldPos 2 NewPos 140
+OldPos 16 NewPos 144
+OldPos 13 NewPos 189
+OldPos 1 NewPos 198
+OldPos 19 NewPos 370
+OldPos 8 NewPos 415
+OldPos 11 NewPos 589
+OldPos 4 NewPos 663
+OldPos 10 NewPos 876
+OldPos 7 NewPos 905
+OldPos 18 NewPos 1074
+OldPos 12 NewPos 1378
+OldPos 5 NewPos 1932
+OldPos 17 NewPos 2248
+OldPos 6 NewPos 2384
+OldPos 15 NewPos 2458
+OldPos 14 NewPos 2550
+
+Compared text 7256 : b"it's snowing  i'm off too school now.I start my intensive gym class today, so i'm at school until 9!"
+Closest 20 --------------------------
+OldPos 7916 | 1 b"remembering how hard it is to find a drummer. we had two drummers going for us but they wouldn't make time for us  we wanted a drummer."
+OldPos 2354 | 2 b'stayed at the ees houst caring my my lil one. she didnt want me to come home. i had to and missed the warly wake up IM msgs from my beau '
+OldPos 66 | 3 b"this is the worst year for formulaone. Weather ALWAYS sucks.  i hope it'll be okay when i watch in september!"
+OldPos 91 | 4 b'i feel like getting my drink onnnnnn and dancing up a storm.  damn law school!! '
+OldPos 709 | 5 b"i have no money left oh well i don't anything really!!  I can wait for 2 weeks unitl i get paied again."
+OldPos 2084 | 6 b'bah humbug-- not selected for the grant. no plan b yet. '
+OldPos 15 | 7 b"@gnimsh i'm sorry. just think you won't have any school work in 3 wks!  it's such a gloomy day in chicago.   won't be sunny/warm till wed"
+OldPos 14717 | 8 b"Had a good dinner &amp; enjoyable time out tonight. Piling up on the soul food; it's gonna be another trying week of examinations "
+OldPos 6783 | 9 b'Down to the last few flakes of meds and 6 weeks to go till harvest.  Gonna be a LONG 6 weeks.'
+OldPos 5 | 10 b'argh first day of school,this sucks 4 more years til i can move out. counting down the days already LOL jokes. gah i miss my daddy '
+OldPos 4746 | 11 b'I dont like cock, brandi took my phone  haha.'
+OldPos 19 | 12 b'NOOOO only today and tomorrow left to schools back in. i think imma cry.  i absolutely hate school with a passion'
+OldPos 194 | 13 b'back to school tomorrow  ewww.'
+OldPos 103 | 14 b'work all day, followed by 4 days of thesis writing. omg 2 1/2 weeks to finish. shoot me now. '
+OldPos 2693 | 15 b'POLITICAL unrest in thailand = brother not going = no car for two weeks for me. Fuck you thailand trannies '
+OldPos 7467 | 16 b'Had a dream that i met &amp; became good mates with Liam Neeson. i was going to tweet a pic of us, but i can only tweet i dreamt it all now '
+OldPos 6 | 17 b'awake way too early. i literally feel nauseous  i hate this science class'
+OldPos 244 | 18 b'Last day of holidays  - should i do my h/w?? NAHHH.'
+OldPos 1983 | 19 b"the hubby has 2 work 2day  my uncle is cooking liver &amp; onions (yuck) 4 my g-pa's b-day. Its good 2 c my uncle. Its been 2 long!"
+OldPos 2727 | 20 b'ignore the picture! my computer is weird with uploading to twitter so i had to do it at my friends and thats the only picture she had. '
+
+New positions of full vectors 20 closest
+OldPos 15 NewPos 7
+OldPos 5 NewPos 10
+OldPos 19 NewPos 12
+OldPos 6 NewPos 17
+OldPos 1 NewPos 51
+OldPos 7 NewPos 89
+OldPos 14 NewPos 99
+OldPos 17 NewPos 116
+OldPos 8 NewPos 131
+OldPos 11 NewPos 152
+OldPos 2 NewPos 204
+OldPos 4 NewPos 591
+OldPos 13 NewPos 602
+OldPos 9 NewPos 628
+OldPos 3 NewPos 669
+OldPos 16 NewPos 724
+OldPos 18 NewPos 798
+OldPos 10 NewPos 927
+OldPos 12 NewPos 1235
+
+Compared text 8119 : b"@shamzleroc ooooh!  I wanna come. I was BUSSIN they asses the other day, so I'm probably banned. She tried to call me a &quot;button basher&quot;!"
+Closest 20 --------------------------
+OldPos 3962 | 1 b'@Pookthy @CraftyQuincy DH is going in a week  My 17mos and I are going at the end of May, going to Vancouver 1st to visit my parents.'
+OldPos 3545 | 2 b"I thought @twooting would be all about Twitter in Tooting.  I'm disappointed.  "
+OldPos 2646 | 3 b'@KellenParker can you sign on google?  I need your advice on something.  '
+OldPos 6320 | 4 b"Won't be tweeting much tonight   Maybe all tweets will come out in form of Tweet vomit later at about 1 in the morning."
+OldPos 2394 | 5 b'@gunnerboy248 I chased a teenager who was SCARED of me! It was fun! Mom made me come in the house.  Now I have to wear a leash outside '
+OldPos 14267 | 6 b"dotnetnuke.com is down   Server Error in '/' Application."
+OldPos 2877 | 7 b"Ugh, fixed my #iPhone syncing issue,  just two days ago, now it's back again. Not happy. "
+OldPos 7290 | 8 b'@mrskutcher I watched a three hour movie on sex slavery on the hallmark channel. It was horrible '
+OldPos 3932 | 9 b"Is LJ acting up for anyone else right now?  I can't get on to post.  "
+OldPos 1716 | 10 b'watching @danecook on jimmy kimmel then going to bedddd. 8am chatroom for an online class in the morning. '
+OldPos 497 | 11 b"@dinahlee1 ARGH!  Come hang at my place any time this week... you tell me when.  I'll clear my schedule.  I can't believe you're moving  "
+OldPos 1657 | 12 b'@aussieboby   Where does the weekend go? Sounds like it times for some iPhone poker! If the girls will let you. ;)'
+OldPos 4864 | 13 b'mouring her dog, Cosmo.  This is very, very hard.  '
+OldPos 1056 | 14 b"@MissBB83 I've been reading about it on the news.    It seems to keep getting worse.  So terrible.  "
+OldPos 13592 | 15 b"Grrr can't center a div in Safari for some reason. Using width: 50em, margin: 0 auto;, works fine in FF but aligns left in Safari "
+OldPos 10485 | 16 b'3yo with the pox is running round garden like a loon.  I have the most sore throat ever and feel like death, boo '
+OldPos 2754 | 17 b"Bought a purple shirt and plaid shorts to go w/it at aeropostale today. Tried to buy The Alison Rules book but couldn't find it @ waldens "
+OldPos 2102 | 18 b"My drink is sat on the desk aaaaaall the way on the other side of my room.  Thought i'd tweet about it. Addicted much? /dehydration"
+OldPos 5643 | 19 b"i'm not dying for a 7-11 slurpee or anything.  had one earlier, but it was bluerasp. not wild cherry. BOO! "
+OldPos 3759 | 20 b'@louislucci I usually only sleep 4 hours a night or so.  Going to bed now, have to get up at 5am '
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 227
+OldPos 2 NewPos 391
+OldPos 12 NewPos 532
+OldPos 10 NewPos 582
+OldPos 11 NewPos 586
+OldPos 15 NewPos 594
+OldPos 3 NewPos 606
+OldPos 13 NewPos 612
+OldPos 6 NewPos 644
+OldPos 5 NewPos 666
+OldPos 7 NewPos 833
+OldPos 19 NewPos 936
+OldPos 17 NewPos 1400
+OldPos 8 NewPos 1520
+OldPos 4 NewPos 1614
+OldPos 16 NewPos 1857
+OldPos 9 NewPos 2042
+OldPos 14 NewPos 3331
+OldPos 18 NewPos 6630
+
+Compared text 9711 : b'to press enter. i think i messed up something underneath '
+Closest 20 --------------------------
+OldPos 798 | 1 b'i want to go to the con in the morn but doing it would be bad for me moneywise for the rest of the fortnite. '
+OldPos 3427 | 2 b'why do both of my best friends have to be shitty simultaneously?  Can u at least take turns hurting my feelings? jerks..    going 2 sleep.'
+OldPos 4955 | 3 b'i have a pain that will not go away. exacerbated by hanging out with friends.  NOT COOL. ow.'
+OldPos 92 | 4 b"last time i watched this movie it had this huge epiphinal line that was exactly what i needed. now that i need it again i can't find it. "
+OldPos 226 | 5 b"Working on a song, this is taking ages i can't seem to get it right. It's missing something "
+OldPos 2687 | 6 b"2 sick- couldn't sleep so no class today.  i actually enjoy school so i'm really bummed."
+OldPos 624 | 7 b"I need a pot noodle. Random but true! Also i'm very distressed because my shia labeouf calender keeps falling off my door. "
+OldPos 84 | 8 b"Holy Cow!! i'm writing a song and it's probably one o my best. too bad i can't play an instrument or sing. "
+OldPos 258 | 9 b'yesterday i attributed my soreness to the 3hr walk. today i think it is the flu '
+OldPos 8199 | 10 b'Last lie in  school tomrrow BOO. but going liverpool today haha.'
+OldPos 139 | 11 b'bed with jolynn..i hate last nights in philly, knowing i have to leave tmrw. '
+OldPos 496 | 12 b'went with the kids to go watch 17 again!! it was way better than i thought it would be but Alexis threw a fit and didnt get to finish it. '
+OldPos 2262 | 13 b'havent update this in a while bin stuck with my gf during the week. now im bk in class learnin '
+OldPos 5207 | 14 b'watching b play video games.  oh well, its his birthday.  looove him. and fracking tired. lacking enough sleep to get through a full day. '
+OldPos 75 | 15 b'so today is apparently cuddle up day. and i have no one to cuddle up with. '
+OldPos 25 | 16 b'volunteering at the fun run today. i want more sleep '
+OldPos 454 | 17 b"i misss freaking sparky! my doggie that isn't my doggie at all. "
+OldPos 7009 | 18 b'waiting to go to work...all my family is sleeping and I am not...  not fair.'
+OldPos 6091 | 19 b'Today is a patriots shirt day, September seems so far away, roll on new NFL season. Omg why are the Yankees losing matches so badly?? '
+OldPos 365 | 20 b'feeling lost, naked and confused (JK, sort of).....no iphone for me. '
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 37
+OldPos 2 NewPos 77
+OldPos 14 NewPos 83
+OldPos 5 NewPos 105
+OldPos 8 NewPos 114
+OldPos 6 NewPos 122
+OldPos 3 NewPos 127
+OldPos 11 NewPos 142
+OldPos 9 NewPos 167
+OldPos 10 NewPos 209
+OldPos 4 NewPos 212
+OldPos 7 NewPos 220
+OldPos 17 NewPos 235
+OldPos 16 NewPos 236
+OldPos 13 NewPos 242
+OldPos 12 NewPos 246
+OldPos 18 NewPos 260
+OldPos 15 NewPos 535
+OldPos 19 NewPos 1469
+
+Compared text 8351 : b"@stellarkaitlin i actually dont know  i'll call around and let you know in a sec."
+Closest 20 --------------------------
+OldPos 152 | 1 b'@freakyfudge thats all i have done today..nothing else..  i think we need to have a party soon.'
+OldPos 1546 | 2 b'i have the hiccups  goodnight.'
+OldPos 1 | 3 b"@olivenright hi. i miss you. i haven't seen you all weekend  k im going to shleep now."
+OldPos 305 | 4 b'omg, havent twittered all day. i feel so empty inside.  goodnight. promise to twitter tomorrow during school'
+OldPos 133 | 5 b'Slusherrr: i know.  i hope all us sophmores make it.'
+OldPos 216 | 6 b"@gabriellegg i just wish i could give you a lil hug before i go back to Denmark. But im leaving wed  don't wanna"
+OldPos 55 | 7 b"@mileycyrus miley...im in italy but i won't see you  im sooooo sad."
+OldPos 128 | 8 b'@_MissE_ ooh ok, i txted you a zillion times this weekend  I am soo over our phone. i talked them in to moving the anniversary date.'
+OldPos 29 | 9 b"i forgot about twitter  i'm sorry twitter."
+OldPos 104 | 10 b"@dinibeanie oh that's ew  i hope the test went alright. i think uni weeks should be 3 days long at most, and nothing more."
+OldPos 1463 | 11 b"i'm off to get food. my brother went fishing today  but didn't catch any fish, thank god."
+OldPos 553 | 12 b'omg. my mouth is in so much pain  i just wanna sleep untill its time to take my braces off.'
+OldPos 437 | 13 b'Leaving santa cruz  i love those people.'
+OldPos 27 | 14 b'@alysilverio  ahh! i know i just looked at the pics on google again yesterday and found some better recent pictures. god doesnt like us.'
+OldPos 116 | 15 b'watching greek. cant believe its the last day ill see you guys.  june 20.... ahh.'
+OldPos 66 | 16 b'doesnt want to leave nathan for a week  but i know it will probably be for the better.'
+OldPos 481 | 17 b"i'm bummed i'll be missing the mermaid parade this year  had mad fun in 08. Its june 20th, in case ya'll wanna go."
+OldPos 5 | 18 b'@MistressDragon some one who was a freind till last week. wont tell me what i did. i know i can be weird  it hurts.'
+OldPos 780 | 19 b"canucks won! sweet! it's a friday night and i'm ready for bed. i'm super lame.  nite nite."
+OldPos 1209 | 20 b'Bored  I think i may watch the dark knight.'
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 3
+OldPos 5 NewPos 18
+OldPos 9 NewPos 53
+OldPos 4 NewPos 60
+OldPos 2 NewPos 64
+OldPos 19 NewPos 79
+OldPos 7 NewPos 97
+OldPos 3 NewPos 109
+OldPos 6 NewPos 182
+OldPos 10 NewPos 201
+OldPos 14 NewPos 214
+OldPos 18 NewPos 309
+OldPos 15 NewPos 408
+OldPos 8 NewPos 424
+OldPos 11 NewPos 439
+OldPos 13 NewPos 587
+OldPos 17 NewPos 621
+OldPos 12 NewPos 695
+OldPos 16 NewPos 1910
+
+Compared text 12843 : b"Just checked, pretty sure it's a repeat "
+Closest 20 --------------------------
+OldPos 7976 | 1 b'Damn my fucking Brain... searching for an Slab Serif Type called Lubilin or something similiar '
+OldPos 9497 | 2 b'Seems like sync over the air is not working for contacts and calendar in iPhone 3.0 beta 3 '
+OldPos 2092 | 3 b'Damn, I thought I had successfully ousted that cat, but she came home '
+OldPos 4793 | 4 b'Just got stuck backstage at the killers, my camera is fkuked '
+OldPos 3332 | 5 b'Hoping my puppy gets better!!! She had to go to the doggie ER last night '
+OldPos 5346 | 6 b'I threw my sign at donnie and he bent over to get it but it was under a thingee so he made a sad face at me '
+OldPos 2177 | 7 b'This will have to do, I lost the password to the version without the _ '
+OldPos 3540 | 8 b"Bought Peggle today and it's already burned into my plasma "
+OldPos 5781 | 9 b'Can anyone recommend an online HTML editor that acts similar to Dream Weaver? My copy of DW just died on me '
+OldPos 11466 | 10 b"thought it would be interesting to get F1 updates from Twitter, slightly regretting the decision, I can't see anyone elses's updates "
+OldPos 16044 | 11 b"Is needing a new mobile phone, The LG KU990 Viewty caught my eye but I can't seem to find it anywhere in black "
+OldPos 5954 | 12 b"Am seeing so many raccoon roadkills on the way to raccoon state park, it's not funny "
+OldPos 20932 | 13 b"According 2 my lab tests, I've been on the wrong antibiotics for a week  I had bad reaction to last antibios AND I still have kidney infec"
+OldPos 849 | 14 b'My Piggie is ill '
+OldPos 1858 | 15 b'doh may have ruined me lawn by being lazy and not watering it enough '
+OldPos 9695 | 16 b"Babyshowerington with mom dukie while I'm hungover and sick "
+OldPos 4559 | 17 b'Enjoying the weather and cuddle my sick cat... poor girl has epilepsy '
+OldPos 5140 | 18 b"Uhoh - Daddy is trying to hamper Mommy's plans to get me a kitteh pal to play with "
+OldPos 9203 | 19 b'Ugh. My replacement phone is grosss, and I lost ALL my contacts '
+OldPos 6667 | 20 b"So now I have a hurt wrist AND I'm wicked sick "
+
+New positions of full vectors 20 closest
+OldPos 5 NewPos 97
+OldPos 1 NewPos 122
+OldPos 10 NewPos 128
+OldPos 14 NewPos 144
+OldPos 8 NewPos 152
+OldPos 11 NewPos 178
+OldPos 7 NewPos 196
+OldPos 13 NewPos 200
+OldPos 9 NewPos 237
+OldPos 6 NewPos 336
+OldPos 3 NewPos 344
+OldPos 15 NewPos 356
+OldPos 4 NewPos 358
+OldPos 16 NewPos 386
+OldPos 12 NewPos 655
+OldPos 18 NewPos 1587
+OldPos 2 NewPos 1720
+OldPos 17 NewPos 11193
+OldPos 19 NewPos 11244
+
+Compared text 8705 : b'@Lorenzohenrie Im having chinese take-out. Probably not as good as italian. '
+Closest 20 --------------------------
+OldPos 3780 | 1 b'wow, @myClipperNATION is following me, thats more than I can say for my Lakers.  Guess theyre too busy for their fans.'
+OldPos 2359 | 2 b"@FrumiousMe T'was the antibiotics for root canal.  Will take Polaramine tonight for hives, other symptoms have gone now thank goodness."
+OldPos 5999 | 3 b"Poor Britney. As if it's not hard enough being her, she also ust got pwned by Stevie Nicks... "
+OldPos 814 | 4 b"@minnieburley Funny, all I can think of now is curry as well. Too bad I'm already mid-way thru cooking din din "
+OldPos 5435 | 5 b"@MiseryXchord I like some of  The Killers' music but I have always thought they sounded terrible live. "
+OldPos 2677 | 6 b'@blogness I got to my store early (thought it opened at 9, but it opened at 10). Was going to grab a few for friends, but 1 person limit. '
+OldPos 859 | 7 b"Someone (@Ratsofatsorat) left a few sips of mocha in the reusable coffee mug.   Last week.  Now it's chunky "
+OldPos 5434 | 8 b'Hey anyone tell me that today how I complete 1000 Followers?? Now I have 952  I m stuck now. please Reply.'
+OldPos 5055 | 9 b'Bollocks. Screw you, #Spurs. Even though it is our fault as always. Hello #Championship.  #nufc'
+OldPos 5443 | 10 b"@KimKardashian  Is Khloe on Twitter?  I hope I didn't follow the fake one. "
+OldPos 4993 | 11 b"Wishes he was seeing M.I.A at Coachella right now. I've seen her there twice before and I feel like I'm missing out up here in Portland "
+OldPos 5581 | 12 b"@fitnessaddict34 I'm actually halfway through the last book.  I don't want it to be overrrrr, they're sooo good! "
+OldPos 6607 | 13 b'@LPetersson pls pls PHOTOS!  I\xef\xbf\xbdm not gonna sign up to Facebook just to see photos.  Put them on Flickr or something! '
+OldPos 4110 | 14 b"But the international font looks ugly. Going back to original font. After all, who'd tweet in malayalam "
+OldPos 6996 | 15 b"@Canageek ...profile page and hit &quot;older&quot; till you reach the two #tfe events... And paste each character's arc seperately. Or; give up "
+OldPos 4382 | 16 b'no idol love. wishing we could use macs at work. THEY ARE SO PRETTY AND EASY '
+OldPos 20 | 17 b'@KarimJebari thanks for concern. No physical harm. I was just about to enjoy some malatang when I found my wallet forever gone. '
+OldPos 2514 | 18 b"@hallowed_ground Sadly, that was on our agenda but we didn't get to it.  We also didn't make it to the Roadhouse. Never enough time!"
+OldPos 4451 | 19 b"@Future_Echoes No idea why, but I'd love a Drobo!  Need to sort out a proper backup solution for home. Business is covered, home is flaky "
+OldPos 4513 | 20 b'Home sweet home... Thank God. My brother picked me up this morning to go to Groningen, we ended up next to the highway with 160 km/h. :S '
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 92
+OldPos 19 NewPos 384
+OldPos 10 NewPos 424
+OldPos 5 NewPos 441
+OldPos 15 NewPos 458
+OldPos 7 NewPos 660
+OldPos 12 NewPos 734
+OldPos 8 NewPos 921
+OldPos 3 NewPos 1032
+OldPos 6 NewPos 1148
+OldPos 2 NewPos 1344
+OldPos 18 NewPos 1707
+OldPos 9 NewPos 2251
+OldPos 16 NewPos 2295
+OldPos 17 NewPos 2311
+OldPos 14 NewPos 2355
+OldPos 11 NewPos 2436
+OldPos 4 NewPos 2443
+OldPos 13 NewPos 3224
+
+Compared text 24108 : b"I'm starving and I've got nothing in the kitchen "
+Closest 20 --------------------------
+OldPos 956 | 1 b"I can't believe I still don't know where my keys are "
+OldPos 615 | 2 b'my baby just went home '
+OldPos 217 | 3 b'Grr. My hair is too short '
+OldPos 136 | 4 b".... I'm hungry but I'm scared to eat cause I'm bloated "
+OldPos 1 | 5 b"I'm hungry and I don't know what to eat "
+OldPos 242 | 6 b'I need friends for twitter '
+OldPos 85 | 7 b"Can't find my cue cards "
+OldPos 1935 | 8 b'Grrrr, feel like putting my head in the sand '
+OldPos 1194 | 9 b"I'm so hungry, but the only place to eat right now is the bakery... there goes the workout "
+OldPos 3535 | 10 b'Plug on train once again doesnt work '
+OldPos 4468 | 11 b"Hannah Montana movie was amazin'. I should be at the Fall Out Boy concert "
+OldPos 2003 | 12 b'my back is in bits '
+OldPos 3693 | 13 b'my whole body feels itchy and like its on fire '
+OldPos 3523 | 14 b'reading all the coachella updates make me want to be there '
+OldPos 1177 | 15 b'cant get full screen though '
+OldPos 908 | 16 b'I want to eat a bagel with cream cheese without having to go to the bathroom after '
+OldPos 10732 | 17 b'Lotto quest failed again tonight  damn it!  *I am Charmed*'
+OldPos 957 | 18 b'I can totally see myself loosing waaaay too much time here '
+OldPos 1010 | 19 b'wow my x60s is dead '
+OldPos 1344 | 20 b'my bestie ran away from home '
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 5
+OldPos 2 NewPos 109
+OldPos 18 NewPos 206
+OldPos 6 NewPos 255
+OldPos 10 NewPos 263
+OldPos 15 NewPos 324
+OldPos 16 NewPos 336
+OldPos 9 NewPos 386
+OldPos 3 NewPos 388
+OldPos 17 NewPos 580
+OldPos 5 NewPos 738
+OldPos 13 NewPos 816
+OldPos 19 NewPos 982
+OldPos 7 NewPos 1311
+OldPos 11 NewPos 1449
+OldPos 14 NewPos 1481
+OldPos 8 NewPos 1550
+OldPos 12 NewPos 1651
+OldPos 4 NewPos 1756
+
+Compared text 26393 : b'Hooray for Toro Rosso!  Sucks for David Coulthard   He deserves better'
+Closest 20 --------------------------
+OldPos 11726 | 1 b'So tired of being unemployed.  Last few jobs were so varied in what they wanted...I had experience in all but 1 area, choose someone else '
+OldPos 777 | 2 b'You have waited too long...just like myself.  I am hurting all over as well '
+OldPos 1620 | 3 b"@PaulMdx  Visual studio doesn't  let me draw things quick enough when I'm trying to explain a concept "
+OldPos 114 | 4 b"Puffy eyes are awesome!  I don't even have a good story to go along with it "
+OldPos 15 | 5 b'My brain hurts.  Talking about digitisation is very complicated '
+OldPos 22793 | 6 b'Yawn woke up. Time for another day of ignoring my &quot;friends&quot;. Goody. '
+OldPos 9315 | 7 b'raining here too.  Wanted to plant my gardenia bushes - now have to clean the house instead '
+OldPos 12824 | 8 b'N-Dubz tonight  hopeing thay will take me !!!  love the song broken ironik x'
+OldPos 852 | 9 b"R.I.P Mobeens, Ilford.  For those that know, it's a sad sad day "
+OldPos 20144 | 10 b'I might hit up club Essence in Beaumont tonite!! My dj Go Dj JBoss spinnin!! but look at the weather '
+OldPos 16213 | 11 b'Blackberry bout to die  still @ the hard rock doing documentary shit!!'
+OldPos 9161 | 12 b'seriously cant do a single thing  monoply is not worth unefficency  im very annoyed about this'
+OldPos 1854 | 13 b'sat at pauls  he wont let me have a the seat  x'
+OldPos 1664 | 14 b'omg this bed is making me sick  i cant even sleep in it '
+OldPos 18547 | 15 b'All this waiting is really bugging me  i watch a lot of mac mini video on YT and i just cant wait ...... IM GETTING A MAC MINI SOON !!!!!!'
+OldPos 4645 | 16 b'Dude i really want to start a bra fund. Having big boobs sucks  i need new bras sooo bad!! This is ridiculous '
+OldPos 11877 | 17 b"To bad yvonne won't be there tonight  she's having a ladies night so that's pretty cool but I still miss her "
+OldPos 4943 | 18 b'didnt play tournament  lost playoffs  goin 2 bed soon'
+OldPos 10035 | 19 b"nothinn  nothings on tv  maybe they've run out of programs"
+OldPos 21267 | 20 b"haha i am so lost can anyone actuallyy see what i'm saying??  if u can.. help me!im so confused all i wanna do is twitter "
+
+New positions of full vectors 20 closest
+OldPos 15 NewPos 5
+OldPos 12 NewPos 96
+OldPos 3 NewPos 118
+OldPos 2 NewPos 136
+OldPos 1 NewPos 142
+OldPos 5 NewPos 176
+OldPos 6 NewPos 1814
+OldPos 19 NewPos 2264
+OldPos 10 NewPos 2270
+OldPos 4 NewPos 2650
+OldPos 13 NewPos 4175
+OldPos 11 NewPos 4353
+OldPos 18 NewPos 7218
+OldPos 9 NewPos 14227
+OldPos 7 NewPos 14396
+OldPos 14 NewPos 14998
+OldPos 17 NewPos 17463
+OldPos 8 NewPos 18637
+OldPos 16 NewPos 18782
+
+Compared text 18330 : b'Home. Feeling good. Resisted another tattoo. Too lazy to wash off the eye makeup...... Oh well  Wearing last nights liner for tomorrow.'
+Closest 20 --------------------------
+OldPos 1381 | 1 b"Sore throat.  would love a bowl of grandma's matzo bowl soup right now."
+OldPos 7136 | 2 b'Did the gardening, got some trees to plant as had to cut down a dead one. Getting some more fish as the heron dined dined out on 20 odd '
+OldPos 2321 | 3 b'Not feeling well again. Stupid migraine making my tummy upset.  and my whole body aches, shoot me now.'
+OldPos 7320 | 4 b"Noodle update: they weren't worth it. They were spicy and rank "
+OldPos 6210 | 5 b"Downstairs with the kids for less than an hour and I'm already starting to get shrieky  I hate when I let them press my buttons."
+OldPos 5845 | 6 b'Sutil missed a golden chance  again. No points yet for Force India. Ferrari is the only other #F1 team without point in 09 '
+OldPos 2716 | 7 b"Wondering why I didn't buy a netbook for my 2 week road trip.     My 17 inch Compaq is somewhat unwieldy ....hoping for in-flight WiFi!"
+OldPos 6747 | 8 b'Orient Special Chicken - &quot;highly recommended&quot; or not - not so special. '
+OldPos 4700 | 9 b'I am feeling like the zombie of death at work. Oy. I hate working at 730am every weekend.  can I have my life back?'
+OldPos 68 | 10 b'Just going to look for the paracetamol  it has been a while since I had a good nights sleep.'
+OldPos 7267 | 11 b'CBI is Congress Bureau of Investigation. ...Ita a BIG RED QUESTION MARK on the capability of Indian Judiciary System... '
+OldPos 1965 | 12 b"Tirrred. Watching Chris Crocker videos. Just made some rocky rooaad, I wanna eat it but the chocolate hasn't set "
+OldPos 2755 | 13 b"I'm pretty sure I have strep throat  I can't eat or drink. I need some TLC"
+OldPos 226 | 14 b"Feeling crazy allergic to something lately. It's no fun, and it doesn't make mornings any easier  I wanna go back to bed so badly."
+OldPos 6641 | 15 b'But too bad Adrian had to crash when he had just 6 more laps to go   He was so close to getting some points on his plate.'
+OldPos 5543 | 16 b'My xbox360 died! I have no stress relief  How depressing... and in the middle of moving to a new apartment! UGH! Someone cheer me up.'
+OldPos 4063 | 17 b'Off to the office again today - going to be a BUSY day  So many things to do.'
+OldPos 2526 | 18 b'Tired, and I feel really sick  But I may be going to target way later.'
+OldPos 5734 | 19 b'Avocets are ar RSPB Conwy, and an Osprey flew over this morning. Missed that  '
+OldPos 5692 | 20 b"My cat's missing  Still, I just had a fish-finger sandwich, so it's not all bad."
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 40
+OldPos 17 NewPos 248
+OldPos 10 NewPos 313
+OldPos 11 NewPos 355
+OldPos 4 NewPos 365
+OldPos 2 NewPos 416
+OldPos 14 NewPos 616
+OldPos 8 NewPos 675
+OldPos 3 NewPos 698
+OldPos 12 NewPos 1009
+OldPos 5 NewPos 1067
+OldPos 7 NewPos 1074
+OldPos 13 NewPos 1119
+OldPos 15 NewPos 1449
+OldPos 19 NewPos 1827
+OldPos 16 NewPos 1981
+OldPos 9 NewPos 2199
+OldPos 6 NewPos 2440
+OldPos 18 NewPos 3829
+
+Compared text 27366 : b'Just landed now to school '
+Closest 20 --------------------------
+OldPos 1852 | 1 b'Need to summon the enthusiasm to clean the cupboard and put it all back though '
+OldPos 993 | 2 b'has one more day until spring break is over '
+OldPos 1819 | 3 b'back to work after two week holday  x'
+OldPos 1350 | 4 b'Coming back to Bournemouth in a few hours, hopefully weather is better than it has been at home '
+OldPos 6332 | 5 b'Back to work on Monday after 2 weeks off  '
+OldPos 2408 | 6 b'Heading to bed! Have to be at work in 6 hours '
+OldPos 6755 | 7 b'to do: avoid spending my entire paycheck over the next two weeks '
+OldPos 690 | 8 b'4 more hours before I head to work '
+OldPos 2555 | 9 b'Bout to start studyin! Got LGS test tonight '
+OldPos 5232 | 10 b"Neurobiology and Contemporary morality exams on Monday? I think, therefor I'm screwed "
+OldPos 5860 | 11 b'Missed the train to York, no Wifi and blackberry battery is going to die soon - not a good start to the day '
+OldPos 10925 | 12 b"Off this weekend! Selma reenactment tomorrow, it's supposed to rain  figures"
+OldPos 39 | 13 b'Just about to leave for another exciting day at work '
+OldPos 2886 | 14 b'skipping sailing this weekend, have some work to do '
+OldPos 995 | 15 b'Back to work today after 2 fantastic weeks off '
+OldPos 9458 | 16 b'its day one of my ivf injections so let the fun begin '
+OldPos 6770 | 17 b'This is my last hour on Twitter for the next week '
+OldPos 3726 | 18 b"lil1 has gone with her Dad in the tractor and I'm going to clean the bathroom "
+OldPos 1119 | 19 b'Yawn yawn yawn!! 10 more minutes in bed '
+OldPos 9959 | 20 b'A gorgeous day and I have to spend it at work helping prom kids pick out their tux '
+
+New positions of full vectors 20 closest
+OldPos 19 NewPos 95
+OldPos 5 NewPos 100
+OldPos 1 NewPos 116
+OldPos 2 NewPos 143
+OldPos 3 NewPos 202
+OldPos 13 NewPos 290
+OldPos 15 NewPos 322
+OldPos 12 NewPos 392
+OldPos 14 NewPos 426
+OldPos 9 NewPos 443
+OldPos 11 NewPos 497
+OldPos 10 NewPos 619
+OldPos 16 NewPos 686
+OldPos 18 NewPos 748
+OldPos 17 NewPos 754
+OldPos 7 NewPos 958
+OldPos 8 NewPos 1179
+OldPos 6 NewPos 1188
+OldPos 4 NewPos 1579
+
+Compared text 22169 : b"i can't go to sleep "
+Closest 20 --------------------------
+OldPos 475 | 1 b'i gots my side of the bed all crummy '
+OldPos 3906 | 2 b'my friend says ur gay stupid jonas brothers '
+OldPos 22 | 3 b'i wanna go home '
+OldPos 10464 | 4 b"I'm a little sad to see Jumpcut.com go "
+OldPos 13932 | 5 b'Back home ! and am looking at the work that i know have to and wanting to cry '
+OldPos 11031 | 6 b'is bummed, went to check out warped tour and scary kids wont be playing in ohio '
+OldPos 793 | 7 b'writing essays, gutted that i cant be outdoors '
+OldPos 12 | 8 b"i didn't have enough sleep "
+OldPos 347 | 9 b'i have to fill two hours '
+OldPos 2483 | 10 b'im finally awake but idnt feel soo good '
+OldPos 708 | 11 b'i miss you  homo'
+OldPos 2406 | 12 b'ive been awake for so long it feels about 6pm   meh '
+OldPos 48 | 13 b'i really dont want to leave him '
+OldPos 3317 | 14 b'Im trying to figure out how this twitter thing works  '
+OldPos 6036 | 15 b'topshop didnt have my size in the shoes i want oh shitter '
+OldPos 1576 | 16 b'playing wow on a saturday night ! '
+OldPos 8015 | 17 b'I saw conor oberst at the glass house on wednesday!! He is amazing!! &lt;3 &lt;3 &lt;3 I wish I was at coachella this weekend '
+OldPos 127 | 18 b'misses him right now. i need a hug '
+OldPos 3917 | 19 b'gettin me some eats, i have no stories to tell today '
+OldPos 5156 | 20 b'this situation really makes me rethink my time with ben '
+
+New positions of full vectors 20 closest
+OldPos 12 NewPos 8
+OldPos 4 NewPos 22
+OldPos 5 NewPos 26
+OldPos 9 NewPos 34
+OldPos 1 NewPos 39
+OldPos 6 NewPos 59
+OldPos 7 NewPos 68
+OldPos 14 NewPos 84
+OldPos 16 NewPos 100
+OldPos 8 NewPos 108
+OldPos 17 NewPos 114
+OldPos 19 NewPos 142
+OldPos 13 NewPos 318
+OldPos 3 NewPos 687
+OldPos 2 NewPos 1256
+OldPos 15 NewPos 1553
+OldPos 18 NewPos 1642
+OldPos 11 NewPos 1723
+OldPos 10 NewPos 1733
+
+Compared text 27932 : b'aw, i meant to put some ramen and stuff in the package but i forgot '
+Closest 20 --------------------------
+OldPos 2636 | 1 b'Only just woke up and yet still feel like i havent slept at all '
+OldPos 1084 | 2 b'a lil bit burnt.. relaxing inside all day but wishing i was out in the sun '
+OldPos 1280 | 3 b'i am not looking forward to this ww meeting, i have not been a good dieter this week '
+OldPos 1248 | 4 b'i wanna sleep but dont think its gonna happen so soon with all the loudness of relay '
+OldPos 859 | 5 b'i havent eat for almost a day '
+OldPos 323 | 6 b'wish i could game some more tonight but feeling like crap right now '
+OldPos 1098 | 7 b'just got home from a long night and im not even tired '
+OldPos 11 | 8 b'my laptop has a virus i think '
+OldPos 346 | 9 b'ya i need a shower btw and these ducks dont like me '
+OldPos 8974 | 10 b'lieing in bed with a very soe throat feelin very sorry for myself  boo hoo hooooo'
+OldPos 186 | 11 b'kinda bummed that i missed copeland the other day '
+OldPos 9615 | 12 b'work all day! yay me! sundays are not fundays for me '
+OldPos 879 | 13 b'I really enjoyed last night! and i am truely sorry for giving Mel my cold '
+OldPos 560 | 14 b'sorting through 5gb of music to but some on my new MP3 as i broke my old one '
+OldPos 14 | 15 b'ew i just ate a piece of liver which i thought was normal meat '
+OldPos 17 | 16 b'i burnt my tongue on miso soup today '
+OldPos 268 | 17 b'this week is not going as i had hoped '
+OldPos 26764 | 18 b'So I better start some work.         Sucks                         '
+OldPos 153 | 19 b'You have to take it from a pic on your computer and i cant exactly remember '
+OldPos 550 | 20 b"still working hard in the office, not going as expected, well it's taking much longer than i thought "
+
+New positions of full vectors 20 closest
+OldPos 11 NewPos 8
+OldPos 14 NewPos 15
+OldPos 17 NewPos 16
+OldPos 1 NewPos 22
+OldPos 2 NewPos 37
+OldPos 3 NewPos 159
+OldPos 4 NewPos 191
+OldPos 12 NewPos 205
+OldPos 8 NewPos 222
+OldPos 10 NewPos 240
+OldPos 16 NewPos 330
+OldPos 19 NewPos 352
+OldPos 13 NewPos 364
+OldPos 6 NewPos 394
+OldPos 7 NewPos 546
+OldPos 18 NewPos 625
+OldPos 5 NewPos 982
+OldPos 9 NewPos 1140
+OldPos 15 NewPos 1702
+

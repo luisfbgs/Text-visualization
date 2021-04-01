@@ -1,0 +1,1368 @@
+K - Mean K closest position differences
+5 - 2208.197420 - 0.926393
+10 - 2833.027047 - 0.905566
+15 - 3214.487918 - 0.892850
+20 - 3491.443088 - 0.883619
+25 - 3706.929677 - 0.876436
+30 - 3878.828527 - 0.870706
+35 - 4025.585526 - 0.865814
+40 - 4158.970210 - 0.861368
+45 - 4271.999208 - 0.857600
+50 - 4372.882802 - 0.854237
+K - Neighborhood preservation
+5 - 0.210307
+10 - 0.186350
+15 - 0.173898
+20 - 0.167608
+25 - 0.163311
+30 - 0.160316
+35 - 0.158769
+40 - 0.158087
+45 - 0.157897
+50 - 0.157897
+Full vectors
+------------------
+
+Compared text 5933 : b"off to  slow start, somewhat planned... the boo had us up much of the night cuz she couldn't breathe - cold+TX allergies "
+Closest 20 --------------------------
+1 b'Have so much work to do today  Should have started yesterday'
+2 b'is coughing too much!! '
+3 b"There is too much light in this room - it's hard to sleep "
+4 b'Restless on a Sunday night again... '
+5 b'It was a sleepless night '
+6 b'Has too much overtime at work '
+7 b'@HOPEY__09 much much worse '
+8 b'too much work to do '
+9 b'Had too much caffeine today... '
+10 b'Woke up, I think my allergies are starting up '
+11 b'Aw fuck - this night ended badly '
+12 b'So much homework to do today '
+13 b'ugh feel sick from drinking too much yesterday '
+14 b'@bethdoe yes, at 11pm! and we start again at 2pm '
+15 b"I hate low humidity.. I can't breathe anymore "
+16 b'Has a major headache...2 much party last night '
+17 b'Well that was a fun nights work, now to start the working day '
+18 b'Sunday night... '
+19 b'is procrastinating - must work harder '
+20 b'@AustGr3m 7.10am now, starts at 8am. Better than the aussie GP for us, I was up at 5am '
+
+Compared text 7743 : b'i am sorry to hear about your grandma   anything i can do for you?'
+Closest 20 --------------------------
+1 b'@tbauer254  sorry to hear'
+2 b'@baby2009 So sorry to hear that '
+3 b'@that_model88 Sorry to hear '
+4 b'@Rachealblack110: Sorry to hear that, '
+5 b'@CavaRocks sorry to hear about the loss of your PezPet '
+6 b"@leighruyle No Goodnik.   I'm sorry to hear it , my dear."
+7 b'@botched sorry to hear about your loss '
+8 b'@KMARZZ sorry to hear that babes '
+9 b"@julieannepeters Awww I'm sorry to hear that "
+10 b'@gaiachik so sorry to hear that '
+11 b'@stephenkruiser sorry to hear about your dog. '
+12 b"@LoneStarshine oh no! I'm very very sorry to hear that "
+13 b'@mrjoe sorry to hear about the bike '
+14 b'@thetull sorry to hear that Ben. '
+15 b'@creaumond @boogere sorry '
+16 b"@ghostjohn i'm sorry for you "
+17 b'@ladyisis13 sorry to hear about the car! '
+18 b'@DeanWright I am so sorry '
+19 b'@tokiwartooth Sorry to hear that sweetie. '
+20 b'@tk210 sorry to here that '
+
+Compared text 16262 : b'Needs a New Job  I hate stupid tim hortans!'
+Closest 20 --------------------------
+1 b'Needs a job! '
+2 b"seekin'for a new job.. "
+3 b"@johnshepard Thanks, I'll need it. I hate packing "
+4 b'Gahh I need a job!!! I want a new guitar...like now '
+5 b'I just need some sleep! and a new GF...  Sad Nate is sad...'
+6 b'So... Tired... God I hate the new job, and only two days in '
+7 b'i hate this stupid hat '
+8 b'i need twitter on my phone!!! i need a new phone!!!! '
+9 b'Needs some coffee.  '
+10 b'Parents are Faggots... i need a new Phone '
+11 b'I need food '
+12 b'I want my new phone '
+13 b'I need money '
+14 b'needs a hug '
+15 b'I need a hug '
+16 b'needs some tlc '
+17 b"i can't breatheee... i hate being sick! "
+18 b'new here  )'
+19 b'Really like my new phone! Need more sleep '
+20 b'need excederin '
+
+Compared text 1529 : b"Can't sleep. It's 2:05am--Ugh!!! I'm not even sleepy "
+Closest 20 --------------------------
+1 b"I should be so sleepy...but I can't sleep "
+2 b"And I can't sleep again "
+3 b"Can't sleep again "
+4 b'i am so sleepy '
+5 b"is stuck at work even though I'd rather be sleeping "
+6 b"I'm really sleepy because I couldn't sleep last night "
+7 b'Sleepy again.... '
+8 b"I'm so exhausted but i can't sleep "
+9 b"@davidbeyer really?!? I'm not even with you "
+10 b"can't sleep anymore "
+11 b'omg this bed is making me sick  i cant even sleep in it '
+12 b"i didn't have enough sleep "
+13 b'not able to sleep.  '
+14 b"Can't sleep anymore "
+15 b'So sleepy this morning!  '
+16 b'My eyes are so sleepy '
+17 b"I'm sitting up, unable to sleep "
+18 b'For some reason is unable to sleep '
+19 b"Can't sleep... Too sick "
+20 b"Finger hurts, can't sleep even after my vicoden &amp; alcohol combo... "
+
+Compared text 29700 : b'Good morning all, another weekend in the bag. High for me, got a new TV, low for me ....still not finished unpacking '
+Closest 20 --------------------------
+1 b'Not feeling good this morning '
+2 b'still searching a good deal for a flat..  ....'
+3 b"Still shooting the office interior. We're all so tired. Still got another scene to do! Finish time: 9am! "
+4 b'almost done the clothes got a lot of cups decorated but not finished yet  still in my towel wrap doing chores........yay being home alone!'
+5 b'Got nothing to do on sunday '
+6 b'got a mosquito bite in the morning  I hate them!'
+7 b'Another morning at .net towers.. still on deadline '
+8 b'Good morning world(s) - We got snow again! '
+9 b'nuting good on tv '
+10 b"feeling exhausted after a morning spent tidying/cleaning the house and there's still so much to do "
+11 b"@FleurC I still haven't got mine yet "
+12 b'Cleaning and packing, we got to move again '
+13 b'I got a new chapter for the book Thurs. I spotted probs in it on Fri. Awaiting replacement. Yet another weekend of work, still no payment '
+14 b'rain and cold  good morning.'
+15 b"@AlgorithmFundFX that's not good "
+16 b"I'm starving and I've got nothing in the kitchen "
+17 b'Got bored  watching tv'
+18 b'sunday morning... '
+19 b'Bored, woke up too early...   Still got another hour...   '
+20 b'a new morning with stomachache '
+
+Compared text 5508 : b"Eight hours. 1500 words. Lucy happily reparked. Brain composed largely of mush. Beginning to freak out about Thursday while it's Tuesday. "
+Closest 20 --------------------------
+1 b'500/1500 .... kill me now '
+2 b'...off to bed! Only to be up in 6 hours.... '
+3 b'@imperiusrex Brahbrah. Ugh. Bed in a hour. '
+4 b"@sfrancisk  my brain is mad too. but i don't imagine as mad as yours. *pat*"
+5 b'I hate Tuesdays '
+6 b'Having delay to 1500 '
+7 b'i have to fill two hours '
+8 b'Heading to bed! Have to be at work in 6 hours '
+9 b'sunday 19th april, 6pm. word count: 0/1500 '
+10 b'is wishing she could write quickly...four hours to produce 1000 words is ridiculous '
+11 b'hardcore studying begins now. '
+12 b'1 word, Excedrin..    '
+13 b'and so the editing of 3000 wedding shots begins '
+14 b"It's only tuesday "
+15 b'4 more hours before I head to work '
+16 b'Seminar in DOST-ASTI...I am 4 hours late. '
+17 b'fun-time is over  working-hours begins     '
+18 b'Ughhh sitting in the library for 4 hours again '
+19 b"Is violently throwing up! Kinda freaked out since I didn't even go out last night  or have one sip of alcohol!! "
+20 b'343 words of essay '
+
+Compared text 29752 : b"Morning All, I'm up too early for my liking. It would be 12, now it's 6-7. "
+Closest 20 --------------------------
+1 b'So so early on a Sunday morning '
+2 b'i hate these early mornings. '
+3 b"would like a nap but can't "
+4 b'No more early morning flights... Sooo tired '
+5 b'Up early studying '
+6 b'Too early '
+7 b'long night ..early morning '
+8 b'Early morning meetings '
+9 b'@kisskissV no. i am working at jaloux in the morning then over with you at night. morning to close.  i only have like a few hours break'
+10 b'Up early '
+11 b'is up way too early for a Sunday morning '
+12 b'Today was definitely not as productive as I would have liked '
+13 b'@robbiegaffney hahaits now 56 this morning '
+14 b"Good morning all. I'm up WAY too early for a Sunday "
+15 b'I would kill to have him here with me '
+16 b"12:05PM; it's too early to be up "
+17 b'No TravoRadio this morning. BlipFM is down. '
+18 b"Just getting up (7.20) haven't been up this early in weeks., I don't like it "
+19 b"I'm off too bed. I gotta wake up hella early tomorrow morning. "
+20 b'JUST WOKE UP ITS SUPER EARLY '
+
+Compared text 17256 : b'Updated my twitter background and picture. Updating myspace next. Too bad Facebook does not let you customize and express your creativity '
+Closest 20 --------------------------
+1 b"why won't twitter let me change my picture? "
+2 b"stupid effin twitter won't let me upload a picture "
+3 b'i really wish twitter would let me update from my phone '
+4 b'updated my blog.. too bad it has to be private '
+5 b'i have a bad headache and have hurt my wrist  I WANT NEXT SATURDAY!'
+6 b"@sommany Why won't you let me love you? "
+7 b"I'm getting really lazy with my Twitter updating "
+8 b"is very mad twitter won't let me uplode my pic.... "
+9 b'&quot;Twitter Status: Bad Gateway Twitter is down&quot; '
+10 b'isnt there any way we could update twitter through our cellphones '
+11 b"yay! emmalicious was taken  so...how do i change my picture? it won't let me"
+12 b'workingggggggg ughhh and my phone wont let me twitter  '
+13 b"My twitter avatar isn't loading "
+14 b'Twitter is down? '
+15 b'wants to add a photo but they wont let me '
+16 b'i need twitter lessons '
+17 b"i don't get twitter "
+18 b'Nobody is twittering '
+19 b'grrrr, stupid fail whale is not letting me update my twitter icon.  and now i have nothing '
+20 b"@kerchoonz  I like your new background. I'm trying to put a kerchoonz background on my twitter, but, it's not working for me "
+
+Compared text 7256 : b"it's snowing  i'm off too school now.I start my intensive gym class today, so i'm at school until 9!"
+Closest 20 --------------------------
+1 b'Ew the snow is still here! i have school today! '
+2 b'school  whats up with this snow?'
+3 b"It's snowing again "
+4 b'Grr not down to go to school today '
+5 b'mommy... is school closed today? '
+6 b'Argh. School is starting. My holidays only just started!!! '
+7 b"School  Why couldn't I be sick today! "
+8 b'Last day off school today.. '
+9 b'Not happy with the snow today... '
+10 b'it is snowing '
+11 b'off too class '
+12 b'snowing again '
+13 b'Today is not off to a good start.  '
+14 b'Snow really reallly sucks and today keeps getting worse '
+15 b'the kids are back to school today '
+16 b'is in class once again, but is not feeling well today '
+17 b'In class '
+18 b'WHY IS IT SNOWING AGAIN ?!      '
+19 b'AAsshhh Homework today '
+20 b'Wishes his vacation started today '
+
+Compared text 8119 : b"@shamzleroc ooooh!  I wanna come. I was BUSSIN they asses the other day, so I'm probably banned. She tried to call me a &quot;button basher&quot;!"
+Closest 20 --------------------------
+1 b"@AlanCarr she called you a prick?! that's rich coming from her "
+2 b"@Ketekete aight then let's do it... dumb arse that i am, i just tried calling your phone! "
+3 b'@Olliez0r Indeed it is, ants are now coming '
+4 b'GUUUUUUYYYYYYYSSSSSS I dont wanna be frankie '
+5 b"@danposluns I am trying and it's not working. I have a client coming in this week, too! "
+6 b"Trying to get out of bed but my aching back doesn't wanna cooperate "
+7 b'@MacKenzieFox sun just doesnt wanna come out today.... '
+8 b'@TeamEllen I was trying to watch it too but it would load for me either! '
+9 b'My ass is so cold. '
+10 b'@MsTobin2U tiffff.. call me. '
+11 b"i'm trying to do my work  and watching come dine with me "
+12 b'does not like her boy being on call '
+13 b'@vlad_dracul  I called you twice '
+14 b'just paid an ass load of bills '
+15 b'He called me a shorty!! '
+16 b' he didnt call.... AGAIN..'
+17 b'Here it comes again '
+18 b'trying to reduce the number of cigarettes in each day! '
+19 b"@RayHughesLA Can't believe you didn't call me about this! "
+20 b"@BinaryTweedDeej I know i know.. I'm just trying to avoid it because I can't work it out "
+
+Compared text 9711 : b'to press enter. i think i messed up something underneath '
+Closest 20 --------------------------
+1 b'i think i might be coming down with something '
+2 b'@bellarisa  something will surface.'
+3 b'is messed up '
+4 b'I think my Twitter is broken '
+5 b'Thats messed up '
+6 b'@LeanneF You would think they would be worth something but Google says not '
+7 b"@ash1ee Why didn't I think of that "
+8 b"thinks she's done something, but isn't quite sure what it is.. oh where are you when i need you? "
+9 b"I hate it when i think of something to do and just as i'm about to do it, i forget wht i was gonna do.... "
+10 b'I think im coming down with something. '
+11 b'Ahhh, I think I have a splinter '
+12 b'just what am I supposed to think? '
+13 b'I think KnightOnline is sleeping '
+14 b'WHY is our line is messing up '
+15 b'i think i am ill  '
+16 b'I think I have a sinus infection '
+17 b"Can't I just say something without people thinking it's against somebody else? "
+18 b'i think my tweetdeck is failing me '
+19 b'I think Windows Update has broken my pc!  '
+20 b'@roobies idk  they messed it up sob'
+
+Compared text 8351 : b"@stellarkaitlin i actually dont know  i'll call around and let you know in a sec."
+Closest 20 --------------------------
+1 b'I DONT KNOW '
+2 b'dont know what this is '
+3 b'@Gi_gi_bee I dont know where boss is '
+4 b'@sethec dont know darlin '
+5 b"@Juicet1n how'd you know? -sniffle "
+6 b'@NODLOVE i dont know how to use it '
+7 b"Let us know how he's doing ok? "
+8 b"I don't know how to do this.............. "
+9 b'I just did 10 chin-ups. I dont know if I can do another set '
+10 b'@sabriel_bouvier i know '
+11 b'@MattEven I know, I know... '
+12 b'@ellieellieellie I know, I am '
+13 b'@roserogue I know '
+14 b'@MaluBarreto I know  at 6'
+15 b'@raindx I know! I know! '
+16 b'@katiemelone i know '
+17 b" S just called to let me know he's not feeling well and probably won't be to Dad's bday tonight. "
+18 b'wants to twitter but dont know how '
+19 b'@emkins i KNOW! '
+20 b'@MsTobin2U tiffff.. call me. '
+
+Compared text 12843 : b"Just checked, pretty sure it's a repeat "
+Closest 20 --------------------------
+1 b'is pretty sure she is sick! '
+2 b"@StormClaudi nope pretty sure that's me  haha"
+3 b"I'm pretty sure I have strep throat  I can't eat or drink. I need some TLC"
+4 b'food-check, washingup-check, CV....no check '
+5 b"I'm pretty sure it's official...I have a cold.  bleh"
+6 b"uh...i'm pretty disappointed "
+7 b"I'm pretty sure my shoes have melted onto my feet.  "
+8 b'...or frequantly?  Spell check has ruined me. '
+9 b"@Ayla_F I'm not so sure anymore "
+10 b'Shivers? Check. Nausea? Check. Throat on fire? Check. At work anyway?  check.'
+11 b"I hate working when I don't feel pretty. "
+12 b"they're singing a johnny cash song.. not sure of the title "
+13 b"@sevenmac You should set up a video channel for your podcast on Miro. Just checked and you're not listed there. "
+14 b'@bigloutech It was pretty gross '
+15 b"@nicolerichie I haven't seen Marley &amp; Me, but, I'm pretty sure it's Marley that passes away "
+16 b'@j_stricko I found it pretty frustrating. stupid monkeys '
+17 b'@lindachong yikes! not really sure. '
+18 b'@ReuelEugene Checked with the Ushers too. Nowhere '
+19 b'@RoyalAntsJosh btw, fights were pretty disappointing. '
+20 b"I feel like death warmed over. Pretty sure i'm not getting out of bed today. "
+
+Compared text 8705 : b'@Lorenzohenrie Im having chinese take-out. Probably not as good as italian. '
+Closest 20 --------------------------
+1 b'starving but theres no good food here '
+2 b"@Lorenzohenrie i could go for some italian food right now, my family doesn't eat enough of it "
+3 b'im hungryyyy   need more sushi'
+4 b'now i have to do my stupid italian homework '
+5 b"@AlgorithmFundFX that's not good "
+6 b'italian lesson now! Bored! '
+7 b'im SO lonely!!!!! '
+8 b"Ahh. I accidentally bought spicy chicken. Not a good idea when that's **all** your eating. "
+9 b'@lara_oz ..not good..what are you gunna do '
+10 b'@BethMarsden Not good '
+11 b"Sabrina's not here.  im so bored."
+12 b'not so good mood '
+13 b'im not a loser! '
+14 b'Probably will '
+15 b'Im doing stupid English homework '
+16 b'not feeling good '
+17 b'@HolzC arghhhhhhhhhhhhh not good not good '
+18 b'just after waking up.. Im tired '
+19 b'Stupid food '
+20 b'im so bored it is unbelieveable '
+
+Compared text 24108 : b"I'm starving and I've got nothing in the kitchen "
+Closest 20 --------------------------
+1 b'Got nothing to do on sunday '
+2 b'nothing at all '
+3 b'has nothing to do '
+4 b'starving but i have empty cupboards '
+5 b'merrrrg...i got up at 7:30 for nothing '
+6 b'doing nothing now '
+7 b'In College doing nothing! '
+8 b'bored...nothing to do '
+9 b'@SharonMcP eeerm nothing there and then I got five pop ups '
+10 b'I have nothing to do today '
+11 b"I'am bored. Nothing to do! "
+12 b'sorting the kitchen out! '
+13 b'starving but theres no good food here '
+14 b'is starving but nothing looks appealing in my fridge '
+15 b'so bored, theres nothing to do. '
+16 b'I HATE CLEANING MY KITCHEN '
+17 b'has nothing to do today. '
+18 b'i need some food nothing in the house at all........    .......'
+19 b'doing absolutley nothing '
+20 b'Theres nothing to do this sunday. '
+
+Compared text 26393 : b'Hooray for Toro Rosso!  Sucks for David Coulthard   He deserves better'
+Closest 20 --------------------------
+1 b'@dannykurily ohman that sucks  feel better!'
+2 b'@Aleey It sucks then '
+3 b'@hollybird it sucks! '
+4 b'@InkySpice ack! that sucks '
+5 b'I suck.  '
+6 b'@silverwind Aw, that sucks. '
+7 b'That sucks '
+8 b'@Cwipple oh that sucks.  '
+9 b'@clex_monkie89 That sucks  *hugs*'
+10 b"@stevepoltz That sucks darlin'! "
+11 b'Bowling! I suck '
+12 b'All this negativity sucks '
+13 b"Shark soup?! Manning's joke really sucked. Morales is expecting Shark soup now.  #FifthSummit"
+14 b"@tkfourtwo1 ah i'm at work. sucks "
+15 b'i SUCK at badminton '
+16 b'@nathanjay That sucks. '
+17 b'So I better start some work.         Sucks                         '
+18 b'This world sucks '
+19 b'@sublimeruin   sucks...'
+20 b'Snow in April? This sucks! '
+
+Compared text 18330 : b'Home. Feeling good. Resisted another tattoo. Too lazy to wash off the eye makeup...... Oh well  Wearing last nights liner for tomorrow.'
+Closest 20 --------------------------
+1 b'not feeling well '
+2 b'no tattoo i bottled out   so tomorrow!!'
+3 b'not feeling too good  home with the fam'
+4 b' at last night '
+5 b'last day of lazy '
+6 b"So tired....didn't sleep that well last night "
+7 b'I had such good dreams last night '
+8 b"Being Lazy because i don't feel good "
+9 b'Wish she would have been down to drive me home in the morning  oh well.'
+10 b'Not good.....Munchkinster is not feeling well '
+11 b'last day of break tomorrow '
+12 b'Good Morning Twitterbugs! Not feeling too well today....went to Margaritaville last night to party...should I say more? '
+13 b'Not feeling too good today '
+14 b"doesn't feel good  "
+15 b'At home... not feeling so well '
+16 b"LaKuata: good morning! well I had an appointment but..my car won't start  I'm stuck at home"
+17 b'is in class once again, but is not feeling well today '
+18 b'So tired. Oh no...this is my last day of freedom...school tomorrow '
+19 b'is at home today...not very well again '
+20 b'Last night in jersey '
+
+Compared text 27366 : b'Just landed now to school '
+Closest 20 --------------------------
+1 b'School again... '
+2 b'@playaharmonica me too  why are we at school...'
+3 b'back to school tomorow '
+4 b'learn for the school  !!!'
+5 b'about to set off for school '
+6 b'School on Monday '
+7 b'Back in school on Monday ....... '
+8 b'is going to this school by herself '
+9 b'tomorow back to school '
+10 b'Back to school tomorrow '
+11 b'back to school tomorrow '
+12 b'back to school tomorrow '
+13 b"@blecboks School's in less than 24 hours "
+14 b'@mileycyrus school ugh me too '
+15 b'is going back to school '
+16 b' back to school tomorrow '
+17 b"just woke up and doesn't want any school any more "
+18 b'school time  ugh.'
+19 b'stayed home from school again, i ache '
+20 b'back to school tomorrow '
+
+Compared text 22169 : b"i can't go to sleep "
+Closest 20 --------------------------
+1 b'Is not going to sleep tonite. '
+2 b"And I can't sleep again "
+3 b"Can't sleep, going to be tired during church "
+4 b"going to sleep, i'm tired.. "
+5 b"Can't sleep again "
+6 b'not able to sleep.  '
+7 b'am going to sleep... i hate Monday... '
+8 b"Just woke up and i can't go back to sleep. "
+9 b'going to sleep without chris '
+10 b'wish i could sleep '
+11 b"Just woke up .... Now I can't go back to sleep "
+12 b"needs sleep but can't do it "
+13 b"I'm so exhausted but i can't sleep "
+14 b'I wanna go back to sleep '
+15 b'I did go to sleep.  My eyes were heavy.'
+16 b'i forgot how to sleep '
+17 b"woke up to early and can't go back to sleep "
+18 b'Three am. No sleep '
+19 b'wanttss to go out '
+20 b"i didn't have enough sleep "
+
+Compared text 27932 : b'aw, i meant to put some ramen and stuff in the package but i forgot '
+Closest 20 --------------------------
+1 b'@laeshaver i forgot '
+2 b'@gabrielgray you are just awful '
+3 b"@JimmyVo aw boo I forgot about that!  i'm sorry!"
+4 b'What an awful dream '
+5 b'my lunch was awful. '
+6 b'is doing things a maid was meant to do '
+7 b'@LiveLavaLish   you forgot about me!!'
+8 b"@mmpartee Bummer - we don't have that package  "
+9 b"@sealegs_ yes, that's what I meant "
+10 b'just realized i forgot my lunch at home '
+11 b"Don't say no, puh-leaseeeeeeeee!!!! "
+12 b'@silverwind Aw, that sucks. '
+13 b"man i shouldn't have put cheese on that crab salad sandwich... "
+14 b'I Forgot my magic cards '
+15 b'@Gabi_90 I forget everything but just remember the useless stuff and other peoples failure '
+16 b"Got home. A parcel that was meant for me was delivered at our neighbours' house, but they're not home... "
+17 b"Got home. A parcel that was meant for me was delivered to our neighbours' house, but they're not home... "
+18 b'@haelo07 Any packages come? Still none for me. '
+19 b'Now I have to wait for her she says. '
+20 b'I am still going through all the stuff in my room, there is no place to put it! I have no shelves '
+
+2D vectors
+------------------
+
+Compared text 5933 : b"off to  slow start, somewhat planned... the boo had us up much of the night cuz she couldn't breathe - cold+TX allergies "
+Closest 20 --------------------------
+OldPos 18061 | 1 b'oh gosh, i need to study for math. exams on wednesday! need to study in advanced. but i want to go to the bazaar tomorrow '
+OldPos 29763 | 2 b'@Lisa_stupidlamb I KNOWWWW I MEAN OMG ive never slept so long HaHaHaHa!!!!, my day is like FKN WASTED i go bak to school 2moro '
+OldPos 23660 | 3 b'had thee worst sleep last nite :O never sharing a single bed again lmao! im wrecked and stupid skewl 2moro  nt fun...i hate sundays'
+OldPos 8176 | 4 b"In work, ridiculously tired though, no appetite and lucozade isn't helping "
+OldPos 11321 | 5 b"Is Rather Tired And Doesn't Want To Go To School ! "
+OldPos 8726 | 6 b'Omg sooo tired rite now  shitty sleep last nite i guess.'
+OldPos 12187 | 7 b"today was a bit of a Sunday morning musical mahem... I was hitting lots of sour notes... don't like it when that happens "
+OldPos 17066 | 8 b'q for safari park is huuuuuuuuge! tis sunday i suppose '
+OldPos 3770 | 9 b'Rainy Sunday .... No parking lot cricket today. '
+OldPos 2422 | 10 b"Running on very little sleep. Our little boy is sick and didn't sleep at all last night.  Pedi this am cause we only go on weekends."
+OldPos 5537 | 11 b'Rainy Sunday .... No parking lot cricket today.  http://ff.im/-2dT5f'
+OldPos 2870 | 12 b"Wow, I was super tired last night! But I think I went to bed too early bc everyone's barely going to bed &amp; I'm WIDE AWAKE lol dang it "
+OldPos 3136 | 13 b"at work and I'm tired even though I went to bed early "
+OldPos 890 | 14 b"Went to bed at 10pm last night, haven't done that for years. I feel no more rested than usual "
+OldPos 8961 | 15 b"Watched Smallville 8x18 last nite http://twurl.nl/iyar6d ep could've been so much more but yet again the decisions made fail to impress "
+OldPos 2979 | 16 b'had a lot of trouble sleeping last night. went to bed early and still had to sleep in an extra hour. grr '
+OldPos 3856 | 17 b'@embeast   I went to bed at like 9pm last night.  or well, passed off on my sofa'
+OldPos 1575 | 18 b"Sigh, I went to bed early last night, and I'm STILL tired. "
+OldPos 2188 | 19 b"Didn't sleep well last night. Thought about that little girl and what she probably had to go through before she died. So sad. "
+OldPos 726 | 20 b"@DoubleEdgeSword it hit me before I even went to bed last night! I'm thinking of ways to get out of it "
+
+New positions of full vectors 20 closest
+OldPos 17 NewPos 274
+OldPos 19 NewPos 316
+OldPos 11 NewPos 381
+OldPos 4 NewPos 400
+OldPos 18 NewPos 408
+OldPos 5 NewPos 571
+OldPos 16 NewPos 735
+OldPos 1 NewPos 3416
+OldPos 3 NewPos 4229
+OldPos 12 NewPos 5738
+OldPos 9 NewPos 5797
+OldPos 13 NewPos 8408
+OldPos 6 NewPos 13808
+OldPos 8 NewPos 13871
+OldPos 10 NewPos 14511
+OldPos 14 NewPos 22524
+OldPos 2 NewPos 24265
+OldPos 7 NewPos 24414
+OldPos 15 NewPos 24842
+
+Compared text 7743 : b'i am sorry to hear about your grandma   anything i can do for you?'
+Closest 20 --------------------------
+OldPos 88 | 1 b'@YolandaMonique dmn sorry to hear that.. nothing cool to say just srry to hear that   '
+OldPos 58 | 2 b'@_laertesgirl Sorry to hear that.  Anything specific? x'
+OldPos 797 | 3 b"@SongzYuuup aaww trey trey i'm sorry for being demanding i just wanted to hear from you. Please accept my apology "
+OldPos 181 | 4 b"@Cutieface44 Sorry to hear that you are not allowed to eat bacon  Find anything as tasty? I think I'll start a Bacon FanClub... "
+OldPos 230 | 5 b"@laylakayleigh sorry to hear that, been there myself enough times, although its worse when they're in the same room with you, trust me "
+OldPos 404 | 6 b"@poxaV dude, you've written off Sam? Is he just MIA, or do you know something? So sorry to hear, either way "
+OldPos 33 | 7 b'@xbp Sorry to hear that, Sat. fishing was very slow, so you did not miss anything  '
+OldPos 49 | 8 b"@MissJia I'm sorry to hear that. "
+OldPos 8 | 9 b'@KMARZZ sorry to hear that babes '
+OldPos 65 | 10 b'@kammoye sorry to hear that homie  wut up?'
+OldPos 3 | 11 b'@that_model88 Sorry to hear '
+OldPos 14 | 12 b'@thetull sorry to hear that Ben. '
+OldPos 282 | 13 b"@pgh_1980 awe.... sorry to hear   What are you up to this weekend?  We need to catch up, I'll be home from friday to sunday!"
+OldPos 2 | 14 b'@baby2009 So sorry to hear that '
+OldPos 70 | 15 b'@daNanner aw, sorry to hear that. '
+OldPos 42 | 16 b'Sorry to hear emily. '
+OldPos 4 | 17 b'@Rachealblack110: Sorry to hear that, '
+OldPos 44 | 18 b'@Cathlin ah that sucks. Sorry to hear that '
+OldPos 1 | 19 b'@tbauer254  sorry to hear'
+OldPos 13 | 20 b'@mrjoe sorry to hear about the bike '
+
+New positions of full vectors 20 closest
+OldPos 8 NewPos 9
+OldPos 3 NewPos 11
+OldPos 14 NewPos 12
+OldPos 2 NewPos 14
+OldPos 4 NewPos 17
+OldPos 1 NewPos 19
+OldPos 13 NewPos 20
+OldPos 10 NewPos 25
+OldPos 9 NewPos 29
+OldPos 17 NewPos 46
+OldPos 7 NewPos 51
+OldPos 5 NewPos 57
+OldPos 19 NewPos 67
+OldPos 6 NewPos 70
+OldPos 11 NewPos 80
+OldPos 12 NewPos 132
+OldPos 18 NewPos 369
+OldPos 15 NewPos 371
+OldPos 16 NewPos 376
+
+Compared text 16262 : b'Needs a New Job  I hate stupid tim hortans!'
+Closest 20 --------------------------
+OldPos 457 | 1 b"Need to place an ad to hire another loan signing agent, but totally procrastinating. I'm so picky &amp; dislike interviewing process! "
+OldPos 901 | 2 b"Half of exam papers are missing.  Need to phone uni tomorrow. Can't get a job without them :S"
+OldPos 2418 | 3 b"@Rocmoney ha! I've been planning my &quot;dramatic walk-out speech&quot; (it would be a tupac rap) for sometime now...just need another job first "
+OldPos 165 | 4 b'seriously needs to finish these job applications '
+OldPos 520 | 5 b'interview for foundation art tomorrow ahhhhhhhhhhhhhhhhhh! Needs a job in leeds desperately '
+OldPos 101 | 6 b'I hate this live feed. They need a Texas C-SPAN. '
+OldPos 3680 | 7 b"@nikkiwoods aww    all 4 of us? whoa. we need 2 do a nikki recruit drive-top shelf only, selfish 1's need not apply! "
+OldPos 18845 | 8 b'just discovered a quarter stuck in my shredder! I need Handy Manny ASAP!  Wondering who the culprit is - thinking they are under 4 feet.'
+OldPos 640 | 9 b'@HeikeM I was checking out Spotify but you need an invite or to pay '
+OldPos 1 | 10 b'Needs a job! '
+OldPos 5376 | 11 b"@zacwhite I'd pay $50 for HD picture and sound out. It's overpriced and includes something you don't need, but ugh Std Def "
+OldPos 908 | 12 b'A whole week of the house to myself. God damn I need to move out '
+OldPos 470 | 13 b'I need some inspiration before i hit the kitchen tonight '
+OldPos 64 | 14 b'Damn... I need to learn '
+OldPos 2402 | 15 b'Omw to Ember wit my girls. I so need a drink now '
+OldPos 3 | 16 b"@johnshepard Thanks, I'll need it. I hate packing "
+OldPos 30 | 17 b'@littlecheetah47 Thanks!!! But I needed that Aspercreme! '
+OldPos 19141 | 18 b"my erlang recommendations engine is making good use of all 4 cores but the damn disk can't keep up  i need more ram damn it!!"
+OldPos 14937 | 19 b"I've just updated a couple of Wordpress sites. Bummer to see that I need to build a K2 theme from scratch again... damn "
+OldPos 2055 | 20 b'@KellenParker can you sign on google?  I need your advice on something.  '
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 10
+OldPos 3 NewPos 16
+OldPos 11 NewPos 34
+OldPos 16 NewPos 53
+OldPos 14 NewPos 86
+OldPos 15 NewPos 114
+OldPos 13 NewPos 205
+OldPos 9 NewPos 298
+OldPos 10 NewPos 406
+OldPos 19 NewPos 411
+OldPos 8 NewPos 423
+OldPos 4 NewPos 2571
+OldPos 5 NewPos 3471
+OldPos 12 NewPos 4854
+OldPos 18 NewPos 13872
+OldPos 2 NewPos 15928
+OldPos 6 NewPos 21418
+OldPos 17 NewPos 22188
+OldPos 7 NewPos 24158
+
+Compared text 1529 : b"Can't sleep. It's 2:05am--Ugh!!! I'm not even sleepy "
+Closest 20 --------------------------
+OldPos 87 | 1 b'@monkeyclap lol i do, but its like even when i sleep loads, i stil get them! its weird and annoyin '
+OldPos 36 | 2 b"i can't even escape him in my sleep. i keep having wonderful dreams about him. "
+OldPos 133 | 3 b"@buddario it's old age mate, I can hardly sleep beyond 7am, even at weekends "
+OldPos 5 | 4 b"is stuck at work even though I'd rather be sleeping "
+OldPos 1282 | 5 b"I just realized that I will spend almost 40% of my precious weekend SLEEPING!  What a waste...too bad I don't do sleep deprivation well.  "
+OldPos 20 | 6 b"Finger hurts, can't sleep even after my vicoden &amp; alcohol combo... "
+OldPos 169 | 7 b'I am awake. But everyone is sleeping  no fair.'
+OldPos 1514 | 8 b'awake now  sleep = bad when u have overcooked yourself!'
+OldPos 29 | 9 b'is awake now....had a very restless sleep '
+OldPos 1420 | 10 b'i suffered from writers block the entire day yesterday and then after midnight ideas started hitting me and i havnt yet been to sleep  :O'
+OldPos 248 | 11 b"So many ideas on my brain I can't sleep "
+OldPos 318 | 12 b"@iamdiddy im locked in!!!! can't sleep "
+OldPos 1030 | 13 b"...I'm about to pop a motrin 800 &amp; doze off to sleep...the pain is shooting up my face "
+OldPos 71 | 14 b'Sleepy head.. chances of actually sleeping? Slim to FUCKING NONE! '
+OldPos 1919 | 15 b"turned off the lights and my mind went crazy contemplative. Can't sleep. I have too many profound issues to ponder "
+OldPos 9096 | 16 b"Made it into DC on Saturday afternoon after 17 hours in air and am now in South FL...jetlag sucks!!  Haven't had a full sleep since Thurs "
+OldPos 132 | 17 b"@johnianmarshall I didn't realize until my mind was on sleeping. "
+OldPos 597 | 18 b'yeah im goin to sleep...my phone didnt listen, no sweat it out.... '
+OldPos 251 | 19 b"Having extreme sharp pains in my chest.  Can't sleep "
+OldPos 291 | 20 b'its 12 in nite, nd am finding it bored to goto sleep... '
+
+New positions of full vectors 20 closest
+OldPos 5 NewPos 4
+OldPos 1 NewPos 24
+OldPos 12 NewPos 34
+OldPos 8 NewPos 50
+OldPos 3 NewPos 57
+OldPos 13 NewPos 70
+OldPos 2 NewPos 72
+OldPos 10 NewPos 96
+OldPos 14 NewPos 99
+OldPos 19 NewPos 128
+OldPos 17 NewPos 145
+OldPos 18 NewPos 152
+OldPos 11 NewPos 458
+OldPos 6 NewPos 7711
+OldPos 15 NewPos 13289
+OldPos 9 NewPos 14838
+OldPos 7 NewPos 20527
+OldPos 16 NewPos 20558
+OldPos 4 NewPos 20575
+
+Compared text 29700 : b'Good morning all, another weekend in the bag. High for me, got a new TV, low for me ....still not finished unpacking '
+Closest 20 --------------------------
+OldPos 13 | 1 b'I got a new chapter for the book Thurs. I spotted probs in it on Fri. Awaiting replacement. Yet another weekend of work, still no payment '
+OldPos 4 | 2 b'almost done the clothes got a lot of cups decorated but not finished yet  still in my towel wrap doing chores........yay being home alone!'
+OldPos 208 | 3 b'still recovering from tonsilitis havent got my voice back yet '
+OldPos 11 | 4 b"@FleurC I still haven't got mine yet "
+OldPos 6210 | 5 b'its tooo hot here. not hot enough that i want to run my ancient AC yet, but still hot. sticky icky hot. windows open but no wind '
+OldPos 1611 | 6 b'Got a synopsis for 13 to Life by @saoirse_r from the TextNovel site - but no cover art yet. '
+OldPos 237 | 7 b"@naomi_faith mmm hmm I still haven't got mine... No fun "
+OldPos 1689 | 8 b'@Stephdadi @kabutcher early symptoms yet nothing too bad still hoping its just that '
+OldPos 3086 | 9 b"@chriscanal webcast sounds cool. Interested to hear what you've got to say on Rhino.ETL as we've still got projects stuck in SSIS "
+OldPos 519 | 10 b'@ASacco almost, but still about 2 months short. I got mine Nov.21 and even with the annual upgrade I would still have to wait. '
+OldPos 1243 | 11 b'@thecraigmorris hmm.. got a PS3, (not got PS2 no more   ) also PSP  and old Atari 2600 which still ACTUALLY rocks'
+OldPos 75 | 12 b"Still kinda miffed that my team got stuff I didn't. "
+OldPos 146 | 13 b'we still havent left yet!!!!!!!!!!!!!! '
+OldPos 3440 | 14 b"Caught myself looking up the iphone. Promised I wouldn't torcher myself as I still have 6 months left on my current contract "
+OldPos 1087 | 15 b"@javastix as of now, it still ain't up yet "
+OldPos 1215 | 16 b'@butterfly562 Thanks Charmaine. How was the interviews?? Still none for me yet '
+OldPos 11218 | 17 b"@janinesd no i'm poor. i am not an RN yet so i still have mobi!!! lol!!! "
+OldPos 2395 | 18 b"@fallenstar_ Tough times indeed  I'm still debating, but I think I'm pretty much decided... but I've still got a year and a half to decide"
+OldPos 3257 | 19 b"Even after the Aust. gov. rolls out its $43 Bln 100Mb b'band, we'll still be way behind most of the rest of the worlds b'band speeds "
+OldPos 7441 | 20 b"@pixy88 I'm on chapter 29, I still have ways to go  haha"
+
+New positions of full vectors 20 closest
+OldPos 13 NewPos 1
+OldPos 4 NewPos 2
+OldPos 11 NewPos 4
+OldPos 7 NewPos 245
+OldPos 2 NewPos 297
+OldPos 3 NewPos 300
+OldPos 19 NewPos 616
+OldPos 10 NewPos 1355
+OldPos 1 NewPos 2252
+OldPos 15 NewPos 11630
+OldPos 9 NewPos 11651
+OldPos 14 NewPos 14602
+OldPos 18 NewPos 15358
+OldPos 17 NewPos 18429
+OldPos 8 NewPos 18709
+OldPos 6 NewPos 19954
+OldPos 5 NewPos 20347
+OldPos 16 NewPos 20451
+OldPos 12 NewPos 27857
+
+Compared text 5508 : b"Eight hours. 1500 words. Lucy happily reparked. Brain composed largely of mush. Beginning to freak out about Thursday while it's Tuesday. "
+Closest 20 --------------------------
+OldPos 4667 | 1 b' waking up to an inbox filled with more stuff to do.'
+OldPos 7 | 2 b'i have to fill two hours '
+OldPos 926 | 3 b'just got to my hotel....less than two hours to sleep.  ughhh'
+OldPos 2438 | 4 b'*sigh* the bummer about being on the road for two weeks, the backups and updates that take hours to do '
+OldPos 450 | 5 b"should've been asleep two hours ago "
+OldPos 6059 | 6 b'Also I shouldve Bern asleep an hour ago '
+OldPos 415 | 7 b'Two less. '
+OldPos 1414 | 8 b'two less than kelly. '
+OldPos 9163 | 9 b"@bananawong not hobing ah.... joey's cat  she lost two of her beloved cats in less than a year...."
+OldPos 4863 | 10 b"OMG STEPHEN. That's two joke!fails in a row! "
+OldPos 6029 | 11 b"Just found out that family members four hours of photo taking only saved on! The camera was either off or faulty. They aren't happy "
+OldPos 1703 | 12 b'@petewentz - I am here. Came 9 hours. '
+OldPos 203 | 13 b'@biggorillavoice Only if you were standing around at the venue 6 hours before doors '
+OldPos 119 | 14 b'Heading to Altrincham, again! Out of hours install '
+OldPos 40 | 15 b'This trip to California is wrapping up soon  only 4 hours till my flight.'
+OldPos 830 | 16 b'@johnlinford for once I did nothing! Left it alone for a few hours and it died, suspected motherboard failure '
+OldPos 239 | 17 b'#asot400 4 hours left '
+OldPos 975 | 18 b'I think 8 pm..like 3-4 hours left  #asot400'
+OldPos 798 | 19 b'Halfway through the update. It says 5 hours left. ...  ... 4.'
+OldPos 22132 | 20 b'10 minutes left  CRANK IT UP SIMON!!! #asot400'
+
+New positions of full vectors 20 closest
+OldPos 7 NewPos 2
+OldPos 18 NewPos 21
+OldPos 16 NewPos 22
+OldPos 9 NewPos 44
+OldPos 6 NewPos 45
+OldPos 1 NewPos 46
+OldPos 3 NewPos 123
+OldPos 13 NewPos 813
+OldPos 12 NewPos 2785
+OldPos 4 NewPos 8106
+OldPos 14 NewPos 8146
+OldPos 17 NewPos 8328
+OldPos 11 NewPos 8371
+OldPos 19 NewPos 9501
+OldPos 2 NewPos 11300
+OldPos 8 NewPos 11437
+OldPos 15 NewPos 11520
+OldPos 5 NewPos 15339
+OldPos 10 NewPos 20586
+
+Compared text 29752 : b"Morning All, I'm up too early for my liking. It would be 12, now it's 6-7. "
+Closest 20 --------------------------
+OldPos 47 | 1 b'another early morning  nite everyone'
+OldPos 4 | 2 b'No more early morning flights... Sooo tired '
+OldPos 434 | 3 b"Another early morn with the Duchess, although she hadn't managed to cross her legs this time "
+OldPos 7 | 4 b'long night ..early morning '
+OldPos 8 | 5 b'Early morning meetings '
+OldPos 207 | 6 b'@Jinxie_G Just found out daughter is leaving for Kentucky early Tuesday morning.  '
+OldPos 4951 | 7 b'completing reports and meetings this morning.  Interviewing people this afternoon, busy bee today blurrgghh '
+OldPos 1 | 8 b'So so early on a Sunday morning '
+OldPos 404 | 9 b'is up far too early for a Sunday morning and has a really bloodshot eye.  Owie. '
+OldPos 37 | 10 b'dislikes IDL for being so early in the morning. '
+OldPos 2 | 11 b'i hate these early mornings. '
+OldPos 525 | 12 b'Recording The Rules this morning in London. First overseas recording. First recording without @RhyllaM '
+OldPos 179 | 13 b'@sallythomsett ,In my teens and early twenties i could not remember the christan names the next morning lol '
+OldPos 11 | 14 b'is up way too early for a Sunday morning '
+OldPos 74 | 15 b'I hate early morning arguments. They make me frown '
+OldPos 420 | 16 b'Ugh I highly dislike mornings '
+OldPos 48 | 17 b'I hate mornings after.    ugh!'
+OldPos 579 | 18 b'sitting in a morning class and crashing fast   I hate it'
+OldPos 135 | 19 b'Ugh, big migrane this morning '
+OldPos 436 | 20 b"Sunday morning, and I'm awake and drinking Red Bull. Once again my thoughts are not as nice as they should be "
+
+New positions of full vectors 20 closest
+OldPos 4 NewPos 2
+OldPos 7 NewPos 4
+OldPos 8 NewPos 5
+OldPos 1 NewPos 8
+OldPos 2 NewPos 11
+OldPos 11 NewPos 14
+OldPos 14 NewPos 22
+OldPos 13 NewPos 58
+OldPos 17 NewPos 85
+OldPos 6 NewPos 950
+OldPos 10 NewPos 956
+OldPos 5 NewPos 958
+OldPos 16 NewPos 959
+OldPos 19 NewPos 9104
+OldPos 9 NewPos 9116
+OldPos 18 NewPos 9922
+OldPos 3 NewPos 26146
+OldPos 12 NewPos 26200
+OldPos 15 NewPos 26708
+
+Compared text 17256 : b'Updated my twitter background and picture. Updating myspace next. Too bad Facebook does not let you customize and express your creativity '
+Closest 20 --------------------------
+OldPos 1 | 1 b"why won't twitter let me change my picture? "
+OldPos 11 | 2 b"yay! emmalicious was taken  so...how do i change my picture? it won't let me"
+OldPos 2 | 3 b"stupid effin twitter won't let me upload a picture "
+OldPos 2713 | 4 b"is sad that @meatsamich changed my background.... i can't find my picture anymore  and i have images of that scary fish in my head."
+OldPos 58 | 5 b'youtube wont let me change my damn icon! '
+OldPos 465 | 6 b"@flalalala HAHAHA according to him when he was in Ellen recently, he doesn't have a facebook or a twitter  Yes let's!"
+OldPos 30 | 7 b'Jeje, Twitter didn\xef\xbf\xbdt let you send your facebook profile as a link! '
+OldPos 8 | 8 b"is very mad twitter won't let me uplode my pic.... "
+OldPos 47 | 9 b"ahhh i just got a twitter yay but i can't put up a pic it won't let me "
+OldPos 6223 | 10 b'i havent followed my followers yet cuz this goddamn mobileweb wont let me see my followers list '
+OldPos 55 | 11 b'Tumblr wont let me sign in '
+OldPos 2259 | 12 b'@Mtarbox20 That will mentally mess up Andy too  Err let Valverde beat Cunego then!'
+OldPos 35 | 13 b'gah... it wont let me make a myspace for my social studies campaign... '
+OldPos 28015 | 14 b"@stephjonesmusic I do that tooo to my waffles!! I ? it, please don't talk about waffles because I been craving it for 2 months "
+OldPos 28857 | 15 b'Curry even too spicy for Mr. C, so not a hope for me to fully enjoy. Big shame as this is usually my favourite one  *sad*'
+OldPos 4747 | 16 b'@RiceBunny PLEASE PLEASE IM BEGGING ON HANDS AND KNEES DO AS YOUR (NEXT VIDEO) ON THE GO REVIEW LIPGLOSSES '
+OldPos 16232 | 17 b'@fafinettex3 PLEASE PLEASE IM BEGGING ON HANDS AND KNEES DO AS YOUR (NEXT VIDEO) WHATS IN MY WARDROBE PLEASE BE FOLLOWER OF MINE '
+OldPos 2413 | 18 b"Modern technology really doesn't seem to like me! "
+OldPos 25812 | 19 b"can flaming bunnies really replace joanne? it doesn't seem likely "
+OldPos 27100 | 20 b"Really like Terminator:TSCC but it might be cancelled. Why do SF telly series that I like get cancelled? I'm a kiss of death "
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 1
+OldPos 11 NewPos 2
+OldPos 2 NewPos 3
+OldPos 8 NewPos 8
+OldPos 17 NewPos 866
+OldPos 7 NewPos 894
+OldPos 16 NewPos 1046
+OldPos 13 NewPos 1124
+OldPos 9 NewPos 1376
+OldPos 14 NewPos 1491
+OldPos 18 NewPos 1611
+OldPos 19 NewPos 1774
+OldPos 12 NewPos 2096
+OldPos 10 NewPos 3624
+OldPos 5 NewPos 4515
+OldPos 3 NewPos 5097
+OldPos 4 NewPos 5980
+OldPos 6 NewPos 10203
+OldPos 15 NewPos 12485
+
+Compared text 7256 : b"it's snowing  i'm off too school now.I start my intensive gym class today, so i'm at school until 9!"
+Closest 20 --------------------------
+OldPos 1 | 1 b'Ew the snow is still here! i have school today! '
+OldPos 90 | 2 b'On the bus off to school... Boo. Making up the biology test today. '
+OldPos 94 | 3 b"just woke up, I'd still sleep if I didn't gotta go to school today "
+OldPos 194 | 4 b'Still snowing outside   Heading downtown today anyways'
+OldPos 340 | 5 b'Feeling a bit better today, at least I can walk. I have NO idea what happened yesterday. On my way to school now... Ugh... '
+OldPos 137 | 6 b"feelin sick.  can't slow down though...school, other school, rehearsal, tennis match, rehearsal again."
+OldPos 233 | 7 b"@MaryBethune I'm great thanks! Ugh! I have school today. "
+OldPos 349 | 8 b"Kids are still a little sick.  I'm getting it now to.   Going to do a light school today.  Get lots of rest!"
+OldPos 5 | 9 b'mommy... is school closed today? '
+OldPos 5223 | 10 b'Is absolutely sick of riding the bus, sick of school and sick of living so far from the church. what an attitude!!! '
+OldPos 24 | 11 b'Blah sick not going to school today '
+OldPos 7 | 12 b"School  Why couldn't I be sick today! "
+OldPos 44 | 13 b'school mondayy  french presentation today '
+OldPos 8668 | 14 b"I'm sick... But I have to venture out anyway. I gave ro my second pair of gloves only to realize I kind of need them today. "
+OldPos 852 | 15 b"is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!"
+OldPos 72 | 16 b'ias awake, but has to go into school today '
+OldPos 1419 | 17 b'Ugh. Lots to do today. French, Math, line up next semester classes, organize a presentation for Mon, 5 page paper for Tues. But no fun? '
+OldPos 4 | 18 b'Grr not down to go to school today '
+OldPos 1795 | 19 b"Today's Revision: A-level french, Japanese, and Geography. Argh "
+OldPos 8928 | 20 b"@kariajay When I was in school I thought I'd be a millionaire at 20 and retire at 21  Look at me today :-P"
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 1
+OldPos 5 NewPos 9
+OldPos 7 NewPos 12
+OldPos 4 NewPos 18
+OldPos 15 NewPos 267
+OldPos 6 NewPos 840
+OldPos 8 NewPos 3352
+OldPos 13 NewPos 3569
+OldPos 9 NewPos 3940
+OldPos 19 NewPos 4124
+OldPos 14 NewPos 4632
+OldPos 17 NewPos 10771
+OldPos 11 NewPos 10820
+OldPos 16 NewPos 13726
+OldPos 3 NewPos 17609
+OldPos 10 NewPos 17666
+OldPos 12 NewPos 17669
+OldPos 18 NewPos 17698
+OldPos 2 NewPos 17908
+
+Compared text 8119 : b"@shamzleroc ooooh!  I wanna come. I was BUSSIN they asses the other day, so I'm probably banned. She tried to call me a &quot;button basher&quot;!"
+Closest 20 --------------------------
+OldPos 988 | 1 b'@Rob_Jensen That is a chilly wake up call and $$$$ to boot. Bummer '
+OldPos 13 | 2 b'@vlad_dracul  I called you twice '
+OldPos 19 | 3 b"@RayHughesLA Can't believe you didn't call me about this! "
+OldPos 15 | 4 b'He called me a shorty!! '
+OldPos 16 | 5 b' he didnt call.... AGAIN..'
+OldPos 1153 | 6 b"seriously now , if you hear a 12 year old welsh girl called ellie/talia is dead i can't believe it but it will be me  trying not to though"
+OldPos 121 | 7 b' called in again'
+OldPos 1173 | 8 b'Mum just called, now my sister is in hospital '
+OldPos 114 | 9 b'@iraisavampire bob called me a twit.... '
+OldPos 10 | 10 b'@MsTobin2U tiffff.. call me. '
+OldPos 8041 | 11 b'@redchinese19 liar! You do care if I believe you  ::pouts::'
+OldPos 895 | 12 b'@Beethousand ... Call got dropped '
+OldPos 297 | 13 b'Aww Logan got called in '
+OldPos 825 | 14 b'@ABabyBlueEyes Yea  I just call it STRESS.'
+OldPos 1230 | 15 b'in the house of maca , please honey call me '
+OldPos 792 | 16 b'Was just called an asshole by Jay Brannan... oops '
+OldPos 58 | 17 b'@Just_Ami I got no answer when I called '
+OldPos 16063 | 18 b'alexandra is ma younger sis an da 3 way call ended cuz it got cut off  '
+OldPos 5320 | 19 b"Ok, so Entwine's tour bus caught on fire and I'm not ok w/that!  Now that's them and Kill Hannah with a close call in the past 12mos. "
+OldPos 524 | 20 b"Ugh, got a notice from 1and1 that they had a problem making my hosting account. Can't call them till Monday. "
+
+New positions of full vectors 20 closest
+OldPos 13 NewPos 2
+OldPos 19 NewPos 3
+OldPos 15 NewPos 4
+OldPos 16 NewPos 5
+OldPos 10 NewPos 10
+OldPos 4 NewPos 2106
+OldPos 17 NewPos 5140
+OldPos 1 NewPos 5222
+OldPos 3 NewPos 5304
+OldPos 14 NewPos 6031
+OldPos 9 NewPos 7731
+OldPos 2 NewPos 8745
+OldPos 8 NewPos 15287
+OldPos 6 NewPos 17445
+OldPos 12 NewPos 17680
+OldPos 7 NewPos 18098
+OldPos 18 NewPos 22885
+OldPos 11 NewPos 23771
+OldPos 5 NewPos 23945
+
+Compared text 9711 : b'to press enter. i think i messed up something underneath '
+Closest 20 --------------------------
+OldPos 31 | 1 b"i'm filled with anguish because i'm not outside now when the sun is shining. damn!! i think about go out and do something. BUT WHAT!? "
+OldPos 179 | 2 b"@Sherri_M They booked Jones Beach which is smaller than most ampitheatres so im thinking there's something else up with dmb and denver/CO "
+OldPos 1 | 3 b'i think i might be coming down with something '
+OldPos 10 | 4 b'I think im coming down with something. '
+OldPos 3262 | 5 b'thinks factorial designs are going to be the death of my test &quot;A&quot;.  Who comes up with this confusing &quot;mathy&quot; stuff?  Ugh '
+OldPos 17 | 6 b"Can't I just say something without people thinking it's against somebody else? "
+OldPos 6 | 7 b'@LeanneF You would think they would be worth something but Google says not '
+OldPos 697 | 8 b'I am thinking about what love truely is and i am coming up with a blank. '
+OldPos 5601 | 9 b"@mileycyrus mimi i cant come to rome even if i live in italy  im soo sad cause I ADORE YOU &amp; i want 2 meet you!! :'(  i think i could cry."
+OldPos 3226 | 10 b'@burbleon i wud love to continue this but my mind is completly blank '
+OldPos 909 | 11 b'is having some sort of mind blank '
+OldPos 19291 | 12 b"Watching ASAP on TFC &amp; all the songs r 'bout fire &amp; burnin'. How hot is it truly in the Phils? Oh wait, don't answer that. Me be jealous! "
+OldPos 4084 | 13 b'@johncmayer please, can yoy say me, what time is it there? i have the pic winner, the tatoo-my friend is sleeping in this moment, '
+OldPos 4669 | 14 b"@xkayteebear -shrugs- i think he's had enuff... i mean, im doing all of this so everything can b easier. im doing this for him... "
+OldPos 8904 | 15 b"I apologise for not being able to weird  it's just the you dont spell it how you say it ..."
+OldPos 8382 | 16 b'@eRRe_sC aaw i miss ya all too.. im leaving to BH tomorrow &quot;morning&quot; i think.. aww i wanna go to the beach w u girls!! '
+OldPos 3153 | 17 b'@ON3_n_Only you font say hi anymore '
+OldPos 1069 | 18 b'I think im gettin a cold '
+OldPos 27177 | 19 b'@kicksonfire I KNOOOW! lol fuuuck whoever decided to stop main em lol. im lookn @ that picture of the box like damn '
+OldPos 24014 | 20 b"@ktcabral cause it's hecka moolaa  i hecka wanna to it duuude. what should i say to my mom?"
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 3
+OldPos 10 NewPos 4
+OldPos 17 NewPos 6
+OldPos 6 NewPos 7
+OldPos 2 NewPos 1612
+OldPos 9 NewPos 4204
+OldPos 18 NewPos 4271
+OldPos 15 NewPos 4838
+OldPos 3 NewPos 4871
+OldPos 14 NewPos 4877
+OldPos 5 NewPos 4879
+OldPos 12 NewPos 4928
+OldPos 7 NewPos 4935
+OldPos 11 NewPos 5535
+OldPos 16 NewPos 5545
+OldPos 19 NewPos 6373
+OldPos 4 NewPos 11093
+OldPos 8 NewPos 12401
+OldPos 13 NewPos 17206
+
+Compared text 8351 : b"@stellarkaitlin i actually dont know  i'll call around and let you know in a sec."
+Closest 20 --------------------------
+OldPos 9 | 1 b'I just did 10 chin-ups. I dont know if I can do another set '
+OldPos 4 | 2 b'@sethec dont know darlin '
+OldPos 55 | 3 b'@alexhanrahan i dont know how to do a twit pic '
+OldPos 1 | 4 b'I DONT KNOW '
+OldPos 107 | 5 b"omg i've an economics test. and i dont know all the things i have to know and omg im gonna fail "
+OldPos 3 | 6 b'@Gi_gi_bee I dont know where boss is '
+OldPos 48 | 7 b'@chelsea_playboy i dont know  BUT ITS FIXED NOW =]'
+OldPos 2 | 8 b'dont know what this is '
+OldPos 49 | 9 b'I dont know how to send messages on here, can anyone help me  xx'
+OldPos 36 | 10 b'@ecualion247 I dont think you know banana king '
+OldPos 21 | 11 b'@AmberPacific i know i dont know why i said that '
+OldPos 64 | 12 b'that was supposed to be @jessiah, i dont know who @jesiah is, and i cant fix it on my phone. '
+OldPos 44 | 13 b'YOU GUYS!!! I dont know what to put on. '
+OldPos 50 | 14 b'well... This is bullshit and i dont know how to fix it.  Sorry you guys... Virusy '
+OldPos 6 | 15 b'@NODLOVE i dont know how to use it '
+OldPos 24 | 16 b'@sophiehelene i dont know. i think ive pulled a muscle in my back '
+OldPos 182 | 17 b'Still up cause there is something wrong with my daughter and i dont know whats wrong '
+OldPos 156 | 18 b"@heidimontag : i dont know im in the UK so isn't out here yet  so jealous"
+OldPos 4199 | 19 b"to do list: 1) freedom rides essay; nearly finished. 2) another history essay; i dont know what i'm doing it on though  x"
+OldPos 3834 | 20 b'@ghxststories i dont know  your comign to my birthday right? hot damn 15th?xxx'
+
+New positions of full vectors 20 closest
+OldPos 9 NewPos 1
+OldPos 4 NewPos 2
+OldPos 1 NewPos 4
+OldPos 3 NewPos 6
+OldPos 2 NewPos 8
+OldPos 6 NewPos 15
+OldPos 14 NewPos 141
+OldPos 5 NewPos 143
+OldPos 12 NewPos 153
+OldPos 19 NewPos 158
+OldPos 8 NewPos 160
+OldPos 10 NewPos 166
+OldPos 11 NewPos 175
+OldPos 16 NewPos 181
+OldPos 13 NewPos 193
+OldPos 15 NewPos 212
+OldPos 7 NewPos 581
+OldPos 18 NewPos 10813
+OldPos 17 NewPos 13163
+
+Compared text 12843 : b"Just checked, pretty sure it's a repeat "
+Closest 20 --------------------------
+OldPos 3 | 1 b"I'm pretty sure I have strep throat  I can't eat or drink. I need some TLC"
+OldPos 7236 | 2 b'cant eat, drink or breath thanks to the bad throat infection '
+OldPos 9099 | 3 b'cant eat, drink or breath properly thanks to the bad throat infection '
+OldPos 7344 | 4 b'cant eat, drink or breath properly thanks to the bad throat infection '
+OldPos 15620 | 5 b"@RGibs ok!  Drinking the wine  don't wanna lose my drunk state."
+OldPos 26436 | 6 b" Heroes is losing it's momentum ): come on writers pick it up!!!"
+OldPos 12052 | 7 b'When did I lose my motivation, my momentum? '
+OldPos 21170 | 8 b'Aaaaaaaaand here we are again, with mind-numbing inevitability. '
+OldPos 1320 | 9 b'Lacking motivation '
+OldPos 13254 | 10 b'eeeek!!!!  thunder and lightning.....  '
+OldPos 14014 | 11 b'0-0!!! Lightning and thunder... '
+OldPos 559 | 12 b'@Therefinedman No email. '
+OldPos 29435 | 13 b'@gjarnling woops! you did get it and replied!! I am having a dumb day i guess  x'
+OldPos 1770 | 14 b'no body ever replys to me '
+OldPos 2041 | 15 b"@MikevZ no, they don't reply "
+OldPos 29315 | 16 b'Nothings worse than planning on going to the mall with no money  Damn Unheavens Dunks'
+OldPos 29320 | 17 b'okay off to do some job hunting.. can you believe a small gaming comp told me I was over qualified with experience &gt;.&lt; for real  ninnies'
+OldPos 8720 | 18 b'Sometimes my lack of faith in humanity is proven right. '
+OldPos 16107 | 19 b"Seeking employment; Widening the net to similar fields, or less experienced fields as my main fields of 'expertise' are lacking positions "
+OldPos 25285 | 20 b'At Opening Day--the Commerce Bank &quot;C&quot; mascot just walked by. The bank is changing its name--will the &quot;C&quot; lose its job? '
+
+New positions of full vectors 20 closest
+OldPos 3 NewPos 1
+OldPos 19 NewPos 115
+OldPos 6 NewPos 118
+OldPos 14 NewPos 1322
+OldPos 8 NewPos 2499
+OldPos 16 NewPos 2756
+OldPos 4 NewPos 4095
+OldPos 18 NewPos 4102
+OldPos 2 NewPos 4441
+OldPos 9 NewPos 4533
+OldPos 1 NewPos 8027
+OldPos 13 NewPos 8913
+OldPos 5 NewPos 9754
+OldPos 17 NewPos 10813
+OldPos 7 NewPos 12026
+OldPos 15 NewPos 14636
+OldPos 12 NewPos 16035
+OldPos 11 NewPos 21692
+OldPos 10 NewPos 25862
+
+Compared text 8705 : b'@Lorenzohenrie Im having chinese take-out. Probably not as good as italian. '
+Closest 20 --------------------------
+OldPos 1 | 1 b'starving but theres no good food here '
+OldPos 504 | 2 b"@racheltrue i'm a starving artist currently nursing a migraine "
+OldPos 306 | 3 b"@davelikefire  my digestive system can't handle your mothers ridiculously spicy food. But it's so good lmao!"
+OldPos 175 | 4 b"@Evanseo ; hey evs. i'm starving too "
+OldPos 2277 | 5 b'ughh...FUCK THIS ECONOMY!! ...none of the good cereals were on sale at Safeway anymore '
+OldPos 16121 | 6 b"Damp!!! I couldn't wear jeans cuz they were too wet so I had to wear regular sweat pants! I look terrible! Oh &amp; I forgot my snack! "
+OldPos 8 | 7 b"Ahh. I accidentally bought spicy chicken. Not a good idea when that's **all** your eating. "
+OldPos 29146 | 8 b"@jameswedmore Delays &amp; circling Houston for 1 1/2 hrs and I didn't make it  Met some others here at the Marriott who missed too. Have fun!"
+OldPos 3255 | 9 b'@SwampTroll Oh I just looked at that while eating my Frosted Flakes.  '
+OldPos 3484 | 10 b"I accidentally put sugar in my food instead of salt, so now I'm eating sweet fried rice  My clumsiness astounds me sometimes!!"
+OldPos 713 | 11 b'@fashionchalet i didnt end up eating mexican  i have curry instead. boooo!'
+OldPos 19408 | 12 b"@GiulianaRancic:I'm very excited my cardio kickboxing instructor is teaching close by again! I had lost 30 lbs w/her. Back on w/out her "
+OldPos 1073 | 13 b'I was reading about food radiation in Scientific America. Made me think twice before eating those nice looking strawberries on the table '
+OldPos 8151 | 14 b'@rtleary2 hahaha mmmmm yes .... but I found better steak elsewhere  sigh'
+OldPos 12459 | 15 b"@cookrn mmmmm Ryan. Haven't seen you forever! "
+OldPos 525 | 16 b'mmmmm just '
+OldPos 5968 | 17 b"Gonna head out to eat some Korean BBQ... sucks some of my favorite peeps won't be able to make it. "
+OldPos 1748 | 18 b'I will eat ... but pffff '
+OldPos 2396 | 19 b'So excited for dairy bar, but just found out its closed '
+OldPos 22536 | 20 b"NAB didn't pass on the cut. I wonder what ANZ will do now. "
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 1
+OldPos 8 NewPos 7
+OldPos 15 NewPos 806
+OldPos 4 NewPos 845
+OldPos 19 NewPos 969
+OldPos 6 NewPos 1551
+OldPos 14 NewPos 2112
+OldPos 11 NewPos 2428
+OldPos 18 NewPos 3968
+OldPos 7 NewPos 10104
+OldPos 13 NewPos 10479
+OldPos 9 NewPos 11007
+OldPos 12 NewPos 11037
+OldPos 5 NewPos 11127
+OldPos 10 NewPos 11180
+OldPos 17 NewPos 11208
+OldPos 3 NewPos 18420
+OldPos 16 NewPos 21974
+OldPos 2 NewPos 24995
+
+Compared text 24108 : b"I'm starving and I've got nothing in the kitchen "
+Closest 20 --------------------------
+OldPos 9 | 1 b'@SharonMcP eeerm nothing there and then I got five pop ups '
+OldPos 54 | 2 b'Nope. I searched vanilla ice, vanilla, winkle, and rob van winkle, and got nothing... '
+OldPos 5 | 3 b'merrrrg...i got up at 7:30 for nothing '
+OldPos 1 | 4 b'Got nothing to do on sunday '
+OldPos 183 | 5 b'@fadingsignal when we bought the house it came with a floor safe that was locked. We were hoping for something inside but we got nothing '
+OldPos 40 | 6 b"@harisn i'm too three four much hungry but got nothing to eat..   "
+OldPos 1352 | 7 b'@Mawra: did u got any report of conference?I dont have internet currently '
+OldPos 201 | 8 b'got the Sunday evening blues '
+OldPos 3078 | 9 b'Shockwave was in such good shape. I even got to transform it. '
+OldPos 366 | 10 b'omg...haul tailing out the house, got to my destination   no wallet  '
+OldPos 423 | 11 b'@DakotaMcC got there as @cmykdorothy was leaving and after @3dogmcneill left ---dinner ran late '
+OldPos 2663 | 12 b"Fed up. Stir crazy. Bought lovely new clothes lst wk and haven't even got them out of the bag. "
+OldPos 743 | 13 b'Just got reduced to tears by Jeremy Kyle!! Off to the doctors now  i hate the doctors its so scary! Arghhhh!'
+OldPos 214 | 14 b'i just got so emotional at jeremy kyle '
+OldPos 191 | 15 b'Got my nails done..y did electric pink turn into electric peach?! Ewwwww  '
+OldPos 1734 | 16 b"@rhyswynne That's a pest  Grr to spam!"
+OldPos 210 | 17 b'got a mosquito bite in the morning  I hate them!'
+OldPos 4390 | 18 b"I believe I'm being attacked by allergies. I sneezed twice while outside this morning.  My nose got runny...and my eyes are itchy. "
+OldPos 215 | 19 b'Hiccups '
+OldPos 181 | 20 b'Hiccups '
+
+New positions of full vectors 20 closest
+OldPos 9 NewPos 1
+OldPos 5 NewPos 3
+OldPos 1 NewPos 4
+OldPos 4 NewPos 2829
+OldPos 13 NewPos 2849
+OldPos 12 NewPos 3608
+OldPos 7 NewPos 6795
+OldPos 19 NewPos 6812
+OldPos 15 NewPos 6853
+OldPos 11 NewPos 6869
+OldPos 6 NewPos 6873
+OldPos 8 NewPos 6874
+OldPos 3 NewPos 6879
+OldPos 2 NewPos 6945
+OldPos 17 NewPos 7753
+OldPos 10 NewPos 7771
+OldPos 16 NewPos 10340
+OldPos 14 NewPos 16070
+OldPos 18 NewPos 19670
+
+Compared text 26393 : b'Hooray for Toro Rosso!  Sucks for David Coulthard   He deserves better'
+Closest 20 --------------------------
+OldPos 651 | 1 b'@askheyshiv you and me too '
+OldPos 1541 | 2 b'@PMSAnex I had to do it '
+OldPos 70 | 3 b'dammit RLS sucks grande eggs '
+OldPos 491 | 4 b'@iammykei that sucks '
+OldPos 10 | 5 b"@stevepoltz That sucks darlin'! "
+OldPos 405 | 6 b'@thethirdrat aww damn, sucks for us! '
+OldPos 3 | 7 b'@hollybird it sucks! '
+OldPos 105 | 8 b'@korybing gee- that sucks,  '
+OldPos 254 | 9 b'@jonlukecogger awww nooo  that sucks &lt;3'
+OldPos 61 | 10 b'@blondie1980 Yeah we suck '
+OldPos 27 | 11 b'damn that sucks! '
+OldPos 9 | 12 b'@clex_monkie89 That sucks  *hugs*'
+OldPos 994 | 13 b'@petewentz Yeah. It sucks here right now. '
+OldPos 19 | 14 b'@sublimeruin   sucks...'
+OldPos 52 | 15 b'@InThisCity dentists suck '
+OldPos 234 | 16 b'@bandofmagpies Damn them!   Seriously though, that sucks....'
+OldPos 125 | 17 b'2am ER visits suck ass.  Diagnosis: Anxiety/Panic attack.  '
+OldPos 28 | 18 b"@mandyism NO YOU DON'T. Canada sucks.  "
+OldPos 309 | 19 b"@carlieeeeeee hahahahhaha @K0REY hm it is better so you can save and by then have a roommate but that sucks you won't be here this summer "
+OldPos 2704 | 20 b'sucks that I had to change the settings for comments on my blog.  damn spammers.  '
+
+New positions of full vectors 20 closest
+OldPos 10 NewPos 5
+OldPos 3 NewPos 7
+OldPos 9 NewPos 12
+OldPos 19 NewPos 14
+OldPos 7 NewPos 21
+OldPos 4 NewPos 22
+OldPos 6 NewPos 24
+OldPos 11 NewPos 29
+OldPos 5 NewPos 33
+OldPos 2 NewPos 34
+OldPos 12 NewPos 38
+OldPos 16 NewPos 44
+OldPos 15 NewPos 46
+OldPos 18 NewPos 61
+OldPos 13 NewPos 2924
+OldPos 8 NewPos 3169
+OldPos 1 NewPos 23003
+OldPos 17 NewPos 25111
+OldPos 14 NewPos 25662
+
+Compared text 18330 : b'Home. Feeling good. Resisted another tattoo. Too lazy to wash off the eye makeup...... Oh well  Wearing last nights liner for tomorrow.'
+Closest 20 --------------------------
+OldPos 1614 | 1 b"I haven't been doing so well with my new regime, as i think i've got a cold, i feel so ill "
+OldPos 13406 | 2 b'just read tonnes of jb gossip, and think its all crap but watch the video of miley n nick when he hits his car. poor nick i feel for him '
+OldPos 5391 | 3 b"One day back in the office and I feel a cold coming on. Or it was my raw vegan indiscretion. Either way, I don't feel so good. "
+OldPos 595 | 4 b"@missgems Oh, that's not good my deary  hope you're feeling bettersooon and printers should have built in power supplies! ? xx"
+OldPos 1839 | 5 b'im finally awake but idnt feel soo good '
+OldPos 1413 | 6 b"Don't feel well!  Thunder and lightning storm for 7hrs now - hoping it's the 2hrs sleep I've had that's making me feel so groggy."
+OldPos 88 | 7 b"Good a big headache and don't feel too well. "
+OldPos 2041 | 8 b"@vix8 I'm good thanx Vix, you? I'm home alone at the moment "
+OldPos 1430 | 9 b"@NinaMcFLY i know that feeling so well  life's so unfair! have you watched the &quot;down goes another one&quot; one? :')"
+OldPos 1954 | 10 b'so we never went to softball. o well haha. hanging in my room and then dinner. idk if i am going out i still feel icky '
+OldPos 3638 | 11 b"Is feeling like dancing in the rain like a pixie......but the rain stopped  ohh well....lol I'll watch flight of the conchords instead"
+OldPos 123 | 12 b"feels good to have finished all my reading but tomorrow I start writing essays  can't wait for Adam to return home on monday."
+OldPos 1544 | 13 b'Not feeling very well, still going to work '
+OldPos 10 | 14 b'Not good.....Munchkinster is not feeling well '
+OldPos 3 | 15 b'not feeling too good  home with the fam'
+OldPos 5393 | 16 b"@acepero79 Yeah, it works well...I can't go today though because my face is really red still "
+OldPos 3696 | 17 b'@paulshadwell Well if it makes you feel any better, we only had Quorn sausages   The rest was nice though!'
+OldPos 241 | 18 b'...change in plans...not feeling well, not going out '
+OldPos 2845 | 19 b"@kdiezpina Hope you're feeling better!!  Good news. I have a new hairstyle for us! Show you tomorrow at lunch I'll bring some yummy soup"
+OldPos 658 | 20 b"@Bebalicious69 i have a headache  i don't feel good at all hun it was a crazy night"
+
+New positions of full vectors 20 closest
+OldPos 10 NewPos 14
+OldPos 3 NewPos 15
+OldPos 15 NewPos 42
+OldPos 1 NewPos 59
+OldPos 14 NewPos 99
+OldPos 8 NewPos 105
+OldPos 17 NewPos 167
+OldPos 13 NewPos 214
+OldPos 12 NewPos 244
+OldPos 16 NewPos 4595
+OldPos 19 NewPos 4706
+OldPos 6 NewPos 12213
+OldPos 7 NewPos 12558
+OldPos 4 NewPos 13220
+OldPos 5 NewPos 16510
+OldPos 11 NewPos 17297
+OldPos 18 NewPos 18121
+OldPos 2 NewPos 20087
+OldPos 9 NewPos 20858
+
+Compared text 27366 : b'Just landed now to school '
+Closest 20 --------------------------
+OldPos 1 | 1 b'School again... '
+OldPos 150 | 2 b'i meat medical school for you '
+OldPos 144 | 3 b'@thecrissycat S\xef\xbf\xbd muy poco franc\xef\xbf\xbds.  I took spanish+french in school and forget it all '
+OldPos 2 | 4 b'@playaharmonica me too  why are we at school...'
+OldPos 69 | 5 b'In school taking a test soon. '
+OldPos 31 | 6 b'@nusshkazn the same bird that told everyone at school? '
+OldPos 1355 | 7 b'my heart is broken every morning dropping Foo at pre school, now i understand when moms say &quot;he has my heart broken&quot;. '
+OldPos 393 | 8 b'On my way to school. I have been wearing my retainer lately so my teeth are sore '
+OldPos 5 | 9 b'about to set off for school '
+OldPos 114 | 10 b'I am soooooo screwed for school this week '
+OldPos 90 | 11 b'*Sigh* off to fire school  FML'
+OldPos 160 | 12 b"its so nice out and I'm chained to my school books. "
+OldPos 1184 | 13 b'Trying to print out an apology letter to a school '
+OldPos 603 | 14 b'I have decided to come to this school despite my very disappointing experience '
+OldPos 68 | 15 b"Please don't call school off. "
+OldPos 1304 | 16 b'@cathyjo who needs a school library that is set for the 21st century? '
+OldPos 2088 | 17 b"@Nutzy2468 introduction to laboratory tests and procedures. Lol. I usually don't leisure read during school. Brain overload "
+OldPos 196 | 18 b"@grift24 lol gladly! i made a lot! but I can't bring it to school "
+OldPos 6 | 19 b'School on Monday '
+OldPos 163 | 20 b'school resumes this monday. gaaah. '
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 1
+OldPos 2 NewPos 4
+OldPos 5 NewPos 9
+OldPos 6 NewPos 19
+OldPos 4 NewPos 25
+OldPos 18 NewPos 34
+OldPos 14 NewPos 35
+OldPos 8 NewPos 41
+OldPos 3 NewPos 108
+OldPos 9 NewPos 117
+OldPos 7 NewPos 154
+OldPos 13 NewPos 156
+OldPos 15 NewPos 178
+OldPos 19 NewPos 244
+OldPos 10 NewPos 377
+OldPos 16 NewPos 385
+OldPos 11 NewPos 390
+OldPos 12 NewPos 417
+OldPos 17 NewPos 27902
+
+Compared text 22169 : b"i can't go to sleep "
+Closest 20 --------------------------
+OldPos 88 | 1 b'@LFTA Ur going 2 sleep now? '
+OldPos 92 | 2 b'Going to sleep now. Johnny just died on the OC. '
+OldPos 1 | 3 b'Is not going to sleep tonite. '
+OldPos 9 | 4 b'going to sleep without chris '
+OldPos 186 | 5 b'@reannaremick doesnt work on my cell  go to sleep! =P'
+OldPos 15 | 6 b'I did go to sleep.  My eyes were heavy.'
+OldPos 55 | 7 b'@bustheproducer slept earlier, can go vack to sleep now  '
+OldPos 2064 | 8 b'@storycorey Hey &lt;3 I gotta go offline now, get sleep and stuff  But we can totally call tomorrow or something? ILY, congrats on the Mac &lt;3'
+OldPos 310 | 9 b'sleeping at a friend today x3 whats going on with u!? don\xef\xbf\xbdt understand .. '
+OldPos 196 | 10 b'@McCainBlogette Awwwww and you were trying to go to sleep 3 hours ago '
+OldPos 62 | 11 b"5hours of sleep. Now, I have to go.  dang harper's island."
+OldPos 59 | 12 b'sleep away my sorrow '
+OldPos 189 | 13 b'I was woken up from a deep sleep just to be let go for Mad Max.  Not happy. And now, i can not sleep! '
+OldPos 247 | 14 b"@Goldi_lockz I'm excited for brunch too! But not excited for the 20 minutes of sleep I'm going to get "
+OldPos 577 | 15 b'@mkutch Nothing in Alabama, the Lord Calvert wore off and now I am wide awake  I only drank it to go to sleep  LOL'
+OldPos 67 | 16 b"going to sleep can't be up until 1am again...and no I didn't finish my statistics homework! "
+OldPos 1440 | 17 b'Dang, I hate when I fall asleep watching tv around 7 and sleep for too long and now it is 1:30 and wide awake! '
+OldPos 205 | 18 b'again with the fucked sleep... ive decided to go do homework instead '
+OldPos 6823 | 19 b"I'm Not There is on HBO in 30 minutes! Got excited then remembered I should get some sleep tonight. And why is it not on again soon? Sad "
+OldPos 657 | 20 b'No church for me today, im sleep deprived to the max '
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 3
+OldPos 9 NewPos 4
+OldPos 15 NewPos 6
+OldPos 3 NewPos 26
+OldPos 4 NewPos 31
+OldPos 7 NewPos 50
+OldPos 2 NewPos 101
+OldPos 6 NewPos 105
+OldPos 5 NewPos 119
+OldPos 18 NewPos 126
+OldPos 16 NewPos 127
+OldPos 13 NewPos 136
+OldPos 17 NewPos 232
+OldPos 11 NewPos 256
+OldPos 8 NewPos 258
+OldPos 14 NewPos 395
+OldPos 12 NewPos 487
+OldPos 19 NewPos 12211
+OldPos 10 NewPos 22252
+
+Compared text 27932 : b'aw, i meant to put some ramen and stuff in the package but i forgot '
+Closest 20 --------------------------
+OldPos 6 | 1 b'is doing things a maid was meant to do '
+OldPos 12789 | 2 b"I'm not in mood+situation to write internals but will have to write DMW tomo "
+OldPos 14076 | 3 b'I am in a situation to write internals, but will have to write DMW '
+OldPos 21878 | 4 b'writing my bachlorthesis =&gt; developing a bachlor crisis '
+OldPos 9908 | 5 b'After not writing a thing for three weeks, my handwriting is barely legible. '
+OldPos 2037 | 6 b'@Matrix983 it was the same thing I was about to write '
+OldPos 15309 | 7 b"@Henkuyinepu it's overrated "
+OldPos 25239 | 8 b'@hoopyfrood  I was disturbed that all the Apple Developers teaching the program are 12 year olds  ...  frightening.'
+OldPos 6196 | 9 b"@fabianv what kind of docs? and what are you using to write them? we're always behind on our docs "
+OldPos 22557 | 10 b'Writing thesis is overrated '
+OldPos 7662 | 11 b'@amyserrata he wrote most of the album, but ironically, the singles he did not write '
+OldPos 17345 | 12 b'ok...I am not coughing anymore but i am sneezing. '
+OldPos 25299 | 13 b'@honeybeess Me too girl  Thesis thesis.'
+OldPos 822 | 14 b'How Do i Write '
+OldPos 8434 | 15 b'Stats self-study! Then writing '
+OldPos 23411 | 16 b'i cant stop thinking about my ex its crazy. hes soooo over me but im not over him  ergh depressive'
+OldPos 22812 | 17 b"@elizabethtan yo girl! don't  alr ba! (:   cheer up!!!! (:"
+OldPos 3110 | 18 b"@drjenny88 YAY! About the dissertation thing. Not the killing thing  BUT YAY! it's dooone!"
+OldPos 20084 | 19 b'in the library pretending to write a paper about social networking. '
+OldPos 25776 | 20 b"i've hit the boredom stage with this dissertation   sick of the library now- i wanna be in the sun!"
+
+New positions of full vectors 20 closest
+OldPos 6 NewPos 1
+OldPos 7 NewPos 534
+OldPos 1 NewPos 542
+OldPos 14 NewPos 591
+OldPos 13 NewPos 872
+OldPos 4 NewPos 1131
+OldPos 5 NewPos 1170
+OldPos 2 NewPos 1189
+OldPos 15 NewPos 6326
+OldPos 19 NewPos 6935
+OldPos 12 NewPos 7848
+OldPos 9 NewPos 8196
+OldPos 10 NewPos 8240
+OldPos 11 NewPos 8692
+OldPos 17 NewPos 10360
+OldPos 16 NewPos 10370
+OldPos 18 NewPos 23120
+OldPos 8 NewPos 24704
+OldPos 3 NewPos 27648
+
