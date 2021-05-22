@@ -1,0 +1,1368 @@
+K - Mean K closest position differences
+5 - 1428.176182 - 0.874014
+10 - 1458.122918 - 0.871372
+15 - 1479.377364 - 0.869497
+20 - 1493.794425 - 0.868226
+25 - 1499.315988 - 0.867739
+30 - 1501.001426 - 0.867590
+35 - 1502.057846 - 0.867497
+40 - 1503.389218 - 0.867379
+45 - 1503.554460 - 0.867365
+50 - 1505.028059 - 0.867235
+K - Neighborhood preservation
+5 - 0.086168
+10 - 0.084218
+15 - 0.084427
+20 - 0.086896
+25 - 0.089852
+30 - 0.093616
+35 - 0.097580
+40 - 0.101557
+45 - 0.105448
+50 - 0.109173
+Full vectors
+------------------
+
+Compared text 5933 : Four Lions. Watch it on Channel 4. Tonight. At 8pm. Best film ever. I have this on my IPad. Never tired of it.  http://t.co/7I6OapX
+Closest 20 --------------------------
+1 Shooting Tvshow Sons of Anarchy at my studio today. They closed off all the streets for a giant gun battle! Fun.  http://t.co/4lE2dIh
+2 DRY by PJ Harvey is a brilliant record. I listened to the whole thing yesterday on a break from editing. #filmmaking http://t.co/SJAAmVJ
+3 @olejp3 http://t.co/ldMxHLq Im sure it will replay on NFL network tomorrow too.
+4 I'm so glad the Vampire Diaries won an award last night. Loves them all :)  http://t.co/wD4d3wI
+5 Kristin Chenoweth will be on Over The Rainbow sunday night! 8pm CBC. Here she gives me a singing lesson. Im bad. http://t.co/vZAvXB2L
+6 Martin Atkinson announced as referee for Tyne-Wear Derby on Sunday.  Just want the Toon to win #nufc.  http://t.co/Yl8SQ5XB
+7 Regus 3rd Place site opening throughout Europe. Check out the new UK locations at Beaconsfield and Cobham.  http://t.co/sGdNFTWI
+8 Be sure to watch the broadcast premiere of the official 2012 Iditarod Race documentary - Sunday 6-8pm. http://t.co/M5Nm7VJj
+9 Meet the Amazing Race Philippines contestants. Watch it on TV5 starting tomorrow. I am excited for this show.  http://t.co/ttNsEmxt
+10 @CJCherryh Screen shot from the 3rd ep. of THE FINDER. I think someone thought it was a romance novel: http://t.co/CayczEQI
+11 A script by the Coen brothers. Alan Rickman naked. Just a few of the things going for Gambit (out Nov 21st).... http://t.co/18BpGAv3
+12 Ni**as In Paris. May be better than the original. http://t.co/KO3cUPyR via @devour
+13 Spend Saturday with Keith Richards singing some Everly Brothers.  http://t.co/HE1uwwQd
+14 I love Tom Boonen. Forget the whole birth/citizen issue. I might just write him in for president in November.  http://t.co/9ry9OM13
+15 @boogieXlove Both previous Batman films are on HD TV (TNTc FX) tonight at 8 pm EDT. So Im recording both. May watch to get caught up
+16 I think I may have a heart attack for Jason Wus new collection. So Charlotte Rampling in the Night  http://t.co/2KRW4kTn
+17 Damn. I would totally buy the Sun for this. @michaelroston: Future of news again: Free Hawkeye Lego with Murdochs Sun http://t.co/6W8q4oET
+18 Looking forward to a fun weekend in the mountains and enjoying the snow in California.  Have a great Friday. http://t.co/Itxs0ik1
+19 I missed the Barcelona game yesterday. http://t.co/AqpknXC
+20 RT @VictoriaCoren: Oh look,Four Lions is on Channel 4 tonight. Do watch it if you haven't before. Brilliant film; I properly laughed an ...
+
+Compared text 7743 : UFO Sighting: Black Triangle Sighting in Perrytonc Texas on October 20th 2012 - Black object that obscured the s... http://t.co/BSoMVMSR
+Closest 20 --------------------------
+1 UFO Sighting: Black Triangle Sighting in Perrytonc Texas on August 11th 2012 - Dark triangle shape across the sk... http://t.co/SRtIs128
+2 Black Triangle Sighting in Perrytonc Texas on October 20th 2012 - Black object that obscured the sky and stars: ... http://t.co/Vgg6mDbs
+3 UFO Sighting: Black Triangle Sighting in Oranjestadc  on October 11th 2012 - black triangle ufo with resemblance... http://t.co/pwba09f5
+4 Black Triangle Sighting in Oranjestadc  on October 11th 2012 - black triangle ufo with resemblance of a stealth ... http://t.co/xE7uSjBc
+5 Alternative news: Black Triangle Sighting in Tucsonc Arizona on October 20th 2012 - Red circle with triangle cut... http://t.co/17nxAARp
+6 #UFO & #Aliens Black Triangle Sighting in Pompano Beachc Florida on October 28th 2012 - basically it blended wit... http://t.co/nSexv3ah
+7 Yesc it is us:  Black Triangle Sighting in Plainfieldc Illinois on January 4th 2000 - Large triangle ... http://t.co/gNrCFo6o  #aliens
+8 Yesc it is us:  Black Triangle Sighting in Olmsted Fallsc Ohio on October 12th 2012 - Triangular sape... http://t.co/p7dDl5yp  #aliens
+9 Yesc it is us:  Black Triangle Sighting in Pompano Beachc Florida on October 28th 2012 - basically it... http://t.co/W6uCvtlp  #aliens
+10 Safe Mode with Networking - no internet: I am troubleshooting a BSOD in Windows 7 and may come back later with m... http://t.co/2gB8dMT
+11 Fourteen environmental protesters arrested at Eskom on Tuesday have been released on bailc after the group... http://t.co/fKGYi3a3
+12 Droid Bionic Confirmed for September 8th: While most of the United States had its eyes on the East cost last nig... http://t.co/Bkkt9rH
+13 Church notes: A live Internet chat entitled Is more money the answer? will take place Tuesday from 2 to 3 pm o... http://t.co/VLcGdXa
+14 PlayStation Network maintenance on October 15: Services going offlinec possibly to make way for the new PS Store... http://t.co/IEbDpjbI
+15 Nebraska placed a nation-leading nine players on the first-ever Senior Bowl watch list released Saturday... http://t.co/xXEbwBKQ
+16 The Tri-Cities Fever beat the Wichita Wild Friday night to win the Intense Conference Championship for the second... http://t.co/GKvG7GbX
+17 Photo: scinerds: Sharpening up Jupiter Amazing image of Jupiter taken in infrared light on the night of Aug.... http://t.co/dI7R4TNK
+18 Fatal rollover near Richwood: A fatal rollover was reported Wednesday morning on County Road 34 just east of Ric... http://t.co/kKbmMsHt
+19 Beautiful sunrise at the Washington Monument taken by @abpanphoto - http://t.co/bga98Srw
+20 Porto is even more amazing as the sun sets... http://t.co/Fz0tXHuF
+
+Compared text 4926 : Christianity is nothing else but the imitation of Gods nature.  We seek a relationship with God through Jesus ...Lord that I may see.
+Closest 20 --------------------------
+1 @MZHemingway True fact: Christianity based on a Man who wins by DYING. We call the day of His death Good Friday.
+2 I may go off the grid till 11/7. Christians keep driving me further from Christianity. Pregnancy after rape is sciencec not Gods will.
+3 @JosephD828 Ha!  Dont panic on All-star game just yet.  Could be still in play. Tomorrow is the day to worry about that.
+4 i may or may not be obsessed with Poetic Justice.
+5 Billy Cundiff may be leaving Washington.  Hopefully he wont miss the door on the way out.
+6 Today is Desperation Day. If you know what i mean.
+7 @DariusButler28   Have a great game agaist Tampa Bay tonight.
+8 Pray for Mohamed Morsi the new President of Egypt that he may continue to be a leader for freedom and peace.  http://t.co/f0LKm17i
+9 @spinenumber408 Then I will refrain from telling you about my plan to watch Mysterious Island with my son tomorrow night.  (Hes 6)
+10 @TrentBridge1 Going on Tuesday against Boro. Should be a good game.  Not sure about Wednesday game. Hope to go.
+11 Tim Roth will be playing in a movie with Jean Dujardin. i .. cant .. okc i may pass out now.
+12 @38special_  Good luck agaist Tampa Bay tonight.
+13 Tomorrow is a good day to listen to LAMB OF GOD. HAHAHAHA.
+14 after seeing @Iam_FaithReids tweet about watching The Vowc I think I may need to watch it.
+15 Take the 1st step in faith. You dont have to see the whole staircase\u002c just take the 1st step. ~Dr. Martin Luther King Jr. #quote
+16 No you may not kick it.  -Tribe Called Quest answering a text from Billy Cundiff
+17 Watching The Vow.... For the 4th time.
+18 Rick Santorum: \DOMA is constitutional. The 1st Amendment protects my religious freedom to force the government discriminate against gays.\
+19 Jupiters almost perfectly in line with the moon. Rather beautiful. May try looking at it tomorrow night via the old telescope.
+20 They should make february 13th Desperation Day.
+
+Compared text 1529 : Think imma go see Flight tomorrow.. Denzels the shit
+Closest 20 --------------------------
+1 Celtics game Saturday gotta find someone to go with me.. Lol
+2 Think i might go see flight tomorrow just because Denzel Washington ..
+3 Fuck everyone else #dexter is my friend tonight. Bring it season 4
+4 @iTz_Sledge Michael wants to the DC game tomorrow
+5 Makin a trip down to see the magic opener tomorrow #yes
+6 Who goin to see Kevin Hart on the 8th ?
+7 Gotta go see Flight tomorrow Denzel is the greatest actor ever
+8 Physics tomorrow is going to be a shit show
+9 @sTeadyMobbin8 I thought the Nets game got cancelled but they play the heat tomorrow anyway.. damnc i was ready to talk some shit
+10 @SupremeJuice_ go to the bell game tomorrow Ill take you for. A littlle whippa
+11 I sure hope the skate center plays decent music tomorrow @Cpolk_22
+12 Think ima go to Nicki Concert @ the DAR Constitution Hall on the 21st.. 2 chainz gonna be dere
+13 going to see young savage saturday w/ my girls. lolc
+14 Cant wait until April 7 going to see RiRi in concert
+15 Romeo Santos gonna have something in the theatres November 5 ..
+16 No wonder @TreySongz coming here the 21st of Nov cause he got Soul Train the 25th
+17 May jus have to fuck with those Hawks tomorrow! Niggas luv a deal
+18 Noel Gallagher tomorrow.. cant wait to see the legend!!!!!
+19 RT @FTH_RawDawg: I can stamp on Friday its goin be endless people at the movies to see Final Destination 5
+20 @krisolsen have a big show on in Melb tonight then back in Singapore on Sunday for a month!!
+
+Compared text 7028 : Today,life will be just like an episode of 60 Minutes...but with a young,cheerful Andy Rooney.
+Closest 20 --------------------------
+1 Andy Rooney will make his last appearance on 60 Minutes this Sunday. If anything,this proves there is a God.
+2 RT @GMA: Andy Rooney,92,will make his last regular appearance on @60Minutes this Sunday,CBS just announced.
+3 Tomorrow is 12 October 2012. Five years ago on 12 October 2007 the first Wizards Of Waverly Place episode ever premiered on Disney Channel.
+4 Today is 12 October 2012. Five years ago on 12 October 2007 the first Wizards Of Waverly Place episode ever premiered on Disney Channel.OMG.
+5 Watching old SNL episodes from the 80s w/ Chevy Chasec John Belushic and Dan Ackroyd. Billy Joel is the musical guest. The best lazy Sunday.
+6 Charlie Sheen seems pretty confident/badass for his upcoming roast. He actually seems like he has it together. I may watch.
+7 Looking forward to Celebrity Juice tonight.
+8 Matt & Trey on 60 Minutes tomorrow. I haven't been this excited for a segment since Andy Rooney learned about cordless phones.
+9 MacGyver is streaming on Netflix and the theme song forces memories of 6th grade pining for Richard Dean Anderson. It's still kind of there.
+10 @lilyeliza1 Bruce Willisc Bill Murray and Ed Norton all in the same film. I may faint.
+11 When columbus shoots Bill Murray in zombieland it may be one of the funniest things ever.
+12 Silent House may be one of the worst movies ever.
+13 That @SportsCenter ride along with Les Miles was the most awkward piece of television ever. 2nd place is this HELLO piece.
+14 @KayelaLovesYou Channel 4,Friday,10.25pm I think. Looks like it's going to be a really good documentary. Obama's involved!
+15 We all went to see Rise of the Planet of the Apes last night...I actually enjoyed it a lot! That chimp Caesar was a great actor. Seriously.
+16 I want to go see Final Destination 5 on Friday.
+17 Seth McFarlane set to host the 85th Academy Awards in February. What do you think of that choice?
+18 First day filming on Dancing on Ice tomorrowc should be interesting.
+19 Twitterverse blowing up about Shannon Sharpe's awesome Hall of Fame speech. We'll have the video clip on NFL.com a little later tonight.
+20 True Blood tonight! Always the best night of the week.
+
+Compared text 5508 : @bigwidu @danapixie Were not sure if Pottstown is having Halloween. Borough Hall phone is out of order. Nearby Limerickc PA having it Fri.
+Closest 20 --------------------------
+1 @yo_navaz You going to be at the Nov 15 showing of TIC at Vans? Robbie is hyping the night to the locals. Free session will be bananas.
+2 @TimOcchipinti Were going to be at Boys and Girls Club to clean tomorrow at 10am. They told us to bring boots and gloves. All are welcome.
+3 @rajeevnath you say. Sunday Ill be at the Wikipedia Womens Workshop. Can meet before or after that.
+4 @Jonny_Blobbins a bit frustrating. I dont think Ive added you on my new PSN account. Ill do it tomorrow.
+5 @kadecudi_nova @keriilynnbabe well thenc have fun not trick or treating. Ill be in br doing it Wednesdayc and Thursday in Zachary. BITCH.
+6 @Jimmypcafc @dannys2309 nice one Harry Styles. Sorry boys havent got a mob at the mo. Think Im at a firwework thing Fri. If not Im there.
+7 @LiamGib Weve got the sponsor form and box on our desks. I think Becky is going to send an email tomorrow.
+8 @jnelsonweather Im actually touring the new addition tomorrow between meetings. They do have WBB tonight & Mens Hockey tomorrow.
+9 Sad scenes about Underoath splitting. Off to Newcastle tomorrow for the weekend. Try catch the #arsenal game too. @jamiedurent if yr about
+10 @AnaBanana12 do you like @OurNameIsFun? Presale is tomorrow for Jan 31st show at DAR Constitution Hall.
+11 @iam_ShanaeWare Sorry about that. Dont miss the one thats coming on Friday thoughc Trayvons family are going to be there.
+12 @lewk @ianeditz That used to fly over Bolton on Tuesday afternoons. Think it was Tuesday anyway. Must have been a regular delivery run.
+13 @sdelong4 I bet. They are coming to Vegas the 20th. I wanna go then. What were tickets there?
+14 @Wdoss_09 cant bud going to Kentucky. If you wait till sunday fun day id like to go.
+15 @pa9o9 Nov 25 at the San Siro. I pray we wouldve gotten back our rhythm before then or well get embarrased.
+16 Playing with Fluke tomorrow night in The Sailors Return. #Weymouth. #live gig.
+17 @kathrynrhian ah rightc Ill have to go for plan B then ha. I suppose with the final deadline being December its not too much of a problem
+18 Hanging with Katie & making fun of OKC tropes. This is an awesome Thursday night.
+19 @justinrsutton agreed. thats like the NBA All-Star game taking place in October.
+20 Carling Cup on Wednesday. No extra time please.  Have to play more england internationals and give the kids a rest. #lfc #stillinthehat
+
+Compared text 7080 : @iheardavoicesay is finally catching up to me with #Dexter. I'm only up to season 4,but he has almost finished season 2 today @ home,ill.
+Closest 20 --------------------------
+1 @Jonny_Blobbins a bit frustrating. I dont think Ive added you on my new PSN account. Ill do it tomorrow.
+2 @boogieXlove Both previous Batman films are on HD TV (TNTc FX) tonight at 8 pm EDT. So Im recording both. May watch to get caught up
+3 Yeah boiii #entourage tonight,so pissed that there's only 3 epsdes until it ends. Oh well on the up side #dexter season 6 starts soon...ish
+4 @linsey_g So many! Up All Night,Terra Nova,Person of Interest,American Horror Story - hot damn,it's gonna be a good year.
+5 @Jared_Akins trying to do the same ha. But I've been good. Just waiting to be up in Auburn with y'all in January
+6 @BoostedTRG sanchez will be out tonight.
+7 After that,I'll start plugging mine and @joeskirkie's live tweet of the new FOX show Terra Nova on September 26. #maybewewillgetfreestuff
+8 @azrinparveen @Idruski as usual no. You can Skype with me this Saturday kot. Still in Milan bro.
+9 @SemiProJoe @SaraWoof looks like its coming on Valentines Day. I liked the 4thc I think 5 will be just as good. Hes in Russia this time.
+10 @kbolton83 Goon is on tomorrow at 9c just sayin.
+11 @Huda_Shami he's a very good looking guy. Is s3 on netflix? i think I'm watching it tonight
+12 Just watched Our Idiot Brother for the 1st time.. Definitely a good movie. Paul Rudd is hilarious. Better than Adam Sandler @KRTalley
+13 Babe just left to Tucson. :( Won\u2019t see him till Saturday. #Badtime
+14 @TNA_GUNNER Been trying to decide on a new show to watch & always get tons of Sons of Anarchy suggestions. I may go 4 it. Have a blessed day
+15 @sdelong4 I bet. They are coming to Vegas the 20th. I wanna go then. What were tickets there?
+16 @bkuhhneer tony romo just called me. He said he got a restaining order on you. Guess you can't go to the game on Thursday.. Sucks.. #tried
+17 @Devan_Noblit itll be my 6th Jean Dujardin movie I own on DVDc lol I have a problem. :P
+18 #ICanHonestlySay #Dexter is such a good show,I may order Showtime just because of it.
+19 Pacino might play Paterno in the PSU movie. Itll be the 2nd movie in his career w/ the phrase Say hello to my little friend. #ScarFacial
+20 Nothing is going to change between now and Wednesday. If Acta has went this long w/o being cannedc might as well finish the season w/him.
+
+Compared text 5920 : RT @BillyPollock: @stevetilley I'm also very stoked for Dead Island & Uncharted 3! Is the Deus Ex game 3rd person perspective?
+Closest 20 --------------------------
+1 @HilciaJSu Your review reminded me I still need 2 read the very 1st Percy Jackson book! Heroes of Olympus is an offshoot series from it?
+2 August 17th RT @graceellisxo: Can't wait to see the Inbetweeners movie,Will has to be my favourite! When's it out ?
+3 @zavvionline: Deus Ex: Human Revolution is the 3rd game in the series #DeusEx
+4 @masseffect oh yeah! Will be the first one to get it on the 4th from PSN!
+5 @gm3ek Are you going to SJP tomorrow night pal?
+6 @SJR1978 You staying up to watch Paris-Nice stage tonight? Should be exciting!
+7 @awolk Great 2nd Screen analysis! Can I brief you on Jinni semantic discovery & smart social recommendations? Going to CES?
+8 @PatienceMaddox Hey! Are you going to Noel Fielding with us on Friday?
+9 @Greeneye_6 Thank you! I will see you tomorrow for more Uncharted banging and Tomb Raider talk :D
+10 @ruanlouw75 Are you available to play Sunday in the Presidents Day game?
+11 RT @sfleming23: Looking forward to Celebrity Juice tonight!
+12 @jackseymour11 I may have an Android phone by the time I get back to school! :)
+13 @Doosh5 can u tweet me updates from the Warriors game tomorrow?
+14 @spenceh95 Phewc Im still on edge after the Wenger out stuff! You going to SJP tomorrow?
+15 @_bethanygarland I really wanna go to one of his things! Did you watch his new thing on channel 4 last Friday? xx
+16 @kayladanielle__ Are you going to the Red Carpet on Thursday?
+17 @samvescovi @Darrenvescovi What are two doing for the Steelers game tomorrow?
+18 @Van_Gucci1 you wanna go see inbetweeners next wednesday?
+19 @mw55 what do you expect Thursday? Are you going to pull out that Mikey Magic on Duels day again? #hopeso
+20 @mikejoy500 How do like the idea of Monday Night Daytona 500?
+
+Compared text 7256 : RT @newarkpanto: Some of the madness and mayhem the cast of Aladdin created when they flew into Newark on Monday!! http://fb.me/VNvs7llk
+Closest 20 --------------------------
+1 Photos I took Tuesday morning of the aftermath from Hurricane #Sandy in a 2 block span of Long Beachc NY http://t.co/TIBJOH62
+2 RT @gaga_indonesia: Lady Gaga attending The Femme Fatale - Britney Spears concert in New Jersey tonight http://twitpic.com/626hfq
+3 OMG I can't wait to see what Beyonce is gonna do at the VMA'S Sunday August 28th! http://twitpic.com/62q0w9
+4 Photos are up from last Thursdays party with DESTRUCTOc courtesy of edm ORLANDO! http://t.co/LbrMPZMG
+5 Kristin Chenoweth says she is glad to be in Bethlehem for Saturday performance http://t.co/FlIYRZ8f
+6 Were going to Bali tomorrow lol http://t.co/55XLqiZv
+7 BWW Reviews: ALADDIN at the 5th Avenue Theatre - Very Disney Park - Broadway World http://t.co/Vd38HSy
+8 RT @SloanFatale: New photo from tonight of Lady Gaga and Britney before Brit's concert tonight! http://i52.tinypic.com/35itbiw.jpg
+9 .@Marvels Phase Two Kicks Off with Iron Man 3 Trailer on October 23rd http://t.co/5HvrM27A via @firstshowing
+10 Front Line with Kamran Shahid - 22 May 2012 http://t.co/wOFmOtcX
+11 Randy Lynch at Oscars this Friday night with his band BLACK LIST. http://t.co/Jf1DSwnG
+12 Billy Crystal attends the special 25th Anniversary Screening of The Princess Bride at the New York Festival http://t.co/5juFdoBK
+13 PHOTOS: Rock Of Ages kicks off the 7th Season at the Adrienne Arsht Center @arshtcenter http://t.co/btD3cATy
+14 Greensboro DMV employee charged with embezzlement - Nov 1 @ 4:53 PM ET http://t.co/rRWUQUky
+15 RT @mollyjmccook: We all went to see Rise of the Planet of the Apes last night...I actually enjoyed it a lot! That ... http://tmi.me/e8lcf
+16 Beautiful sunrise at the Washington Monument taken by @abpanphoto - http://t.co/bga98Srw
+17 Tweet di Brintey So amazing to have the beautiful Lady Gaga at the show in AC tonight. Love you girl.- Britney http://fb.me/13C1kUZaw
+18 Pogues celebrate their 30th Anniversary tour with a one-off UK live date at London O2 Arenac Thursday 20 December 2012 http://t.co/WRk2OnqF
+19 Come hang out with me Saturday at Kremlin!! http://t.co/bIlNbkLy
+20 RT @thinkprogress Golf balls with Pelosi's face on them allegedly distributed at Boehner fundraiser today. http://t.co/AILg0QA | SICK!
+
+Compared text 8119 : WRITER #MOTIVATION: Dr. Seusss 1st book was rejected by 43 publishers before it was accepted by the Vanguard Press. Dont give up
+Closest 20 --------------------------
+1 Great piece on Joe Coles demise in tomorrows Independent by @samwallaceindy. Cole was the first England player who was younger than me
+2 @WillBlackWriter Thank you for the follow. Interesting book you have in Amazonc think I may check it out ;)
+3 Just ordered your Amanda Knox book RT @ninaburleigh Looks like judgment day is Oct 3 or 4. #amandaknox
+4 skipping school tomorrow and going to Tennessee instead. #soundsgoodtome
+5 @chrischris__  The Sun: Paolo Di Canio says beating Aston Villa tonight would be like having sex with Madonna. #legend
+6 @DLevi84: I need an NNS ticket for Sat. Anyone got any?nope but should be easy to get 1 at the track
+7 @MariaDBK Yup. Well we had a fun but small conversation but Ill talk to you tomorrow. Goodnight Maria. ;)
+8 My graduation tomorrow is at Constitution Hall. If U wana go just hit me
+9 Oneil says Vaughn will be sold in January. His crime? Passed the ball forward more than 3 times today!!!
+10 @sherryjenix Im taking Physics without Calculus for the 2nd time in the Spring. Tips?
+11 Fuck everyone else #dexter is my friend tonight. Bring it season 4
+12 @LilTunechi cannot afford to go like @KingJames in the 4th. Carter IV has to be great,anything less its a failure
+13 @RBKD: This just in: Rui En joins Elvin Ng & co. in CLIF2c scheduled to air 18 Feb 12. Surprise?
+14 To celebrate the death of two titans of world literaturec UNESCO established 23 April as World Book Day. Bit of grim humour there...
+15 @KrisWhittle may get a wider training gig somewhere. Hard to play Super Rugby when you weigh 47kgs though
+16 This week has been a good week. Got the NBA package free on DIRECT TV until Nov 6th. NBA is fantastic!!!!
+17 @tapi First reaction: would look great in a SimCity game. 2nd reaction: oohc its motorized!
+18 It makes me happy to see that Ron Jaworski isnt on Monday Night Football. Suck it @jawsespn
+19 @MrsCheddies mid-Feb at the moment. Im hoping it arrives before Chinese New Year!
+20 @arrington Noticed that joke when you interviewed Reid Hoffman. Better the 2nd time around ;)
+
+Compared text 9711 : Man\u002c bye. I gotta work all day and drive to Houston tomorrow.
+Closest 20 --------------------------
+1 I\u2019m getting off work tomorrow. Then coming home to watch the Heat win and talk shit.
+2 Cant wait to go meet the cast of Being Human on Tuesday. Be jealous\u002c bitches.
+3 All new Teen Mom 2 this monday\u002c I really wanna see it.
+4 My nephew is moving to Florida tomorrow and he won\u2019t even say bye to me. WHAT AN ASSHOLE.
+5 Might not be able to get a free taco tomorrow. As Napoleon Dynamite would say\u002c dang it!
+6 Lance just left\u002c dinner with the fam was great. Managed to watch Napoleon Dynamite and The Devil Inside. Long story short: wonderful sunday.
+7 Lance just left\u002c dinner with the fam was great. Managed to watch Napoleon Dynamite and The Devil Inside. Long story short: wonderful sunday.
+8 @MorbidWhore oh I\u2019ll be 19 in February. Where do you live? I live in Florida. :D
+9 Love me some Aaliyah\u002c may she rest in peace.
+10 I havent went to Philly in a while :( my mom going tomorrow but she coming back the day after. & that\u2019s bullshit.
+11 Busy day tomorrow\u002c staging at bliss instead of sustenio!! Both very cool places. And my last night in Texas. Its gonna be great! :)
+12 Goodnight\u002c Twitter. I will see you tomorrow- when everyone is done talking about the Justin Bieber concert.
+13 @bagraider Please tell me you\u2019re coming over tomorrow morning so I can make you David Bowie.
+14 I could have been asleep by eleven. Except I found m iPod.... I\u2019m going to be so tired tomorrow.
+15 @BridgetWakelin I\u2019m going to the Celtics  with Conor tomorrow night\u002c but you absolutely must come Saturday. My friends demand your presence.
+16 @ShakeMeDownKid Ohh wooow\u002c it\u2019s pretty asl (thnx google) . We in it. Haha. Anywhoo I\u2019m going to sleep. We gotta chill soon\u002c or Sunday. :P
+17 @russfee Contraband. Friend bought it in Whitefish. I\u2019m going there in January\u002c maybe we can make a deal.
+18 Gonna change my Tumblr theme. I hope I can finish it later so that tomorrow\u002c I can practice my performance on English monologue. :)
+19 Alright. G\u2019Night! Tomorrow I will be in California. The next day I will see BIGBANG with my own eyes. No pressure on the sleeping now. :P
+20 Who the hell moshes at Matt and Kim?? Next time watch out for my face\u002c mofos! My cheekbones better not be purple tomorrow. @alexanderCXV
+
+Compared text 8351 : Just realized that Im applying to the Education Program tomorrow. Where has the time gone?
+Closest 20 --------------------------
+1 Um I just learned that Sunday is NATIONAL CHOCOLATE DAY. Im totally taking advantage of that.
+2 @Real_Liam_Payne Ive got a Maths exam tomorrow. Can you wish me a luck? No? Okay thanks. I wont pass this exam.4
+3 @chelseafitch @chelss_lewis WPPI starts the 19th I believe.  Thats why Im flying out the afternoon of the 18th.
+4 @queensoshi What Ive been busying about is just about my communitys big day on Sunday. And plus I get tired. You know I even have classes.
+5 @kategoldie_ Did you not even see one for GCSE!? Next one is on Thursday. You should!
+6 @patrishuhx7 I have English tomorrow but it honestly doesnt bother me for some reason. Rella always makes my day. Dont ask
+7 @stephyyboo15 Lol. Maybe Friday since Im going to Georgetown.
+8 Im taking the SAT at Bob Jones. lol I feel cool.
+9 Not wearing make up to Dublin tomorrow until Im getting ready for the party. Help.
+10 Refuse to admit that its 3rd year. Bring on my Groundhog Day
+11 @jnelsonweather Im actually touring the new addition tomorrow between meetings. They do have WBB tonight & Mens Hockey tomorrow.
+12 Think Im going to a A1 concert tomorrow. Do you guys know who they are? haha
+13 @EgyptianLover_ @Tyga 3rd??! :O where have I been I thought Careless World was the 1st one. No?
+14 -.- today is Monday.. Damn it. Im gonna miss my Rui Ens show tonight.
+15 @asht0nizzle @susan_leperaxo Tomm and Sunday most likely. Not sure when Im going back. No power in NJ
+16 Im gonna just don it during school tomorrow. Math in TOKc History in Math and Bioc and Spanish during lunch. Yup that sounds about right.
+17 @rajeevnath you say. Sunday Ill be at the Wikipedia Womens Workshop. Can meet before or after that.
+18 Gonna be on the news tomorrow. Im going to be the girl wearing the Big Time Rush shirt. :D
+19 Finished filling out the FAFSA for this scholarship application. Hopefully its processed before November 15c cause I need it by then.
+20 I just came back from Mexico city... I will fail 2 subjects for not going to school for a week. If Rih comes to Mexico in the 14th. OMG...
+
+Compared text 1507 : @From_A_Balcony haha. You know i cant deal with athens after last saturday. Hear their ignorant asses talk about the game. Lord help me
+Closest 20 --------------------------
+1 @Wdoss_09 cant bud going to Kentucky. If you wait till sunday fun day id like to go.
+2 Im going to the Duke game on Saturday. Haha. DUKE. Whata joke they are.
+3 @patrishuhx7 I have English tomorrow but it honestly doesnt bother me for some reason. Rella always makes my day. Dont ask
+4 @Jonny_Blobbins a bit frustrating. I dont think Ive added you on my new PSN account. Ill do it tomorrow.
+5 @sdelong4 I bet. They are coming to Vegas the 20th. I wanna go then. What were tickets there?
+6 @Becker_Boris Its almost 2 am in BKK but I cant sleep after the game. It isnt the 1st time we lost cuz of ref.
+7 @ShawnDizzle77 really liked Tobacco Rd. Ill have to run through the whole album tomorrow before the WBB game.
+8 @thewinningweiss no stop please.  P.S. total ripoff of another song. Ill play it for you in yearbook tomorrow...oh wait.
+9 @Joe_Sardelli Sorry that we couldnt get you in the party. The guys I was playing with refuse to play ground war. Open Lobby on Wed.
+10 Had a dream about a Chardon football last night. Makes me wanna go to the game tomorrow
+11 Tonight was awesome I LOVE the Richwood students. Cant wait to meet more tomorrow. :) #jfk2mts
+12 @Wzzz Going to Elon University. Its a private ubi at a damn ulu place. No worriesc im going off on 22nd august. Haha.
+13 @PullingLinemen Im amazed you keep coming up with new names for the league. May want to consider formatting Phils GOTW though.
+14 LMAO Snottsdalec AZ = sluttiest place. I dont think Gelndale should get 2ndc give it to the Tempe giiiiirls.
+15 @shalisemyoung oh didn\u2019t I see where Tom Brady is the 9th most overrated NFL player. Yes this explains it.  #nflplayersarehaterstoo
+16 @MaverickManiacs I knowc it went from way too far off to here. Ill see IUPUI at Maryland on Jan 1c just excited to go back to Baltimore lol
+17 @Starcharold Ill cry with you. Im having problems not being salty about this Alive Tour tomorrow. I cant even listen to any Big Bang.
+18 RT @Coachdivvy: I'm exited about friday! No offense but who is Tonga? NZ can't just make up names and countries. Play fair.
+19 @Dula2fr3sh next saturday i should be back in the city. Oh shit.. well yea hell still be here. u get the room w/ the 74 HD Tv lol
+20 Going to the Knicks Vs. Heat game tomorrow. #HYPE last time i went to a basketball game was when i was 9.
+
+Compared text 8705 : @D_Lombardozzi Will there ever be a 3rd season of Breakout Kings? FX should pick you guys up! Please tell me sumthin good!!! Best show ever!
+Closest 20 --------------------------
+1 @destineejoy I think this kid is a wrestler?!? Imaaa talk to you tomorrow about it!
+2 @SJR1978 You staying up to watch Paris-Nice stage tonight? Should be exciting!
+3 @Blount_Kidd4 In Greenville? Dang boy! If you still in Greenville tomorrowc you better stop by and see me!
+4 @ollyofficial have you filmed Jonathan Ross yet??? Cant wait to see it on sat! :) xxx
+5 August 17th RT @graceellisxo: Can't wait to see the Inbetweeners movie,Will has to be my favourite! When's it out ?
+6 True Blood tonight #Yesssss!
+7 @redsonfire Perhaps they want a 3rd choice hahaha! Like Ben Amos at #MUFC
+8 You guys need a proven goal scorer ASAP & He fits the bill!! RT@onesimo25: Can Roman Abramovich please get us Falcao in Jan!!! @chelseafc
+9 @_Ms_R have you watched Four Lions? Saw it again last night love it. Fuck mini Babybels!
+10 I'm so pumped for Jersey Shore 4 tonight! I want @Sn00ki and Vinny to hook up XD
+11 @Real_Liam_Payne guess whos going to your December 3rd concert at MSG! #ThisGirl
+12 @masseffect oh yeah! Will be the first one to get it on the 4th from PSN!
+13 Imma probably just watch Good Deeds for like the 3rd or 4th time!
+14 @kyledake444 Plz give the fans a treat and start trash talking David Taylor. Really heat things up b4 what may be the Match of the Century!
+15 @elliegoulding do you know what time you come on tomorrow night at Santos Party House? cant wait to see/hear you!!!!
+16 @50ShadesOfDreyy leggo watch Breaking Dawn on the 17th after the fair! :)
+17 @SwiftExpert Is t it fake? The Grammys nominations come out in December!!!
+18 @FarrrahSage are you going to Petrolias game tomorrow ? I still havent got to see you or the baby!
+19 @_bethanygarland I really wanna go to one of his things! Did you watch his new thing on channel 4 last Friday? xx
+20 @spenceh95 Phewc Im still on edge after the Wenger out stuff! You going to SJP tomorrow?
+
+Compared text 1436 : paper finishedc cmas overc blake and miranda dominatedc accounting hw got pushed to Wednesday. going to bed happy :)
+Closest 20 --------------------------
+1 @jessicaeven alrightc ill go to ticketek tomorrow and sus it for you :)
+2 I dont want to talk to no one tomorrow besides evelyn c additi c nathalie c paola & destiny
+3 dont get paid till saturday but im going traffod centre tonightc cba
+4 TONS of hw tomorrowc lunch date with joeyc back to hwc then magic mike with ash&co. before bed :)
+5 @oomzee just realized i had 400 credits on my acc leftc got one pack nothing in it but a free pack with itc di maria 2nd pack :)
+6 @abeer_farhat Vanessas gonna be at the soccer field tomorrowc not the gym-- she forced me to tell you :)
+7 I would be at berkmar football game on  the 31st .
+8 @sio_noble Ahc youre a bee charmer you! :) Touch wood should make it to LP next Friday work depending :) x x
+9 hm c Saturday with Joey c Lauren c DJ c and Laura sounds about right ;) #happybirthdayDJ
+10 The Greyc textingc and looking forward to a useless day tomorrow :)
+11 Got so much accomplished today ! i hope to see lots of happy faces tomorrow @FairmontPacific Rim for the wine&cheese info for Bella Bay ! :)
+12 adhitia sofyan on Java Jazzc March 3rdc cant wait! Give me a day offc please...
+13 Tomorrow haunted house with Sam kaitlyn marisela Yesinea marcos and maybe Walter and Katie xD
+14 Tomorrow gonna be hell yall. thoughc i am going to the golden modes in chapel hill!
+15 Lmfao c she gone die . All the niggas gone be at NCA tomorrow
+16 @davidgill1985 @leahkeenan your going to be tamping etc etc come Sunday eveningc up the Mackems
+17 @NICKIMINAJ DUBLIN on Monday :D so excited! also my friends birthday she will be at the concert... Plzzzz say happy birthday Shauna
+18 @Megan_Gunderson tomorrow is casimir pulaski dayc and we have school. im asking mr.otool why tomorrow! wanna join me?
+19 @pondemoz wow,ipad got just today free lol www.burna.in/fgye
+20 @Davidheartbreak WWOOO fasho! u know i gotchu! ima c u in vegas on the 21st blud!
+
+Compared text 3721 : Tomorrow I get to make a Birthday Cake.
+Closest 20 --------------------------
+1 My tv just told me to go out tonight and be social and stay in tomorrow and have Olive Garden. Mhmm.
+2 Can't wait to go to Colts game with my sweetness tonight.
+3 So apparently tomorrow is National Kissing Day. Im gonna eat an entire bag of Hershey Kisses and call it a day.
+4 Today is Desperation Day. If you know what i mean.
+5 Someone take me to Florida so I can live in the sun.
+6 For my 18th birthday I want a lap dance from that fat chick in Rella.
+7 On Monday I go back to my old job for the fourth time. My life is the Groundhog Day movie.
+8 They should make february 13th Desperation Day.
+9 Tryna get this math lab out the way! Half tonight then half tomorrow.
+10 You guysc @lacountyfair is going to have fried Thin Mints and Tagalog ice cream tomorrow.
+11 Asap....come to my house tomorrow and entertain me instead of everyone else going to the concert.
+12 Someone please go to work for me tomorrow so I can lay in bed and watch Greys Anatomy all day.
+13 Um I just learned that Sunday is NATIONAL CHOCOLATE DAY. Im totally taking advantage of that.
+14 I want to go see Final Destination 5 on Friday.
+15 Got email saying my copy of Deus Ex is on it's way. If it arrives tomorrow I will literally stay up all night playing it. No joke.
+16 Tomorrow is a good day to listen to LAMB OF GOD. HAHAHAHA.
+17 Still on army duty in Alabama but thinking about how lucky I am. @dianakander married me 8yrs ago today.
+18 I challenge Katie to stick pins in my eyes tomorrow. I dare you.
+19 I want Jenelle to come over tomorrow. I need someone to watch netflix and eat mac & cheese with..
+20 No joke I got a voicemail yesterday saying Happy Valentines Day instead of Happy 4th of July.  Wow.  Not sure what that is all about.
+
+Compared text 6994 : @Maryhlyon I'm going to auburn thursday now...
+Closest 20 --------------------------
+1 @jadinexo U going to chalmers tomorrow?
+2 @jackseymour11 I may have an Android phone by the time I get back to school! :)
+3 @DeShaan3323 im going up to Berkmar tomorrow
+4 OMG! Look like its gonna be very hot in Gampel on Sunday... xD
+5 @limmengkeong hahaha.... Rest assured it will be something big on Tuesday in Putrajaya
+6 @BrielleWatkins I think you can get them on Ticketek? And they go on sale tomorrow.. I think... :)
+7 @Tayyl0rgang you won't see me tomorrow :( on my way home from Alabama...
+8 @CorbinDunlap oh you will.... Unfortunately I may have to toss a few to Matt... He did my homework
+9 Should I go to the MLK game tomorrow ?
+10 Might have to make that Final Destination 5 move on friday...
+11 @RFelich if youre tryna go north on Iowa theres a bad accident down by 6th street...
+12 Kinda just want to stay home and cry all day tomorrow...
+13 @Bullock_NFFC will he be able to perform on a cold summers day at Bolton on Sunday?? Probably...
+14 @BradGagnon That would kill me...Im going to go live in Siberia so I dont get hives every time the sun comes out..
+15 @_OGlena going to Berkmar game Friday ?
+16 @josselitooo nah I gotta take the act tomorrow and from there go to beaumont for oscars game
+17 The last place I wanna be going is jacksonville tomorrow.... UGH
+18 @SamiCorrado pretty excited for #SBUcheerleaders to come to the Liacouras Center in January...
+19 @Brett_Elliott8 I fly that Saturday the 15th from Detroit to Amsterdam then up to Newcastle
+20 @damianfrancis I think Rebecca Black went crawling back to her day job.. #Friday
+
+Compared text 4694 : Last Sunday night for the Haunted Castle and Black Forest is tonight! Come on out!
+Closest 20 --------------------------
+1 Tonights Friday Family Movie Night is Journey 2c the Mysterious Island! Looks promising!
+2 I want to go to Chapel Hill tomorrow for Halloween!
+3 Colts game tonight! Yay!
+4 Excited for the Nuggets game tomorrow!
+5 Come join in all the fun at The Great Pumpkin Hunt at Rosedale Gardens this Saturday!
+6 Looking forward to going to the Colts game this evening!
+7 Getting very very excited for the Birdcage tomorrow at Derby!
+8 Cant wait to see the Lakers tomorrow!
+9 Games played during the week are now more interesting than Super Sunday!
+10 ALMOST forgot about VCUs Open House this Saturday!
+11 Awesome ending to Raw tonight! SummerSlam is gonna be amazing!
+12 Richie Hawtin - Monday Night - Buffalo Town Ballroom - Dont miss it!
+13 Fun night tonight at Vampire Diaries. Great Teen Choice Award winners!
+14 Richie Hawtin - Tuesday 10/30 - Buffalo Town Ball Room - Dont miss it!
+15 October 12th will be the anniversary of Wizards Of Waverly Place!
+16 True Blood tonight #Yesssss!
+17 Grand opening tomorrow. Come out to Vans at Town Center and visit me and check it out!
+18 Art on the Town Friday November 2: 6 brand new locations!
+19 Going to Singapore tonight :) Excited for Skyfall + penny boarding tomorrow!
+20 Looks like BJs Skate Center is the place to be in St Joe on a friday night!
+
+Compared text 10833 : @derrickmckee need tailgate tips! How do you keep food warm w/ no crock pot? Wanna make buffalo chix dip for WVU game Saturday!
+Closest 20 --------------------------
+1 @Blount_Kidd4 In Greenville? Dang boy! If you still in Greenville tomorrowc you better stop by and see me!
+2 @Doosh5 can u tweet me updates from the Warriors game tomorrow?
+3 @redsonfire Perhaps they want a 3rd choice hahaha! Like Ben Amos at #MUFC
+4 @SJR1978 You staying up to watch Paris-Nice stage tonight? Should be exciting!
+5 ready to go to Lexington with @kWeddlee and @courtknee_eat10 for this game tomorrow night!
+6 Feels like Super Bowl Sunday waiting for the big TNF game tonight! Whats everyone doing for KC v SD?!? #cantcontainexcitement
+7 Watching Napoleon Dynamite with @katyholzzz = best Friday night ever! #throwback
+8 @ChestersShop This is one of my favourite things about Chestersc the pizzas taste fantastic! Alternative to a sunday lunch?
+9 @destineejoy I think this kid is a wrestler?!? Imaaa talk to you tomorrow about it!
+10 @jaymee55 yeah I got a Yankees hat geez! Yeah he got the old lettuce wrists! Good night in Austin last night then?
+11 @_bethanygarland I really wanna go to one of his things! Did you watch his new thing on channel 4 last Friday? xx
+12 Where's a good place in Studio City/LA to watch Monday Night Football tonight? Lemme know!
+13 Anyone out there know how I can go along to the Rugby Expo at Twickers on Nov 14th? #takemeimyours
+14 @DJkoldstone we have a request to play Girls Gone Wild at the party tomorrow!
+15 @WingmanBiz So wish I lived in Philly! Have a great show tomorrow night!! Hope one day to see you in St.Louis!
+16 Desperately needing girl talk! Cart wait for True Blood tomorrow with @chibivampi & @marb_light
+17 @rob strong @charcyb Anyone thinking of going to Chesterfield next Saturdayc Edgar Davids v Luis Boa-Morte!? @Patriciacross & I may be there
+18 @Jenna_Long11 @JordanBush7 I miss you Jennn! Are you gonna be at the brookwood game tomorrow?
+19 @thomas_edison Doing a show in Amsterdam? Would love to see you guys play live soon! I might be in amsterdam Saturday night
+20 RT @sfleming23: Looking forward to Celebrity Juice tonight!
+
+Compared text 5260 : @TheLitPlatform An informal networking day about digital publishingc Bethnal Greenc 8 Nov.... http://t.co/a6N5XH10
+Closest 20 --------------------------
+1 #cmst393 heres an article about Anonymousc which is choosing now to distance itself from WikiLeaks http://t.co/xqAJpJTA
+2 Next Friday SolTek residents Daffadam and Medlam take to the stage at Plan B - London for C Panels 1st Birthday.... http://t.co/9JafrjwC
+3 @GRUPOEDEBE will be attending @Bett_show with advanced solutions in Education. Londonc Jan 30th - Feb 2nd 2013 http://t.co/di8ButVk
+4 Before you make plans for this Friday nightc check out this event benefitting Bolder Options Rochester. Itll be... http://t.co/gRJVHwqy
+5 CULTURE (Down Townc Mon 23c 1:00pm): Come celebrate spanish literature at World Book Day by the Cervantes... http://t.co/1JD5prgg
+6 Mohamed Nasheeds Press brief about CONI report - 31 Aug 2012 http://t.co/fky9cA6d via @youtube
+7 classy RT @pwire: Boehner proposes Obama speech be on the same night as NFL opening night... http://t.co/eALW22K
+8 Mosconi Cup from Monday 10th to Thursday 13th December at the York Hallc Bethnal Greenc London http://t.co/H4YXeIli
+9 Merging Science into Common Core Workshop will be held next Sat. at the Museum of Sciencec Boston: http://t.co/q3IjZw2D #edchat
+10 Ooshma Garg started her 2nd successful companyc Gobble. Watch how she got to one of her biggest investors--Reid Hoffman http://t.co/VhEHDU3y
+11 Performing tomorrow at the Harold Washington Cultural Center with @Smitty_LP come support the team http://t.co/9YEGfKrz
+12 Excited for tomorrows Photo Session with Indhi fashion design studio at TheLoniousStudios http://t.co/TkcVagnS
+13 Meet the Dragons Den at Social Media Week in #Vancouver on Sept 28 http://t.co/y8SQSA5s
+14 RT @pwire: Boehner proposes Obama speech be on the same night as NFL opening night...  http://t.co/kBX7PRr
+15 @luvvieig Welcome home from Nigeria! My 2nd @SciAm guest blog post is up,on US biosimilars market - will you read? :) http://t.co/mmxzmHJ
+16 RT @markgurman: Looks like Apple's rumored Thanksgiving product launch is the Steve Jobs biography,not a new iPad http://t.co/GUP6c1j
+17 Dont miss these upcoming SPC events:  On November 15th - A post-election breakdown with Mark and Markc... http://t.co/F5I8aq9x
+18 @sharmaro84 Sharonc Hic you may be interested in this ----> Jeff Timmons on Paul And Matty Show http://t.co/2bDUsbU0
+19 US Secretary of State Press Availability on the London Conference: LONDONc United-Kingdomc February 24c 2012/Afr... http://t.co/5R2M4BQb
+20 George Straits upcoming final world tour has him headlining the Houston Rodeo on March 17c2013. Guess I know... http://t.co/SomF1E1X
+
+2D vectors
+------------------
+
+Compared text 5933 : Four Lions. Watch it on Channel 4. Tonight. At 8pm. Best film ever. I have this on my IPad. Never tired of it.  http://t.co/7I6OapX
+Closest 20 --------------------------
+OldPos 1001 | 1 Just got my first gun. It just happens to match my FPS Russia gear. It may not be muchcbut it will a snake! @TheFPShow http://t.co/aw8H61Qc
+OldPos 1470 | 2 The Philippines has just passed a law worse than SOPA. http://t.co/GQdlCRvb
+OldPos 1347 | 3 http://t.co/VPwpLtUd Of course I know its for Ash Wednesday and good for @JoeBiden but it does look like he squashed a bug on his forehead.
+OldPos 2514 | 4 The Philippines just passed a law worse than SOPA\u002c which actually criminalizes criticizing someone online. http://t.co/wUMX95vR
+OldPos 4393 | 5 Though SOPA and PIPA were defeated in the US\u002c a similar bill was passed in the Philippines. http://t.co/TOCrNKvj
+OldPos 386 | 6 The destination of Thursdays Premier League was decided todayc see whos gone into the Hall of Fame. http://t.co/lySbvgCo
+OldPos 1 | 7 Shooting Tvshow Sons of Anarchy at my studio today. They closed off all the streets for a giant gun battle! Fun.  http://t.co/4lE2dIh
+OldPos 289 | 8 #Repost Chris Bosh may be ugly. But he has a gorgeous wife and adorbs baby. I want to be happy like them one http://t.co/S6moxr1U
+OldPos 51 | 9 The Roxy is alive with THE SOUND OF MUSIC this Sunday at 1.30pm. This is the LAST chance to see it on the big... http://t.co/VkEUlX4Y
+OldPos 768 | 10 Significant development Monday night: 49ers QB Alex Smith and WR Michael Crabtree were on the same page. http://t.co/BjV8UC7v
+OldPos 744 | 11 Check out the performance these brave youngsters did one Saturday morning at Sylvia Park. This is truly a great... http://t.co/keetJd9Q
+OldPos 996 | 12 The Ravens release their first injury report of the week on Wednesday. Sounds like it will be loaded with names: http://t.co/JzvwEGHy
+OldPos 274 | 13 1st I thought he was David Ruffin impersonator. Then I thought he was a backup singer for Miguel. Sn: Your c http://t.co/RkFuDgPP
+OldPos 1278 | 14 Get your ticket for a Detroit Red Wings Bus Trip on March 22nd against the Dallas Stars. http://t.co/F0oOYTEQ
+OldPos 1125 | 15 Tomorrow is #PitBull Awareness Day! Help us change the perception so many people have about this wonderful breed. http://t.co/MgeUbZH6
+OldPos 634 | 16 Anybody want some Dispatch tickets. They are playing next Thursday (Oct 11( at DAR Constitution Hall with Good... http://t.co/RqSWNGmA
+OldPos 197 | 17 Just like the final shot in the the shining. Rembrandt may have painted John Belushi. http://t.co/VoJm25L7. #rembrandt #belushi
+OldPos 3203 | 18 @ThijmenK You may want to contact Sony at http://t.co/d8K6pSRF or we can post a question on MS Community for you. Let us know! ^NY
+OldPos 1323 | 19 2012 NFL Week 9 Odds: The Ravens a slight favorite on the road against the Browns on Sunday afternoon. http://t.co/bgIIj0Il
+OldPos 25 | 20 Dont forget to see The Exorcist at the Fox Theatre on Tuesday! Theres nothing like seeing it on the big screen. http://t.co/7PQG8c0d
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 7
+OldPos 3 NewPos 27
+OldPos 17 NewPos 32
+OldPos 8 NewPos 46
+OldPos 16 NewPos 47
+OldPos 5 NewPos 51
+OldPos 6 NewPos 54
+OldPos 7 NewPos 71
+OldPos 4 NewPos 76
+OldPos 2 NewPos 92
+OldPos 9 NewPos 94
+OldPos 13 NewPos 135
+OldPos 18 NewPos 141
+OldPos 14 NewPos 143
+OldPos 19 NewPos 167
+OldPos 12 NewPos 178
+OldPos 11 NewPos 186
+OldPos 10 NewPos 190
+OldPos 15 NewPos 1615
+
+Compared text 7743 : UFO Sighting: Black Triangle Sighting in Perrytonc Texas on October 20th 2012 - Black object that obscured the s... http://t.co/BSoMVMSR
+Closest 20 --------------------------
+OldPos 1 | 1 UFO Sighting: Black Triangle Sighting in Perrytonc Texas on August 11th 2012 - Dark triangle shape across the sk... http://t.co/SRtIs128
+OldPos 5 | 2 Alternative news: Black Triangle Sighting in Tucsonc Arizona on October 20th 2012 - Red circle with triangle cut... http://t.co/17nxAARp
+OldPos 4 | 3 Black Triangle Sighting in Oranjestadc  on October 11th 2012 - black triangle ufo with resemblance of a stealth ... http://t.co/xE7uSjBc
+OldPos 414 | 4 Not here in the East:( though...Moonc Jupiterc Capella light up evening sky on November 1 | Tonight | EarthSky http://t.co/Hv7KPxpa
+OldPos 415 | 5 Not here in the East:( though...Moonc Jupiterc Capella light up evening sky on November 1 | Tonight | EarthSky http://t.co/Hv7KPxpa
+OldPos 3 | 6 UFO Sighting: Black Triangle Sighting in Oranjestadc  on October 11th 2012 - black triangle ufo with resemblance... http://t.co/pwba09f5
+OldPos 583 | 7 Tomorrow Venus will overlap the sun! Get your special glasses out! Next chance is year 2117. (ie:never) http://t.co/GlH48AxI
+OldPos 426 | 8 Catch it! MT @SmithsonianMag: Tomorrow Venus will make final trek across face of sun as seen from the Earth til 2117 http://t.co/K2ROXlHx
+OldPos 761 | 9 HuffingtonPost: Tomorrow Venusc Jupiterc and the moon will align for a brilliant night show http://t.co/xUMwfSzH
+OldPos 17 | 10 Photo: scinerds: Sharpening up Jupiter Amazing image of Jupiter taken in infrared light on the night of Aug.... http://t.co/dI7R4TNK
+OldPos 7 | 11 Yesc it is us:  Black Triangle Sighting in Plainfieldc Illinois on January 4th 2000 - Large triangle ... http://t.co/gNrCFo6o  #aliens
+OldPos 9 | 12 Yesc it is us:  Black Triangle Sighting in Pompano Beachc Florida on October 28th 2012 - basically it... http://t.co/W6uCvtlp  #aliens
+OldPos 2 | 13 Black Triangle Sighting in Perrytonc Texas on October 20th 2012 - Black object that obscured the sky and stars: ... http://t.co/Vgg6mDbs
+OldPos 8 | 14 Yesc it is us:  Black Triangle Sighting in Olmsted Fallsc Ohio on October 12th 2012 - Triangular sape... http://t.co/p7dDl5yp  #aliens
+OldPos 6 | 15 #UFO & #Aliens Black Triangle Sighting in Pompano Beachc Florida on October 28th 2012 - basically it blended wit... http://t.co/nSexv3ah
+OldPos 1206 | 16 Maidstone in Kent this Morning ! with an Alfa - Wisbech for a Honda  Tomorrow brings Swansea then return from... http://t.co/393qgGge
+OldPos 1995 | 17 Our Wacky Wednesday promoc is going a bit Ground Hog Day!!! I say our  Our Wacky Wednesday promoc is going a bit... http://t.co/9TFA1XnE
+OldPos 4249 | 18 You may think youve tried them all but Ill bet you havent tried taking on The Challenge...   Stop wasting time... http://t.co/wZNp9F99
+OldPos 3502 | 19 DEEJAYING this FRIDAY in THE FIRST CHOP it\u2019s CHRIS actual SMITH with a smashing mish mashing of TUNES from Stoke... http://t.co/N3W1Dkrv
+OldPos 2358 | 20 @cocosworld @numolai nor\u2019easter superstorm with snow and low temps according to fox http://t.co/ilhYhhwB  it may change paths by then
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 1
+OldPos 5 NewPos 2
+OldPos 4 NewPos 3
+OldPos 3 NewPos 6
+OldPos 17 NewPos 10
+OldPos 7 NewPos 11
+OldPos 9 NewPos 12
+OldPos 2 NewPos 13
+OldPos 8 NewPos 14
+OldPos 6 NewPos 15
+OldPos 13 NewPos 357
+OldPos 14 NewPos 582
+OldPos 10 NewPos 600
+OldPos 12 NewPos 603
+OldPos 18 NewPos 882
+OldPos 15 NewPos 907
+OldPos 16 NewPos 915
+OldPos 11 NewPos 1124
+OldPos 19 NewPos 1353
+
+Compared text 4926 : Christianity is nothing else but the imitation of Gods nature.  We seek a relationship with God through Jesus ...Lord that I may see.
+Closest 20 --------------------------
+OldPos 3078 | 1 Gambled on Chocolate Day as a successful theme day at work..turns out chdn DO like chocolate. Wed. is Gross Day. Hope kids like gross stuff.
+OldPos 3541 | 2 Long day workc G37 meetc Marijuana March and Avengers. All sick nonetheless.
+OldPos 2883 | 3 Lil sis just got lead part in Aladdin. She is 6 and has to learn 101 pages  before Friday. (She's Aladdin,this is so typical of her!)
+OldPos 3707 | 4 I think I may know the story of the party nail. Salina Gomez jammed her finger the night before the Grammy awards. I rock a party toe today!
+OldPos 3220 | 5 Teen Mom 2 comes back Monday. Still not as good as the first teen mom tho...
+OldPos 1328 | 6 Let us zoom out from the fraudc and zoom into the fact that Madoff was a fucking genius. I may be alone on this one though.
+OldPos 2693 | 7 Every time I don't have anything to do,I'll watch the shows I stopped halfway. LOL And it's Teen Top's MTA today. :P
+OldPos 1931 | 8 Getting up at 3am tomorrow to get to the embassy to wait outside in the freezing cold for 3 hours :( kinda hate south africa right now.
+OldPos 2564 | 9 Animal Planet has a show that just shows puppies...guess I know how Im spending my saturdays for the next 20 years or so.
+OldPos 2851 | 10 The Brits may find the feminised versions of professions offensive (actress instead of actor)c the Germans are proud of theirs. #RandomShit
+OldPos 298 | 11 Just watched the What Makes You Beautiful video and I may have teared up. I shouldnt be allowed to be home alone
+OldPos 2071 | 12 So glad I walked past the Girl Scout table today. Its a much better Saturday knowing Im one box of Thin Mints richer.
+OldPos 1990 | 13 Microsoft wasted my whole day today... But now I'm on Win 7 SP1 v69sq with rockets on it. MAKE IT SIMPLE MICROSOFT!  Also,I'm buying a Mac.
+OldPos 1660 | 14 Because after a while you catch yourself eating meatballs on a Friday during Lentc and you dont care.
+OldPos 2734 | 15 Project X is the best film ever made and someone with money needs to have onec like this Friday. #makeithappen
+OldPos 61 | 16 I want it to be November 5th alreadyc because Lamb of God.
+OldPos 693 | 17 I honestly am 100% burned out with school. I may just end this education journey now. I cant stand this stress anymore.
+OldPos 121 | 18 @rattlecans the mere mention of Catholics makes my blood rise - and I was raised catholic. Rejected somewhere around 5th grade.
+OldPos 1372 | 19 RT @DuhImWinning: An iPad on one side of the bed streaming Family Guy and my MacBook on the other side streaming porn. Ah,what a nice S ...
+OldPos 3460 | 20 MARCIA GAY HARDEN is 52 today...loved her #SVU roles as an FBI agent,and especially the Amanda Knox movie.
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 50
+OldPos 6 NewPos 113
+OldPos 11 NewPos 154
+OldPos 9 NewPos 255
+OldPos 17 NewPos 288
+OldPos 14 NewPos 313
+OldPos 18 NewPos 659
+OldPos 2 NewPos 730
+OldPos 4 NewPos 788
+OldPos 15 NewPos 946
+OldPos 19 NewPos 1555
+OldPos 16 NewPos 1610
+OldPos 13 NewPos 1812
+OldPos 12 NewPos 1886
+OldPos 3 NewPos 1957
+OldPos 10 NewPos 2025
+OldPos 7 NewPos 2042
+OldPos 5 NewPos 2079
+OldPos 8 NewPos 2371
+
+Compared text 1529 : Think imma go see Flight tomorrow.. Denzels the shit
+Closest 20 --------------------------
+OldPos 4545 | 1 German oral exam on the Monday I go back to school and then on the Thursday I have a maths algebra GCSE kill me now
+OldPos 5556 | 2 Up next well be joined by Sunderland striker Louis Saha as we continue to build up to #safc v #lfc at the Stadium of Light tomorrow evening
+OldPos 2392 | 3 Excited for Halloween tomorrow I am going to be Jake from State Farm
+OldPos 273 | 4 Looking forward to some March Fourth Marching Band madness tonight at @LevittShell
+OldPos 256 | 5 @NeilHolkham going to see the mighty Watford play Spurs tomorrow
+OldPos 338 | 6 I just realized that Thalia is going to be tortured tomorrow for an hour lmao
+OldPos 5479 | 7 @McIlroyRory has worn the same two shirts during the 3rd and 4th rounds of the @WellsFargoGolf that he wore during the Honda Classic
+OldPos 257 | 8 Cowboys tonight to see eli young band ;)
+OldPos 1545 | 9 Ladies its time for yall to bring out them tight freak um dresses at Club Pulse tomorrow 1118 N 4th Street free til 11
+OldPos 1800 | 10 Sad I wont get to see @ZachMTV on The Challenge: Battle of the Seasons tonight :( I guess Ill have to wait until next Wednesday..
+OldPos 2457 | 11 Yearbook pictures for Jr.Larcs will be next Tuesdayc the 6th at lunch at the library parking lot side
+OldPos 4506 | 12 Don't know if it's been reported but several members of Arsenal's U15 team had to be put in restraints after a late night brawl in Sweden
+OldPos 3324 | 13 Carmelo Anthony is the 2nd best scoring in the league behing Kevin Durant
+OldPos 1533 | 14 The songs I want to hear most on sunday are Rellac La Bonitac Radical and 50
+OldPos 1435 | 15 @Jimmy_Choo2 Glam Girls want to invited everyone to enjoy Halloween with them tomorrow at The Grenader on Riverview and Rosedale from 5-8pm
+OldPos 130 | 16 @NickScholer Have you seen Lawless? If Guy Pearce doesnt get an Oscar nomination for thatc I may possibly give up on the Academy Awards..
+OldPos 3218 | 17 Our neighbor is removing some trees and my 7 year old has been so bothered about it all day at school.we may have to lay off Lorax for a bit
+OldPos 1339 | 18 PJ Harvey or King Creosote would be deserving winners of the #Mercury2011 prize tonight but think Tinie Tempah will nick it
+OldPos 3112 | 19 Justin may grow up but he will always be the same ALWAY the Kidrauhl tht will be caring for fans being weird and making others smile
+OldPos 4905 | 20 Drexel cancels classes. Drexel Medicine clinic hours are canceled all day Monday & on Tuesday until at least 12pm due to weather
+
+New positions of full vectors 20 closest
+OldPos 2 NewPos 338
+OldPos 15 NewPos 353
+OldPos 5 NewPos 397
+OldPos 14 NewPos 426
+OldPos 13 NewPos 516
+OldPos 1 NewPos 548
+OldPos 3 NewPos 604
+OldPos 8 NewPos 713
+OldPos 7 NewPos 722
+OldPos 6 NewPos 851
+OldPos 11 NewPos 1012
+OldPos 4 NewPos 1168
+OldPos 19 NewPos 1227
+OldPos 16 NewPos 1374
+OldPos 18 NewPos 2666
+OldPos 9 NewPos 3499
+OldPos 12 NewPos 3692
+OldPos 10 NewPos 4121
+OldPos 17 NewPos 4764
+
+Compared text 7028 : Today,life will be just like an episode of 60 Minutes...but with a young,cheerful Andy Rooney.
+Closest 20 --------------------------
+OldPos 1423 | 1 I had a teacher who taught us Jupiter was bigger than the Sun. This was based on the picture in the textbook. It was a drawing. True story
+OldPos 1508 | 2 CAVA is looking forward for one of the biggest event of the year. The Strawberry Festival in 350 Main St. Watsonville from Sat-Sun 10-5P.
+OldPos 1968 | 3 My random rant of the night:Lady Gaga being considered a fashion icon!Who in their right mind considers that fashion?She dresses in trash.
+OldPos 99 | 4 You can totally hear a guy from the 2nd floor singing from the top of his lungs to What Makes You Beautiful. Lol.
+OldPos 42 | 5 If ESPN has a Hank Williams Are You Ready For Some Football? song for tonight,I might pass out with happiness.
+OldPos 635 | 6 You guysc @lacountyfair is going to have fried Thin Mints and Tagalog ice cream tomorrow.
+OldPos 129 | 7 Weird music mood today . Lots of Hank Williams and Johnny Cash running through the iphone.
+OldPos 529 | 8 Michael Jackson radio may be one of the softest stations. But got damn has some good jams.
+OldPos 103 | 9 The new Bruno Mars song is wicked. It sounds like a cross between the Police and Michael Jackson. I may or may not play it 14 times/day..!
+OldPos 1095 | 10 @SeoulSausage When do you plan on coming down to the LONG BEACH or the O.C. area? Los Alamitos has a food truck fair on thursday nights.
+OldPos 282 | 11 It's going to be a somber set tonight for Curtis Painter's Nickelback cover band,Something In Your Mouth.
+OldPos 1065 | 12 Having a long overdue CD upload session. By tomorrow my iPod will be blessed with PILc George Harrison and Disco Inferno :)
+OldPos 778 | 13 AlsocSPREAD THE WORD about our fundraising begin September 17 to raise funds for a 30 second commercial during the 2013 NBA All-Star Game.
+OldPos 2377 | 14 Forget the garlicc the soup is DISGUSTING! Thanks for nothingc Saturday Kitchen.
+OldPos 1444 | 15 I hope that Rammstein gets played on the wedding dancefloor tomorrow. That would mean 4 of my teenage booze mates will have had it
+OldPos 1588 | 16 Nothing against ECL and ISATc but it sure is nice being in my own apartment for work. Will be even nicer tomorrow when I set up the desktop!
+OldPos 2150 | 17 Final count down till the end of Shift. 58 minutes left. Excited for Church tonight!
+OldPos 2279 | 18 The show on Sunday is at the House Of Blues in Cleveland. The photo was taken at Water Street Music Hall in Rochester :/ #HappyHalloween
+OldPos 76 | 19 I think I may be the only person around not excited that Beyonce is the half time performer for the Superbowl.
+OldPos 181 | 20 This next Superbowl is on my (21st) birthday. Random fact of the day.
+
+New positions of full vectors 20 closest
+OldPos 11 NewPos 25
+OldPos 17 NewPos 96
+OldPos 12 NewPos 105
+OldPos 9 NewPos 115
+OldPos 18 NewPos 133
+OldPos 3 NewPos 136
+OldPos 4 NewPos 142
+OldPos 7 NewPos 156
+OldPos 13 NewPos 165
+OldPos 8 NewPos 167
+OldPos 1 NewPos 205
+OldPos 2 NewPos 215
+OldPos 5 NewPos 318
+OldPos 6 NewPos 409
+OldPos 10 NewPos 432
+OldPos 16 NewPos 497
+OldPos 14 NewPos 713
+OldPos 19 NewPos 893
+OldPos 15 NewPos 1364
+
+Compared text 5508 : @bigwidu @danapixie Were not sure if Pottstown is having Halloween. Borough Hall phone is out of order. Nearby Limerickc PA having it Fri.
+Closest 20 --------------------------
+OldPos 1 | 1 @yo_navaz You going to be at the Nov 15 showing of TIC at Vans? Robbie is hyping the night to the locals. Free session will be bananas.
+OldPos 51 | 2 #vashon is already abuzz with the news that 2013 Strawberry Festival is the 3rd week of July. Calanders are being markedc plans being made.
+OldPos 1672 | 3 Attn male Tulane Students!! If you want to get on TVc go to TJ Quills this Saturday night at 9pm. I cant tell you anymore. Spread the word!
+OldPos 2087 | 4 Chillin in traffic listening to Wiz. Taylor Allderdice is my favorite mix tape of his. Actually it may be in my top 10 period
+OldPos 2692 | 5 Elimination Chamber is going to be in St. Louis May 19th.. I have to go.
+OldPos 1883 | 6 Time to test out one of my Steams games when I get home then at 9PM eastern going live w/ @CaptnBarbosa for our 1st weekly Gears3 funfest.
+OldPos 3564 | 7 #MiddleSchoolMemories when I went to marana for the last 2 months of 8th grade I got sent to ISS everyday.
+OldPos 1264 | 8 I had a fun day on terra nova. Followed by a ho-down at the end of the night. Got plenty of screen time. Look for the only dancing soilder!
+OldPos 1386 | 9 ACT at HF tomorrow. But I need a calculator with programs. Who got one I can borrow!?
+OldPos 2694 | 10 @limeflowertea ikr? Came across it randomly while doing my PR Clipping report this morning. The email contact is merlin @ merlinmedia...
+OldPos 977 | 11 The two Lukes (Austen and Dickens) playing at Nelson Bay Diggers Club this Friday 2/11. Go check em out if you live in the area..
+OldPos 2375 | 12 @erin_hanson if it makes you feel any better CBC national is doing a feature on the Kinder Morgan pipeline Wednesday night. #defendourcoast
+OldPos 625 | 13 Indian Ocean with @simon_reeve got 1.4m viewers on Sunday with repeated programme about Somalia. More than double much trailed show on C4.
+OldPos 528 | 14 Trip to Fredonia in the works for this Friday. Looking to play on Valentines new table. Msg me for more details.
+OldPos 839 | 15 Austin wore his YOLO shirt for the 15th time in a month.
+OldPos 707 | 16 Busy preparing for Izzys Mini Masterclasses in the Studio tomorrow. Decadent chocolate ganache torte to welcome our attendees. Good idea?
+OldPos 218 | 17 Lana Del Rey is playing Vicar St next year. Tickets onsale the 5th of Nov. 44 euros. Wondering if it would be worth it?
+OldPos 56 | 18 Anyone wanna go see #shedseven at Boro on 14th December?? 17.50 each. Let me knowc I really want to go.
+OldPos 1492 | 19 1st 5-star review. Colour of Lemon sets off like a bullet train with the gruesome murder of one of Sowerbutts own.
+OldPos 163 | 20 Can not fucking wait for tomorrow night. House Of Blues will never be the same after @missmayibandc @theghostinside and @LMTF. #StayMetal
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 1
+OldPos 12 NewPos 135
+OldPos 13 NewPos 270
+OldPos 2 NewPos 366
+OldPos 16 NewPos 373
+OldPos 8 NewPos 408
+OldPos 10 NewPos 448
+OldPos 3 NewPos 455
+OldPos 7 NewPos 508
+OldPos 19 NewPos 511
+OldPos 15 NewPos 685
+OldPos 18 NewPos 686
+OldPos 4 NewPos 830
+OldPos 11 NewPos 1080
+OldPos 17 NewPos 1340
+OldPos 14 NewPos 1441
+OldPos 6 NewPos 1451
+OldPos 9 NewPos 1807
+OldPos 5 NewPos 1827
+
+Compared text 7080 : @iheardavoicesay is finally catching up to me with #Dexter. I'm only up to season 4,but he has almost finished season 2 today @ home,ill.
+Closest 20 --------------------------
+OldPos 1 | 1 @Jonny_Blobbins a bit frustrating. I dont think Ive added you on my new PSN account. Ill do it tomorrow.
+OldPos 109 | 2 Thanksc Dave! Great show tonight.  Sorryc Craig. Ive got to get to bed. Ill catch you tomorrow. @Late_Show  David Letterman
+OldPos 693 | 3 Quick Panch run with Dozer and Ying turns into me getting home at 1230 on Monday. #collegeproblems
+OldPos 688 | 4 @docbungle I may relent and get one myselfc but I hope it doesnt come to that. Hopefully all the decent apps will get ported to android
+OldPos 203 | 5 @imMEGANda I see a bit of Christian in him\u002c at 1st I wnt him for the role until I saw Matt. I loved him more wen I got 2 watch White Collar.
+OldPos 803 | 6 Actuallyc Id like to omit The Vaccines from my top 10 and move Kasabian in at 9thc with The Enemy dropping to 10th. Told you I cant do it.
+OldPos 289 | 7 @Rastafaryebread Im so excited for the Magic game this Friday. We play Denver so dont un-follow me
+OldPos 2581 | 8 may as well sign up Scott Dann and Roger Johnson whilst your at it.
+OldPos 562 | 9 @Vaughters and wont take much time. I thought your views may be better presented to cycling world in Poland if you say sth more directly.
+OldPos 353 | 10 @the2scoops Much of last seasonc tooc esp 2nd half. Tho I loved Jack Whitec and Mick Jagger with Arcade Fire / Foo Fighters was amazing.
+OldPos 138 | 11 @Isdancing @LokiIsMyCopilot I havent seen it yetc but Alan Rickman is permanently awesomec so I may have to.
+OldPos 2504 | 12 @DanStapleton Diablo III post-1.0.4 was very generous. They had an immediate maintenance after the 1st 24 hours. Generosity gone. *shrug*
+OldPos 218 | 13 @Mike_Enotiades You can breathe a sigh of relief now the Queen of the Nerds is back. Youll have to look out at SJP tomorrow too :)
+OldPos 336 | 14 @TeenyEcosse  Is there any improvement In the European weather. I need sun and heat. I have developed webbed feet here in Scotland!
+OldPos 753 | 15 Being at Rupp doing this walk through has me real hyped for tomorrow. Get ready for the best #BBM yet
+OldPos 278 | 16 @omar_quraishi Obama has over 8 million followers.I  think only a few read every tweet. That may be the case with all others.
+OldPos 7 | 17 After that,I'll start plugging mine and @joeskirkie's live tweet of the new FOX show Terra Nova on September 26. #maybewewillgetfreestuff
+OldPos 1324 | 18 @Gillian_Filan isnt it just!  staying in and watching the lovely James Martin on Saturday kitchen. Great pumpkin soup recipe to warm u up
+OldPos 264 | 19 @NicDawes Such a cool thing youre doing! Ubuntu Bridge. I vaguely recall them expanding to Zulu.. May be able to give.you a contact o/wise.
+OldPos 406 | 20 @flergh @JiklopDave Well arent you good!  Happy anniversary. May many owls serenade you with Ricky Martin songs.
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 1
+OldPos 7 NewPos 17
+OldPos 8 NewPos 104
+OldPos 15 NewPos 287
+OldPos 9 NewPos 289
+OldPos 19 NewPos 339
+OldPos 3 NewPos 369
+OldPos 17 NewPos 413
+OldPos 10 NewPos 441
+OldPos 11 NewPos 477
+OldPos 4 NewPos 488
+OldPos 16 NewPos 514
+OldPos 12 NewPos 519
+OldPos 5 NewPos 788
+OldPos 2 NewPos 795
+OldPos 6 NewPos 981
+OldPos 14 NewPos 1157
+OldPos 13 NewPos 2199
+OldPos 18 NewPos 2208
+
+Compared text 5920 : RT @BillyPollock: @stevetilley I'm also very stoked for Dead Island & Uncharted 3! Is the Deus Ex game 3rd person perspective?
+Closest 20 --------------------------
+OldPos 123 | 1 @chuggaaconroy Hey Emilec do you have plans to LP any more 3rd Party Nintendo Console Titlesc such as Fragile Dreamsc Last Storyc or Klonoa?
+OldPos 1312 | 2 On the plus side @mytigermytiming have a gig on Saturday night at the Lexington - come along :)
+OldPos 2021 | 3 @rachvardon aladdin looked very happy in the field today,and came over to say hi when we rode round the jumps :)
+OldPos 5395 | 4 Maino thinks Im really going to this 2 hour tomorrow.. Im not going! I. dont. give. a. fuck!
+OldPos 1918 | 5 Sat here with a cuppa coffeec watching Jeremy Kyle with @susancallinanxD #lovely
+OldPos 5794 | 6 If Price fights either Klitschkoc theyll definitely not want him wearing 10 ouncers. May as well be bare knuckle. #price
+OldPos 2712 | 7 Big Day in the sun now a Big Night in the heat with @tobybinge #poppinbottles
+OldPos 980 | 8 Met @kfreberg via Google+ Hangout on Wednesday! So cool to meet someone that youve actually cited in paper :)
+OldPos 509 | 9 @RBKD: This just in: Rui En joins Elvin Ng & co. in CLIF2c scheduled to air 18 Feb 12. Surprise?
+OldPos 570 | 10 @pewterpirate83 remember we just beat Arkansas and Ryan Mallett in Sugar Bowl! Arkansas was 2nd best team in SEC that year
+OldPos 3168 | 11 @trisigma last Thursday the Alpha Chi chapter initiated 37 beautiful young ladies after we had just celebrated 70 years at Murray State!!
+OldPos 2336 | 12 LMAO Blake asked Xtina Are you bringing your Grammy awards to the show tomorrow and she said Noc there wouldnt be enough room LMFAO!!!
+OldPos 380 | 13 @sidlowe Sanchez & Cesc are excellent additions but can't see much central def cover? Is Mascherano 3rd CB or will Pep trust the youngsters?
+OldPos 622 | 14 @King24George Im excited to get my Paul George jersey signed by you Sunday at the fan jam!
+OldPos 2923 | 15 @ItsTheSituation Watched last week's Jersey Shore last night,you put your own head into the wall? Seriously,CRAZY! atleast Ronnie didn't!
+OldPos 2820 | 16 I had a nightmare last night where I missed the 2nd rd of my #FantasyBasketball draft and they autodrafted me JR Smith. #truestory lol
+OldPos 1 | 17 @HilciaJSu Your review reminded me I still need 2 read the very 1st Percy Jackson book! Heroes of Olympus is an offshoot series from it?
+OldPos 6825 | 18 Smashing FIFA atm won the Capital One Cupc1st in the league and in the finals of the F.A Cup and Champions League
+OldPos 2841 | 19 Watch out for Nigeria @52 GEJ pre recorded speech tomorrow live from the tape via NTA. @omojuwa
+OldPos 2643 | 20 @Real_Liam_Payne Saturdayc I buy my ticket for the #TMHTOUR in Belgium! Im so happy!
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 17
+OldPos 9 NewPos 60
+OldPos 15 NewPos 86
+OldPos 6 NewPos 132
+OldPos 12 NewPos 204
+OldPos 4 NewPos 217
+OldPos 7 NewPos 599
+OldPos 3 NewPos 767
+OldPos 14 NewPos 1075
+OldPos 13 NewPos 1202
+OldPos 2 NewPos 1218
+OldPos 18 NewPos 1282
+OldPos 11 NewPos 1299
+OldPos 8 NewPos 1360
+OldPos 5 NewPos 1701
+OldPos 16 NewPos 1823
+OldPos 17 NewPos 2036
+OldPos 10 NewPos 2130
+OldPos 19 NewPos 2373
+
+Compared text 7256 : RT @newarkpanto: Some of the madness and mayhem the cast of Aladdin created when they flew into Newark on Monday!! http://fb.me/VNvs7llk
+Closest 20 --------------------------
+OldPos 54 | 1 @creativetimes Eleanorc thats coolc it would be great to see your pastel art. ;) Link to the painting I did on Monday http://t.co/8puSNbaN
+OldPos 4939 | 2 @ShutDownTheSun These birds dont buy the sun banner at the Carling Cup Final for Mikey Dye and the 96 #DontBuyTheSun https://t.co/cIB2ihJr
+OldPos 4898 | 3 @ShutDownTheSun these birds dont buy the sun banner at the Carling Cup Final for Mikey Dye & the LFC96 #DontBuyTheSun http://t.co/ZO2BKZcf
+OldPos 8 | 4 RT @SloanFatale: New photo from tonight of Lady Gaga and Britney before Brit's concert tonight! http://i52.tinypic.com/35itbiw.jpg
+OldPos 1199 | 5 BUSTED @T_M_Birch caught out celebrating the 1sta cup win with Andy Carroll and Joe Hart #Beer #Jager http://t.co/Ifv3wd9I
+OldPos 551 | 6 @serenawilliams doesn't this make you love them even more RT @BJAofficial: SURPRISE GREEN DAY SHOW Thursday August 11th,http://t.co/nROhM1q
+OldPos 2 | 7 RT @gaga_indonesia: Lady Gaga attending The Femme Fatale - Britney Spears concert in New Jersey tonight http://twitpic.com/626hfq
+OldPos 149 | 8 @tamartorello Oh my gosh that's hilarious - love it! Did you read the one on Steve Jobs? http://onforb.es/nibJjg Love the Tuesday reading :)
+OldPos 207 | 9 @DropSquad2 French Montana Live @ DC Star this Saturday #LaborDayWkend S/o @BennyT14 check it out >> http://t.co/92odoLem
+OldPos 1123 | 10 TOM+LORENZO talk about the girls at ELLEs Women in Hollywood Celebration! Check out Viola Davis in RAOUL! http://t.co/S9fUYbab
+OldPos 411 | 11 @CR2News  Demi is performing at the Houston Rodeo on March 3 @DemiTourUpdater http://t.co/OHsUAbJp
+OldPos 3980 | 12 RT @coupleBOOBS: Nicki Minaj - Pink Friday,up 15 places,to #16 on the Official UK Top 40 :) http://twitpic.com/62iohc
+OldPos 17 | 13 Tweet di Brintey So amazing to have the beautiful Lady Gaga at the show in AC tonight. Love you girl.- Britney http://fb.me/13C1kUZaw
+OldPos 5040 | 14 Nicki Minaj - Pink Friday,up 15 places,to #16 on the Official UK Top 40 :) http://twitpic.com/62iohc
+OldPos 782 | 15 How about one up here for hometown fans?? RT @BJAofficial SURPRISE GREEN DAY SHOW Thursday August 11th,http://t.co/nROhM1q
+OldPos 5838 | 16 Yayyy!!! RT : @coupleBOOBS: Nicki Minaj - Pink Friday,up 15 places,to #16 on the Official UK Top 40 :) http://t.co/zFJnqER
+OldPos 3842 | 17 were Sophia grace and rosie! Cant wait to see you on Ellen tomorrow! xxx  @TheEllenShow @PrincessSGB @PrincessRGM http://t.co/abvxnWQB
+OldPos 1394 | 18 Just cus its Friday here are 62 reasons why Bill Murray is awesome http://t.co/e78cx5hQ
+OldPos 324 | 19 @SchiavelloVOICE I am sure you know this but Good Night Irene was a an old love song.  http://t.co/GyKSsOr http://t.co/Xco9DjX
+OldPos 1909 | 20 @ChemicalJericho @xCescaCenax @Vasso_Cenation @HeadshotZombie Happy Halloween spend it with Bruno Mars and shenanigans http://t.co/KTV8sfFl
+
+New positions of full vectors 20 closest
+OldPos 8 NewPos 4
+OldPos 2 NewPos 7
+OldPos 17 NewPos 13
+OldPos 3 NewPos 58
+OldPos 4 NewPos 193
+OldPos 11 NewPos 216
+OldPos 18 NewPos 313
+OldPos 13 NewPos 371
+OldPos 7 NewPos 459
+OldPos 5 NewPos 475
+OldPos 6 NewPos 523
+OldPos 12 NewPos 525
+OldPos 16 NewPos 573
+OldPos 19 NewPos 592
+OldPos 10 NewPos 625
+OldPos 1 NewPos 657
+OldPos 9 NewPos 791
+OldPos 15 NewPos 919
+OldPos 14 NewPos 948
+
+Compared text 8119 : WRITER #MOTIVATION: Dr. Seusss 1st book was rejected by 43 publishers before it was accepted by the Vanguard Press. Dont give up
+Closest 20 --------------------------
+OldPos 244 | 1 @SwiftExpert Is t it fake? The Grammys nominations come out in December!!!
+OldPos 2762 | 2 Proper buzzing to watch The Vow with @_courtssx tomorrow;)
+OldPos 1539 | 3 So In Flames is coming back in December with Lamb of Godc then a couple days laterc Dethklok is coming with Black Dahlia Murder #stoked
+OldPos 1765 | 4 @RockstarGames Bring GTA3/Vice City 10th Anniversaries to the PS Vita!
+OldPos 5407 | 5 @Seanzha it's Mexican! Sorry for the late answer,iPad' charging fucked me yesterday :D
+OldPos 676 | 6 @lawsonVFL @Timmyhbass today I told a bed-ridden old man wearing Clemson pants that the rest of his team would be joining him soon
+OldPos 4461 | 7 quite enjoying @GNev2 on MNF - he looks more at home sat down tho - I don't think he knows what to do with his hands when he's stood up
+OldPos 987 | 8 I finally got to play drums to irene at an @EvanPDonohue concert! @Mike_Kavouras wouldn't let me until tonight
+OldPos 2714 | 9 going to go watch the LORAX .... then off to bed :P #goodnight CLASS STARTS TOMORROW :o
+OldPos 673 | 10 @RonaNishliu Congratulations Rona for the 5th place in Eurosong contest.You deserve much than this<3
+OldPos 761 | 11 Going to see Kendrick Lamar with @Pea_Starks in jan :D
+OldPos 2114 | 12 @MikeAndMike Big Ben had the best rookie year out of all those quarterbacks and when he one his 2nd Super Bowl had a terrible line
+OldPos 3445 | 13 Everyone deserves somebody who makes them look forward to tomorrow For Rushersc its Big Time Rush :)
+OldPos 2370 | 14 I just saw 30 seconds of TPs Good Deeds. Hes a 5th generation ivy league graduate? I mean there were a few but... #soextra
+OldPos 172 | 15 Imaaa be the 1st Tongan hooper in the NBA #Fact
+OldPos 639 | 16 Britney: Lady Gaga's here tonight. Me: WHAT? *Watches Gaga the rest of the night *  Me: Who's concert was that ? I forgot. ;D
+OldPos 1061 | 17 just finished watching Nandito Ako for the 2nd time around @DavidArchie We Wait For David Archuleta
+OldPos 461 | 18 hopefully going to go see Romeo Santos with Catherine on december WOOT WOOT :D <3c<3
+OldPos 713 | 19 @piersmorgan @LennoxLewis @realDonaldTrump Quote of the night- If I were Amarosa I would go to Brooklyn bridge and be drowning myself #funny
+OldPos 2434 | 20 When they came out with ISTEP a few years ago... A FEW years ago? Dude Ive been taking tests since I was in 1st grade #im28 #uroutoftouch
+
+New positions of full vectors 20 closest
+OldPos 2 NewPos 46
+OldPos 3 NewPos 69
+OldPos 15 NewPos 108
+OldPos 11 NewPos 182
+OldPos 18 NewPos 196
+OldPos 12 NewPos 200
+OldPos 4 NewPos 203
+OldPos 13 NewPos 283
+OldPos 1 NewPos 302
+OldPos 16 NewPos 348
+OldPos 5 NewPos 364
+OldPos 7 NewPos 371
+OldPos 10 NewPos 436
+OldPos 6 NewPos 441
+OldPos 17 NewPos 460
+OldPos 9 NewPos 482
+OldPos 8 NewPos 586
+OldPos 19 NewPos 886
+OldPos 14 NewPos 4738
+
+Compared text 9711 : Man\u002c bye. I gotta work all day and drive to Houston tomorrow.
+Closest 20 --------------------------
+OldPos 143 | 1 @g_higuain Pipa\u002c a tweet in support of Alonso Ezquerra. & his family. May he rest in peace
+OldPos 1598 | 2 It\u2019s 3 ferry Friday between Torpoint and Plymouth with waiting times upto 10 minutes. [PC]
+OldPos 1 | 3 I\u2019m getting off work tomorrow. Then coming home to watch the Heat win and talk shit.
+OldPos 397 | 4 @SykesCharlie The election at United Car Wash continues through next Tuesday .As you will recall\u002c United car Wash at 1575 Madison Road.
+OldPos 1203 | 5 For Throwback Thursday\u002c Elvis and the Beatles...Two huge icons. Which do you like better? Discuss!
+OldPos 77 | 6 I\u2019m not sure how Teddy Bridgewater playing in the Orange Bowl will go over in Miami. We may find out.
+OldPos 3085 | 7 SO glad that I slept again when my friend phoned me from Gampel for the 2nd time! Now I have I know as voicemail on my mobile. #PlaceboGig
+OldPos 473 | 8 Thanks Sky for screwing up another home game by putting it on the Monday of Toy Fair for 2nd year running. Didn\u2019t want to see Everton anyway
+OldPos 24 | 9 Busy day with dog walks tomorrow. I love all my little odd jobs. Happy it\u2019s finally cooled off in Los Angeles.
+OldPos 4 | 10 My nephew is moving to Florida tomorrow and he won\u2019t even say bye to me. WHAT AN ASSHOLE.
+OldPos 47 | 11 Sugar bowl for breakfast then Stamford mall with friends from Denmark. Basketball tryouts for 7th grade. It\u2019s going to be a very long day.
+OldPos 1429 | 12 8/7/11 Stoke beat Hajduk Split 1-0\u002c 2nd Q Round of the Europa League. The Potters\u2019 first game in the competition in 37 years. #thankyouTony
+OldPos 37 | 13 1/4th of the way through 30 Rock season 6. I\u2019m on my way.
+OldPos 412 | 14 Homework catch up day and then dinner with the \Big Brother\ before the hurricane. I kinda need school not to happen on Monday
+OldPos 22 | 15 Watching Eddie Izzard Circle. Sooooo funny but I think it\u2019s bed time. Will make Andy watch it with me tomorrow.
+OldPos 305 | 16 Hangin with the 2 bit ladies\u002c soakin up the Florida sun\u002c wondering if I did anything to have so much fun.
+OldPos 95 | 17 Sitting at home on a Saturday night doing absolutely nothing... Guess I\u2019ll just watch Greys Anatomy all night. #lonerproblems #greysanatomy
+OldPos 27 | 18 Watching Contraband on the PVR & it\u2019s too frigging predictable to continue watching. Gonna go wash my hair. #friday
+OldPos 684 | 19 Did y\u2019all hear what Tony Romo dressed up as for Halloween? A Giants quaterback! Cause that\u2019s all he could throw to sunday night.
+OldPos 66 | 20 Kinda want to go to Anatomy tomorrow but I don\u2019t at the same time.
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 3
+OldPos 4 NewPos 10
+OldPos 13 NewPos 40
+OldPos 10 NewPos 67
+OldPos 8 NewPos 70
+OldPos 17 NewPos 78
+OldPos 14 NewPos 81
+OldPos 3 NewPos 83
+OldPos 2 NewPos 84
+OldPos 19 NewPos 91
+OldPos 12 NewPos 118
+OldPos 15 NewPos 124
+OldPos 9 NewPos 155
+OldPos 16 NewPos 171
+OldPos 18 NewPos 186
+OldPos 11 NewPos 237
+OldPos 7 NewPos 255
+OldPos 6 NewPos 257
+OldPos 5 NewPos 294
+
+Compared text 8351 : Just realized that Im applying to the Education Program tomorrow. Where has the time gone?
+Closest 20 --------------------------
+OldPos 4344 | 1 I want to see EB but idk don't look to good guess ill call it a netflix night.
+OldPos 2595 | 2 Im not even gonna bother watching Eurosong tonight. Saw enough of it on Tuesday.
+OldPos 84 | 3 Going to cypress the whole entire day on Nov 16. Gonna be seeing all the people I Havnt seen in forever.
+OldPos 2142 | 4 cant wait to see my mamis @MsHannahMaree and @besitos_xoxo damn might just hurt the streets of raleigh tomorrow night.
+OldPos 399 | 5 Its Monday morning and I woke listening to Niggas In Paris. Oh man its going to be a good day.
+OldPos 2118 | 6 @KirstyCameron2 yo yo can you come Sylvia park at 6 tomorrow we gonna meet some all blacks with @StephanieTanNZ  if she can come.
+OldPos 272 | 7 Two of my Oscars died today. Dont know why. I guess they couldnt stand it out till November 6th.
+OldPos 6872 | 8 AJ went to bed at 8:30 or 9:00 tonight. Kid was tired. There was no stopping it. Hubby and I sat and watched the stuff we usually watch...
+OldPos 2415 | 9 Morning All,Lovely rainy day in Scotland yet again. Back to watching @QubeTubers live stream #indieweekend and see what going on today =D
+OldPos 2731 | 10 @BinaryDad Some guy served his food on a frickin big pebble on Saturday Kitchen. Just put it on the floor why dont you?
+OldPos 390 | 11 Arianators please help me. Im a girl whos body is very sore and just asking for Ariana & Jennettes goodluck for tomorrow. PLEASE :(
+OldPos 127 | 12 Pancakes were delicious and everythings perfect. Now off to sleep and then tomorrow its gonna be Ascot all day long.
+OldPos 382 | 13 Ive got 2 tickets to see Leonard Cohen in Rosemontc IL on November 23 that I cant use. Anyone interested? Face value is about $300.
+OldPos 1106 | 14 Mommy is leaving on Sunday. Didnt say shit. Like I knew she was leavinc but she aint say when.
+OldPos 27 | 15 Im definitely going to that cypress game Friday.
+OldPos 68 | 16 My mom just said she doesnt like Taylor Swift. I guess Ill be moving out tomorrow.
+OldPos 3645 | 17 Vampire Diaries and Jersey Shore tonight. So first we see some hotties then we fist pump with hotties.. sounds great!!! :)
+OldPos 748 | 18 Im listening to Taylor Allderdice all day tomorrow.
+OldPos 771 | 19 @Daisyyloera okay but you need to go to Berkmar so we can see each other everyday and it could be like 7th grade.
+OldPos 1782 | 20 Im late butc I just watched Good Deeds for the 1st time. Awesome movie! Cried thru most of it. Turned 30 and got sensitive as hell.
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 23
+OldPos 8 NewPos 63
+OldPos 9 NewPos 72
+OldPos 4 NewPos 85
+OldPos 14 NewPos 119
+OldPos 18 NewPos 139
+OldPos 16 NewPos 161
+OldPos 7 NewPos 185
+OldPos 19 NewPos 234
+OldPos 2 NewPos 434
+OldPos 6 NewPos 456
+OldPos 3 NewPos 491
+OldPos 13 NewPos 579
+OldPos 5 NewPos 583
+OldPos 12 NewPos 711
+OldPos 17 NewPos 720
+OldPos 11 NewPos 943
+OldPos 15 NewPos 1214
+OldPos 10 NewPos 2668
+
+Compared text 1507 : @From_A_Balcony haha. You know i cant deal with athens after last saturday. Hear their ignorant asses talk about the game. Lord help me
+Closest 20 --------------------------
+OldPos 45 | 1 @EvelynnSuee when I would message you it said it too. Idk why! But this weekend Im dropping it offc  ill try and go to rosedale tomorrow.
+OldPos 767 | 2 @eczemasupport We usually get Presidents Day in February before 2 wks for Spring Break in March. Thatll be it til May 31 for Summer Break.
+OldPos 329 | 3 Oh no she didnt! BGV RT@merfreistroffer: I cant wait to make @C_Lassyy listen to two hours of taylor swift during our drive tomorrow.
+OldPos 950 | 4 @Kandi Its almost time 4 Kandi Factory cuz March 4th is just round da corner. If u do another season I want 2 try out AGAIN. LOL Im ready!
+OldPos 52 | 5 @chelseafitch @chelss_lewis WPPI starts the 19th I believe.  Thats why Im flying out the afternoon of the 18th.
+OldPos 617 | 6 @chrissyteigen Ill be at LAX tomorrow. If youre still there Ill bring In N Out
+OldPos 1331 | 7 This guy so much like bruno marsc its crazy. he may be his long lost twin.
+OldPos 324 | 8 Just to be sure. Tomorrow is America Dayc right? Because I dont wanna be the redneck in a sea of gods
+OldPos 2264 | 9 It needs to storm February 9th so Endymion can get canceled and all the parades would then start at 7am Sunday. #MardiGras #NOLA
+OldPos 374 | 10 How do yall feel about moving Presidents Day to August? August lacks a three day weekend. Then make Lincolns b-day a day off too. #boom
+OldPos 3 | 11 @patrishuhx7 I have English tomorrow but it honestly doesnt bother me for some reason. Rella always makes my day. Dont ask
+OldPos 1543 | 12 @louisck is hosting #SNL on Nov 3. It will be epic. Like if the ghosts of Gilda Radner&John Belushi mated w/ Bill Murray & had a comedy baby
+OldPos 644 | 13 @LibertysArmy And like Doug Wead has said many timesc if he didnt run as a Republican many may have never known about him.
+OldPos 181 | 14 In my David Ruffin voice Oh its Sunday? wellc I guess I aint gon be there then.
+OldPos 1163 | 15 Im going as Scott Peterson tomorrow and my brothers are going as Sandusky and Paterno. Possibly the most insensitive party ever. No fucks.
+OldPos 932 | 16 Haha.... Mum gave me my work wage for tomorrow for Ticketek so that I dont go to work (if that made any sense) just to stay home. Thanks
+OldPos 296 | 17 @jodiianto Lmaooo thats def in Ajax. I guess Ill give it to ya in December :)
+OldPos 158 | 18 @cewitt94 Ill see :\ I have to go to Timmonsville tomorrow afternoon and Brandons gonna be with mec so Im not sure.
+OldPos 244 | 19 @theN5er lol I been in Oz 6months now on my 4th & final stint. Love it but do miss London,prob coz I can't get 2d Emirates no more. #afc
+OldPos 1054 | 20 My 1st tweet ever was 2 Andrew Breitbart.Asked him to make fun of Michael Erik Dyson 4 his pretentious profile pic. He didcit was awesome.
+
+New positions of full vectors 20 closest
+OldPos 3 NewPos 11
+OldPos 2 NewPos 24
+OldPos 12 NewPos 33
+OldPos 1 NewPos 36
+OldPos 14 NewPos 60
+OldPos 16 NewPos 65
+OldPos 8 NewPos 139
+OldPos 4 NewPos 197
+OldPos 6 NewPos 205
+OldPos 13 NewPos 324
+OldPos 9 NewPos 454
+OldPos 11 NewPos 496
+OldPos 17 NewPos 540
+OldPos 5 NewPos 627
+OldPos 18 NewPos 790
+OldPos 7 NewPos 797
+OldPos 10 NewPos 981
+OldPos 19 NewPos 2055
+OldPos 15 NewPos 2385
+
+Compared text 8705 : @D_Lombardozzi Will there ever be a 3rd season of Breakout Kings? FX should pick you guys up! Please tell me sumthin good!!! Best show ever!
+Closest 20 --------------------------
+OldPos 253 | 1 @derrickmckee need tailgate tips! How do you keep food warm w/ no crock pot? Wanna make buffalo chix dip for WVU game Saturday!
+OldPos 48 | 2 @Megggdanna you have watch the nba playoffs! Knicks vs Heat on Wednesday!
+OldPos 746 | 3 Cmon Avila! You just got tagged out by a guy who looks like the kid Bill Murray was researching in The Royal Tenenbaums! #Tigers
+OldPos 118 | 4 @plumpyTM Getting my Xbox back tomorrow! Honestly cant wait! - My friends wants a competitive 3v3c see if Cole is up for it man!
+OldPos 4 | 5 @ollyofficial have you filmed Jonathan Ross yet??? Cant wait to see it on sat! :) xxx
+OldPos 1837 | 6 Endymion for the 4th time i blieve.! ahaha #TeamOrjan #CLHRDay
+OldPos 187 | 7 @HockeyyInsiderr  @OilersNow: Gagners agent says talks continuec will have hearing on Friday if no deal MSM just proved youre #clueless!
+OldPos 7187 | 8 Watching Sat morning TVc I would love James Martin to cook me breakfastc even though Im from Lancashire & hes a yorkiec I still would:-)!
+OldPos 173 | 9 @BrandonNAdam Wrong! Amazing show. Won the Golden Globe in January. Sorry son!
+OldPos 1113 | 10 @RihannaDaily Rihannas drummer announced that Rih is going perform on Saturday Night Live!!! #slay
+OldPos 1533 | 11 @KarenChristian2 GM The new cast of DWTS is going to be on Good Morning America on Tuesday Morning,hope your appts. go well,love U!!
+OldPos 7 | 12 @redsonfire Perhaps they want a 3rd choice hahaha! Like Ben Amos at #MUFC
+OldPos 417 | 13 i honestly cant wait to get out of greensboro with @HannaBananas94  tomorrow!
+OldPos 8 | 14 You guys need a proven goal scorer ASAP & He fits the bill!! RT@onesimo25: Can Roman Abramovich please get us Falcao in Jan!!! @chelseafc
+OldPos 1289 | 15 @goicehogs one of the girls from @eurohawks_ is traveling to the game from Germany tomorrow! Help make her trip worthwhile!? :)
+OldPos 65 | 16 @MrDDyer Matec how are you lads enjoying Andy Carroll over there? Can we have him back in January? Were a bit desperate!
+OldPos 802 | 17 Yes. I'm ready for HS,college & pro. Bring it! @blueraider93: Make Monday better! We can now come home to MNF! You ready for some Football?
+OldPos 77 | 18 Cant wait for skyfall 1st of Nov! Is listening to the OST on spotify considered a spoiler? I =P #fb
+OldPos 707 | 19 Saturday night bout to be live.....2 dollar drinks wizards opener with the homie @Jay2Sneaky
+OldPos 936 | 20 and the 4th one is for Harry Styles!! <33333
+
+New positions of full vectors 20 closest
+OldPos 4 NewPos 5
+OldPos 7 NewPos 12
+OldPos 8 NewPos 14
+OldPos 12 NewPos 23
+OldPos 3 NewPos 41
+OldPos 9 NewPos 49
+OldPos 15 NewPos 81
+OldPos 2 NewPos 115
+OldPos 14 NewPos 135
+OldPos 19 NewPos 140
+OldPos 1 NewPos 145
+OldPos 16 NewPos 174
+OldPos 11 NewPos 208
+OldPos 10 NewPos 536
+OldPos 18 NewPos 665
+OldPos 5 NewPos 722
+OldPos 17 NewPos 870
+OldPos 13 NewPos 1510
+OldPos 6 NewPos 1956
+
+Compared text 1436 : paper finishedc cmas overc blake and miranda dominatedc accounting hw got pushed to Wednesday. going to bed happy :)
+Closest 20 --------------------------
+OldPos 7698 | 1 % of Joe Pa masks at Penn State Sat? Or will PSU by allow then in the stadium? Is it bad to wear it? @Espngreeny
+OldPos 2102 | 2 rita oras on xfactor on sunday which means shell sing shine ya light which i love which makes me happy!:-)
+OldPos 5267 | 3 Early finish tomorrow.. Getting my bike out if it dont rain...then sky fall.. And lots of beers on Saturday... Rest Sunday... Good weekend!
+OldPos 5019 | 4 and then on tuesday & wednesday its Champions League match day 4 i think?? or it might be 5..im not sure wooooo hooooo
+OldPos 1158 | 5 Exciting game Fri nite Wildcat football...not ur fault it was not a win...mayb this wk...Go Cats
+OldPos 37 | 6 Tong c Mew c Ying c Donut c Tang/June c Sunee c Korn c X c everything lah i love all the cast hehehe
+OldPos 2964 | 7 Niggas be on the LAKERS DICK...we still gon finish damn near first seed...while yo team be struggling for the 8th spot
+OldPos 2 | 8 I dont want to talk to no one tomorrow besides evelyn c additi c nathalie c paola & destiny
+OldPos 6759 | 9 okay im sorry but TAYLOR SWIFT LOOKS NOTHING LIKE JACKIE O SO STOP COMPARING THE TWO. cmon America arent you sick of her yet? (sorry)
+OldPos 4251 | 10 Im talkn All Black party on the 14th then VIP all nite Saturday at Sky.... Family n friends will be in da building ....We gon shut Sky down
+OldPos 3388 | 11 Heres everybodys warning nobody better piss me off tomorrowc Idc who you are Im gonna snap #done #imatmybreakingpoint #canttakethisanymore
+OldPos 2590 | 12 My 1st tweetc chose you @KellyRipac saw u in Banffc thankful our snow isnt as damaging as the weather youre dealing with!  Keep safe & dry
+OldPos 489 | 13 Miss those days c when all the relatives would just gather at 7th Uncle house and celebrate Chinese New Year c I guess itll not happen agn
+OldPos 161 | 14 At chayas on Tuesday me Courtney Callum and Carl all cabbaged on the couch to sleep and Courtney had a spasm cos she dreamt that shed fell
+OldPos 1690 | 15 Pierce the veilRT @FaZachary: Miss may iRT @abityab: Lagu demen Bullet for my Valentinec hbu ??
+OldPos 15 | 16 Lmfao c she gone die . All the niggas gone be at NCA tomorrow
+OldPos 486 | 17 @billmaher Just thinking of the mag on exorcisms u mentioned Fri. u need 2 c the documentary The Devil Inside which is based on true events
+OldPos 136 | 18 @MyGoldMusic  can you play wah wah or bware of darkeness by george harrison tomorrow please :)
+OldPos 2325 | 19 My Heart is Goldc my Twat is glassc cmon baby cant ya see? Yes..a glass twat..better known as a womb with a view ;D LOL!
+OldPos 1221 | 20 Me; ill bring your birthday card in on Friday Kane; aw really? Its the thought that counts Id prefer a tv Twat
+
+New positions of full vectors 20 closest
+OldPos 2 NewPos 8
+OldPos 15 NewPos 16
+OldPos 3 NewPos 78
+OldPos 1 NewPos 274
+OldPos 11 NewPos 341
+OldPos 6 NewPos 378
+OldPos 16 NewPos 511
+OldPos 13 NewPos 554
+OldPos 5 NewPos 611
+OldPos 8 NewPos 629
+OldPos 18 NewPos 749
+OldPos 19 NewPos 1130
+OldPos 12 NewPos 1275
+OldPos 14 NewPos 1474
+OldPos 9 NewPos 1712
+OldPos 4 NewPos 1848
+OldPos 10 NewPos 1948
+OldPos 17 NewPos 2170
+OldPos 7 NewPos 3853
+
+Compared text 3721 : Tomorrow I get to make a Birthday Cake.
+Closest 20 --------------------------
+OldPos 1 | 1 My tv just told me to go out tonight and be social and stay in tomorrow and have Olive Garden. Mhmm.
+OldPos 2568 | 2 7/9/1983 Madonna released \Holiday\ as a single from \Madonna: The First Album\,It was the 1st Madonna song to enter the Billboard Hot 100.
+OldPos 3629 | 3 Whos into Astrology? And I mean in depth with it not just Sun sign Astrology. In other words able to do natal/birth chart readings?
+OldPos 1582 | 4 Banana walnut Pancakes and a side of @BrooklynCured sausages. Slide up to the counter for a Soda Fountain  Sunday brunch. Enjoy!
+OldPos 1908 | 5 Muhammad Ali came into my work tonight to eat...I think that being in the presence of a legend made this Tuesday pretty legit.
+OldPos 1285 | 6 Happy Birthday to the latec great Jim Henson. Changed the world of entertainment. May have to stick a Muppet film on in tribute later
+OldPos 21 | 7 I just did a shit load of typing. My group better call me Queen tomorrow.
+OldPos 2223 | 8 @lilkrm Steve Jobs' silky mouthed fellatio is akin to the bliss of my iPhone each and every morning. HAIL TO THE KING,BABY!
+OldPos 3043 | 9 Australian Directioners!!! Girlfriend magazine are releasing special edition magazines of all the boysc starting tomorrow. Lous up first.
+OldPos 3225 | 10 Kurt may have been drugged again with Rohypnolc possibly in the Root Beer can found at the scene. After he was incapacitatedc the murderer
+OldPos 2113 | 11 Join us THIS THURSDAY for the Introduction to our Dramatic Reading of Charles Dickenss A Christmas Carol. 11/1 6-7pm.
+OldPos 36 | 12 Turns out Olive Gardens dinner for tonight and tomorrow is more like dinner for tonight and later tonight.
+OldPos 2954 | 13 In Hastings,Nebraska,it's illegal to have sex without wearing a night shirt.
+OldPos 113 | 14 If the world ends in Decemberc Imma find Justin Beiber and castrate him before I die.
+OldPos 236 | 15 People may hate on Jersey Shore but honestly I love it.
+OldPos 876 | 16 I cant hire the Honey Badger to mow my lawn now...but sounds like he may be better suited to be a weed eater.
+OldPos 364 | 17 The MTA should be pretty embarrassed tonight.
+OldPos 974 | 18 Watching the 2nd Ghost Rider film is like watching Nicholas Cage go through a drug induced psychosis.
+OldPos 1120 | 19 In the car with the parents on the way back home home. Heading to ATL to say good-bye to \Sweet Irene\,Tomorrow.
+OldPos 109 | 20 Just watched Act of Valor for the 4th time - I do like that movie.
+
+New positions of full vectors 20 closest
+OldPos 1 NewPos 1
+OldPos 18 NewPos 46
+OldPos 14 NewPos 60
+OldPos 6 NewPos 64
+OldPos 9 NewPos 105
+OldPos 7 NewPos 121
+OldPos 5 NewPos 125
+OldPos 11 NewPos 129
+OldPos 12 NewPos 196
+OldPos 15 NewPos 252
+OldPos 10 NewPos 270
+OldPos 16 NewPos 684
+OldPos 3 NewPos 720
+OldPos 8 NewPos 792
+OldPos 19 NewPos 828
+OldPos 4 NewPos 830
+OldPos 17 NewPos 876
+OldPos 2 NewPos 960
+OldPos 13 NewPos 1024
+
+Compared text 6994 : @Maryhlyon I'm going to auburn thursday now...
+Closest 20 --------------------------
+OldPos 7 | 1 @Tayyl0rgang you won't see me tomorrow :( on my way home from Alabama...
+OldPos 2384 | 2 @JamesDuffy01 of others...Jenelle may have made mistakes but she has time to change and be a better person...its too late for you...FUCKHEAD
+OldPos 306 | 3 @the_overtones Looks like you guys had fun in 'sunny' Scotland...looks as if there'll be some hungover'tones today... #hadto x
+OldPos 32 | 4 @thelawry Im a Nikon guyc but interested in what you have to say tomorrow...
+OldPos 1642 | 5 Watching the brilliant rick stein making paella on Saturday kitchen live....
+OldPos 1099 | 6 Why the most lovely artists are not always understood? Lady gaga,justin bieber,miley cyrus etc etc today they have to know that...
+OldPos 11 | 7 @RFelich if youre tryna go north on Iowa theres a bad accident down by 6th street...
+OldPos 104 | 8 @AbbiePincott there was no handshake abigayle? Also when I come in tomorrow I expect my new schuh tee you ordered to be there... Good girl
+OldPos 8 | 9 @CorbinDunlap oh you will.... Unfortunately I may have to toss a few to Matt... He did my homework
+OldPos 27 | 10 I really dont want to go to ISS tomorrow... -_-
+OldPos 6 | 11 @BrielleWatkins I think you can get them on Ticketek? And they go on sale tomorrow.. I think... :)
+OldPos 26 | 12 @teafortree Goon is always a good idea! It will probably taste better than the $10 bottle of vodka I have for tomorrow...
+OldPos 1536 | 13 Kerry Collins may look like an old mouse... and hold on to the ball like one... but is a Curtis Painter experiment REALLY that much better?
+OldPos 53 | 14 @JonathanKimSing @_byronwong Gonna try using it with Sadatc will evaluate my progress tomorrow at the library lol...
+OldPos 87 | 15 @Ian_Walters_89 in London for Boro match Saturday... let me know what night youre out... Friday may suit me better like if optional
+OldPos 1494 | 16 @millerjr99 Obama said that Trayvon Martin could be his son.... Stands to reason he Obama may have even more sons....
+OldPos 823 | 17 @25whitney if you dont by break time tomorrow that is my second team!   I would already have them if Gary Carter was in the set...
+OldPos 44 | 18 Droid Bionic comes out the 8th? Ohhhh hmm...
+OldPos 210 | 19 RT @ThaOnlyGeo: i would kiss Beyonce's pearl before i go too bedd every night if she wass my wife...
+OldPos 13 | 20 @Bullock_NFFC will he be able to perform on a cold summers day at Bolton on Sunday?? Probably...
+
+New positions of full vectors 20 closest
+OldPos 7 NewPos 1
+OldPos 11 NewPos 7
+OldPos 8 NewPos 9
+OldPos 6 NewPos 11
+OldPos 13 NewPos 20
+OldPos 18 NewPos 31
+OldPos 14 NewPos 46
+OldPos 17 NewPos 79
+OldPos 10 NewPos 112
+OldPos 12 NewPos 120
+OldPos 4 NewPos 221
+OldPos 5 NewPos 1547
+OldPos 2 NewPos 2158
+OldPos 9 NewPos 2546
+OldPos 15 NewPos 3065
+OldPos 19 NewPos 3140
+OldPos 16 NewPos 3382
+OldPos 3 NewPos 3463
+OldPos 1 NewPos 3752
+
+Compared text 4694 : Last Sunday night for the Haunted Castle and Black Forest is tonight! Come on out!
+Closest 20 --------------------------
+OldPos 3762 | 1 Headlines in N.O. paper tomorrow. Denver run all over the Aints!!!!
+OldPos 1687 | 2 FRIDAY NIGHT LIVE! We are going to a Maulers Game! Meet at MVC at 6:30c bring $5 + fastfood $ + funds to buy CaseyFace some chocolate pie...
+OldPos 1362 | 3 Buzzing for the game tomorrowc gong to be a great atmosphere and a possible upset is on the cards! Bring on Aston Villa! #stfc
+OldPos 21 | 4 This Sunday is the P.E.R.C.Hs Family Movie Matinee! Come out this Sunday November 4th from 3-5 pm in Lumina Theatre to watch The Lorax!
+OldPos 202 | 5 Congratulations Norwin High School Marching Band on getting 1st place at the Towson BOA Regional!
+OldPos 2243 | 6 Congrats to the teams who competed at #NCCDC7c including 1st place U. of Washingtonc 2nd place US Air Force Academy and 3rd place Texas A&M!
+OldPos 2939 | 7 kicking off the World cup\ Friday,All Blacks vs Tonga!?! Yeeeaah!! I'm so looking forward to just laxing back Popcorn & a glass a bubbly!?!
+OldPos 157 | 8 All set for an amazing day tomorrow as I present to the church what happened in Ireland! Hopefully it goes smoothly!!
+OldPos 10 | 9 ALMOST forgot about VCUs Open House this Saturday!
+OldPos 331 | 10 Had a great night at the club and now just chilling before going to the pit of doom for the night! Will be playing HF again tomorrow.....
+OldPos 325 | 11 Big day tomorrow! RVC WBB get their National Championship rings and an exciting new era of MBB begins! Good luck @CoachDoty and Coach Opat!
+OldPos 1060 | 12 Erotic Asphyxiationc Evanescencec Strip Clubs and Kaaba have been the topics of my discussions today! Happy Friday?!
+OldPos 1920 | 13 What if Cena wins the Undisputed WWE Championship match at Summerslam this Sun? A riot is very likely to take place!!
+OldPos 64 | 14 Dallas!!! Are you ready to come have a great night with us?! We can't wait to blow the roof off with you!
+OldPos 2256 | 15 Actors have the Academy Awardsc Recording Artists have the Grammysc and now..DJs have the GSAs!! - NOMINEES ANNOUNCED TOMORROW 10/9
+OldPos 142 | 16 got to rockdale today and going back to houston tomorrow THANK GOD!
+OldPos 339 | 17 Heading back to the states today after two months.. Then moving to Florida tomorrow! Very exciting times :)
+OldPos 207 | 18 Heading to Putrajayac may Allah bless along the way!
+OldPos 6231 | 19 ... bit of lightning? He may have been the boss of Olympus but Poseidon controls the majority of weather phenomenonc also ...
+OldPos 1198 | 20 As Port Charles struggles to come to grips with Jasons disappearance...a shocking return!  Tomorrows episode is cant miss!  Watch #GH!
+
+New positions of full vectors 20 closest
+OldPos 10 NewPos 9
+OldPos 19 NewPos 25
+OldPos 7 NewPos 40
+OldPos 9 NewPos 47
+OldPos 1 NewPos 50
+OldPos 15 NewPos 58
+OldPos 3 NewPos 101
+OldPos 11 NewPos 119
+OldPos 6 NewPos 124
+OldPos 5 NewPos 137
+OldPos 4 NewPos 159
+OldPos 8 NewPos 223
+OldPos 18 NewPos 302
+OldPos 2 NewPos 306
+OldPos 16 NewPos 354
+OldPos 17 NewPos 403
+OldPos 14 NewPos 501
+OldPos 12 NewPos 528
+OldPos 13 NewPos 696
+
+Compared text 10833 : @derrickmckee need tailgate tips! How do you keep food warm w/ no crock pot? Wanna make buffalo chix dip for WVU game Saturday!
+Closest 20 --------------------------
+OldPos 85 | 1 @D_Lombardozzi Will there ever be a 3rd season of Breakout Kings? FX should pick you guys up! Please tell me sumthin good!!! Best show ever!
+OldPos 65 | 2 @Megggdanna you have watch the nba playoffs! Knicks vs Heat on Wednesday!
+OldPos 143 | 3 @ollyofficial have you filmed Jonathan Ross yet??? Cant wait to see it on sat! :) xxx
+OldPos 1236 | 4 Cmon Avila! You just got tagged out by a guy who looks like the kid Bill Murray was researching in The Royal Tenenbaums! #Tigers
+OldPos 67 | 5 @plumpyTM Getting my Xbox back tomorrow! Honestly cant wait! - My friends wants a competitive 3v3c see if Cole is up for it man!
+OldPos 2310 | 6 Endymion for the 4th time i blieve.! ahaha #TeamOrjan #CLHRDay
+OldPos 793 | 7 @BrandonNAdam Wrong! Amazing show. Won the Golden Globe in January. Sorry son!
+OldPos 614 | 8 @HockeyyInsiderr  @OilersNow: Gagners agent says talks continuec will have hearing on Friday if no deal MSM just proved youre #clueless!
+OldPos 6935 | 9 Watching Sat morning TVc I would love James Martin to cook me breakfastc even though Im from Lancashire & hes a yorkiec I still would:-)!
+OldPos 3 | 10 @redsonfire Perhaps they want a 3rd choice hahaha! Like Ben Amos at #MUFC
+OldPos 89 | 11 You guys need a proven goal scorer ASAP & He fits the bill!! RT@onesimo25: Can Roman Abramovich please get us Falcao in Jan!!! @chelseafc
+OldPos 91 | 12 i honestly cant wait to get out of greensboro with @HannaBananas94  tomorrow!
+OldPos 1899 | 13 @RihannaDaily Rihannas drummer announced that Rih is going perform on Saturday Night Live!!! #slay
+OldPos 131 | 14 @MrDDyer Matec how are you lads enjoying Andy Carroll over there? Can we have him back in January? Were a bit desperate!
+OldPos 336 | 15 @goicehogs one of the girls from @eurohawks_ is traveling to the game from Germany tomorrow! Help make her trip worthwhile!? :)
+OldPos 1842 | 16 @KarenChristian2 GM The new cast of DWTS is going to be on Good Morning America on Tuesday Morning,hope your appts. go well,love U!!
+OldPos 79 | 17 Cant wait for skyfall 1st of Nov! Is listening to the OST on spotify considered a spoiler? I =P #fb
+OldPos 1891 | 18 and the 4th one is for Harry Styles!! <33333
+OldPos 620 | 19 Yes. I'm ready for HS,college & pro. Bring it! @blueraider93: Make Monday better! We can now come home to MNF! You ready for some Football?
+OldPos 1148 | 20 Saturday night bout to be live.....2 dollar drinks wizards opener with the homie @Jay2Sneaky
+
+New positions of full vectors 20 closest
+OldPos 3 NewPos 10
+OldPos 1 NewPos 52
+OldPos 19 NewPos 88
+OldPos 4 NewPos 113
+OldPos 11 NewPos 134
+OldPos 9 NewPos 136
+OldPos 15 NewPos 199
+OldPos 10 NewPos 468
+OldPos 18 NewPos 523
+OldPos 5 NewPos 546
+OldPos 7 NewPos 628
+OldPos 14 NewPos 669
+OldPos 16 NewPos 689
+OldPos 17 NewPos 750
+OldPos 2 NewPos 2227
+OldPos 12 NewPos 2301
+OldPos 8 NewPos 2538
+OldPos 6 NewPos 2661
+OldPos 13 NewPos 3181
+
+Compared text 5260 : @TheLitPlatform An informal networking day about digital publishingc Bethnal Greenc 8 Nov.... http://t.co/a6N5XH10
+Closest 20 --------------------------
+OldPos 276 | 1 Team Foster Call will be on tonight Thursday November 1stc from 9pm-10pm Eastern 712-432-0900 new access code 833433#. http://t.co/4fWjyNkM
+OldPos 43 | 2 Tomorrow she is @RTEDigital reporter at Davos for Geeks. Perhaps shell bring us home an internet gazillionaire instead http://t.co/YWhYslaV
+OldPos 8 | 3 Mosconi Cup from Monday 10th to Thursday 13th December at the York Hallc Bethnal Greenc London http://t.co/H4YXeIli
+OldPos 307 | 4 The Business Leaders Award ceremony will be held during the @wef annual meeting in Davos on the  25 January 2013! http://t.co/YI4r8UFM
+OldPos 204 | 5 RT @FloridaDMA: Register now for the Florida Direct Marketing Association's Nonprofit Summit on August 18! http://t.co/t6xa19Y
+OldPos 15 | 6 @luvvieig Welcome home from Nigeria! My 2nd @SciAm guest blog post is up,on US biosimilars market - will you read? :) http://t.co/mmxzmHJ
+OldPos 136 | 7 - Grassroots racing at its best returns to Marana on Saturdayc October 27c at the Gladden Farms 10K an http://t.co/czsOxWoQ
+OldPos 3567 | 8 Photo: Fab find! Jason Wu satin scarlet clutch at Off 5th! Whoop whoop! (Taken with Instagram) http://t.co/ZUp3WZK7
+OldPos 1448 | 9 Get excited for The Local Q Birthday Bash on Friday night by checking out the band profile of Trifecta here: http://t.co/r1z0FNMv
+OldPos 178 | 10 LIPA 4:19 http://t.co/tAjnLOaV beat the bad weather join us for our taster sessions wed and thurs at Joseph wright centre
+OldPos 32 | 11 2NE1 rocks Okinawa with stylish airport fashion: On 2012 October 28thc http://t.co/QBdMM5RK
+OldPos 341 | 12 Its about that time! Filthy Rich presents...... SATURDAY AUG 18. Email me for more info or check out our fac http://t.co/GwDPHQD9
+OldPos 124 | 13 Randy Lynch at Oscars this Friday night with his band BLACK LIST. http://t.co/Jf1DSwnG
+OldPos 130 | 14 HF @cumbedance for pay what you wish week! Oct 29- Nov 4 http://t.co/LWruUAbu
+OldPos 1351 | 15 Saturday is the last day of Summer Streets in NYC.. Enjoy car-free streets  between Brooklyn Bridge and Central Park! http://t.co/T6KIA4e
+OldPos 265 | 16 Coming to DC: Open Acting Workshop with Tom Todoroff on Nov 14th #constantcontact http://t.co/ZeKC38jm
+OldPos 325 | 17 Going to 3MPH: a Womans Walk Around the ... at Chautauqua Community House on Monc Nov 12 http://t.co/rsOCU9z7
+OldPos 35 | 18 Hear keynote speaker Doug Wead this Saturdayc June 16th at E2 the Event. Dont miss it! http://t.co/MXv5onSt
+OldPos 61 | 19 @missDCdarling We've got Leonardo da Vinci: Painter at the Court of Milan coming up in November,how does that sound? http://t.co/U0dHRjy
+OldPos 738 | 20 More information on the new Comme des Garcons fragrance being launched at CHURCH next Wednesday (17th of August): http://t.co/1WZQnE6
+
+New positions of full vectors 20 closest
+OldPos 8 NewPos 3
+OldPos 15 NewPos 6
+OldPos 13 NewPos 27
+OldPos 3 NewPos 69
+OldPos 12 NewPos 72
+OldPos 9 NewPos 88
+OldPos 11 NewPos 110
+OldPos 10 NewPos 291
+OldPos 6 NewPos 332
+OldPos 2 NewPos 336
+OldPos 16 NewPos 380
+OldPos 18 NewPos 528
+OldPos 1 NewPos 586
+OldPos 4 NewPos 855
+OldPos 7 NewPos 943
+OldPos 14 NewPos 977
+OldPos 17 NewPos 1290
+OldPos 5 NewPos 1349
+OldPos 19 NewPos 1380
+

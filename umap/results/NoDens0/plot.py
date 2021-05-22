@@ -1,3 +1,4 @@
+from numpy import arange
 import os
 import sys
 import struct
@@ -23,11 +24,18 @@ def rgb_heatmap(minimum, maximum, value):
     b /= 255
     return r, g, b
 
+font = {'family' : 'normal',
+        'weight' : 'bold',
+        'size'   : 24}
+plt.rc('font', **font)
 for filename in os.listdir(os.getcwd()):
 	if filename[-1] == 'y':
 		continue
 	try:
 		with open(filename + '/results.dat', 'rb') as file:
+			print(filename)
+			if ("News" in filename) or ("Labeled" in filename):
+				continue
 			n = struct.unpack('<i', file.read(4))[0]
 			d = struct.unpack('<i', file.read(4))[0]
 			ldata = np.zeros((n, d), dtype=np.float64)
@@ -44,7 +52,8 @@ for filename in os.listdir(os.getcwd()):
 				pa = (aux[0] / 255, aux[1] / 255, aux[2] / 255)
 				colors.append(pa);
 			cmap = mpl.colors.ListedColormap(colors)
-			norm = mpl.colors.Normalize(vmin=0, vmax=n)
+			bounds = [i for i in range(1, 22)]
+			norm = mpl.colors.BoundaryNorm(bounds, cmap.N)
 			distortions = []
 			#for k in [12, 17]:
 				#clustering = KMeans(n_clusters=k, init='random', max_iter=1000).fit(hdata)
@@ -52,32 +61,41 @@ for filename in os.listdir(os.getcwd()):
 				#distortions.append(clustering.inertia_)
 			#	print(clustering.labels_)
 			colors = []
+			'''
 			try:
 				with open(filename + "/olabes.bin", 'rb') as file:
 					for i in range(n):
 						aux = struct.unpack('<d', file.read(8))[0]
-						colors.append(rgb_heatmap(0, 1, aux))
+						aux *= 20
+						r, g, b = acolors[int(aux)]
+						colors.append((r / 255, g / 255, b / 255))
 						#aux = acolors[clustering.labels_[i]]
 						#pa = (aux[0] / 255, aux[1] / 255, aux[2] / 255)
 						#colors.append(pa)
 			except:
-				with open(filename + "/olabels.bin", 'rb') as file:
-					for i in range(n):
-						aux = struct.unpack('<d', file.read(8))[0]
-						colors.append(rgb_heatmap(0, 1, aux))
-						#aux = acolors[clustering.labels_[i]]
-						#pa = (aux[0] / 255, aux[1] / 255, aux[2] / 255)
-						#colors.append(pa)
+				try:
+					with open(filename + "/olabels.bin", 'rb') as file:
+						for i in range(n):
+							aux = struct.unpack('<d', file.read(8))[0]
+							aux *= 20
+							r, g, b = acolors[int(aux)]
+							colors.append((r / 255, g / 255, b / 255))
+							#aux = acolors[clustering.labels_[i]]
+							#pa = (aux[0] / 255, aux[1] / 255, aux[2] / 255)
+							#colors.append(pa)
+				except:
+					continue
+			'''
 			x = []
 			y = []
 			for i in range(n):
 				x.append(ldata[i][0])
 				y.append(ldata[i][1])
 			plt.figure(figsize=(18.0, 15.0))
-			plt.scatter(x, y, c=colors, s=10, alpha=0.7)
-			plt.colorbar(mpl.cm.ScalarMappable(norm=norm, cmap=cmap))
-			plt.savefig(filename + "/oplot.png", dpi=200)
-			#plt.show()
+			#plt.scatter(x, y, c=colors, s=10, alpha=0.7)
+			plt.scatter(x, y, s=10, alpha=0.7)
+			#plt.colorbar(mpl.cm.ScalarMappable(norm=norm, cmap=cmap), boundaries=arange(0.5,21.5,1), ticks=bounds)
+			plt.savefig(filename + "/oplot.png", dpi=100)
 			plt.clf()
 	except Exception as e:
 		print(e)
